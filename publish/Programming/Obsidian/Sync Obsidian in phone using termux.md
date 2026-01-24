@@ -129,9 +129,23 @@ pkg install cronie termux-services
 ```
 exit - write on termux
 ```
-sv-enable crond
-crontab -e 
 ```
-* * * * * bash /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+sv-enable crond
+sv status crond - check if its working
+sv up crond
+check if these paths are working
+ls /data/data/com.termux/files/usr/bin/bash
+ls /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+
+chmod +x /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+
+crontab -e
+
+
+
+* * * * * /data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh >> /data/data/com.termux/files/home/cron-sync.log 2>&1
+
+on app settings, set termux to unresttricted battery
+allow background activity
 ```
 
