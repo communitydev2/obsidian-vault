@@ -118,4 +118,10 @@ cat ~/.git-credentials
 
 if you see a line, it worked
 
+then paste 
+
+/data/data/com.termux/files/usr/bin/bash \
+/data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+
+
 ```
