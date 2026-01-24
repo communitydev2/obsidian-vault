@@ -1,0 +1,1 @@
+ctrl p - git push and 
