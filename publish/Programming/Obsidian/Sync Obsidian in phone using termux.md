@@ -125,3 +125,13 @@ then paste
 
 
 ```
+pkg install cronie termux-services
+```
+exit - write on termux
+```
+sv-enable crond
+crontab -e 
+```
+* * * * * bash /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+```
+
