@@ -37,7 +37,7 @@ There are components of Docker, and those are, volumes, images and containers.
 
   
 
-They all deserve their own video, so I’ll be splitting them into 4 different videos. 
+They all deserve their own video, so I’ll be splitting them into 3 different videos. 
 
   
 
