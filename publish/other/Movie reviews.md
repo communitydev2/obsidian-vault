@@ -1,5 +1,7 @@
 Swingers - nice movie there's a polarity between alpha and beta male. "you're money, baby" "
 
+her butt only flies
+
 Waiting - didn't like it very frat party movie 
 
 office space - nice! the guy gets all manly for about 10 mins of the movie
