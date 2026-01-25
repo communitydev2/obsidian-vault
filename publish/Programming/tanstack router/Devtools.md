@@ -31,6 +31,19 @@ function App() {
 }
 ```
 
+Set up float mode in root
 
+```
+import { TanStackRouterDevtools } from '@tanstack/react-router-devtools'
+
+function App() {
+  return (
+    <>
+      <Router />
+      <TanStackRouterDevtools initialIsOpen={false} />
+    </>
+  )
+}
+```
 
 #tanstackRouter 
