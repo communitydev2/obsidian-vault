@@ -1,4 +1,4 @@
-Swingers - nice movie there's a polarity between alpha and beta male
+Swingers - nice movie there's a polarity between alpha and beta male. "you're money, baby" "
 
 Waiting - didn't like it very frat party movie 
 
