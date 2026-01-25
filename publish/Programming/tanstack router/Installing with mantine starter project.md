@@ -18,4 +18,24 @@ yarn add @tanstack/react-router
 
 ```
 
+Set module declaration for autocomplete in app.tsx
+
+```
+// src/app.tsx
+declare module '@tanstack/react-router' {
+  interface Register {
+    router: typeof router
+  }
+}
+```
+
+
+
+
+
+
+
+
+
+
 #tanstackRouter
