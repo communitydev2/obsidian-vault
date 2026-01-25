@@ -138,18 +138,40 @@ src/App.tsx:9:20 - error TS2552: Cannot find name 'router'. Did you mean 'Router
 9     router: typeof router
 
 ```
+Solution 
+
+```
+import { Router } from "@tanstack/react-router";
+
+
+declare module '@tanstack/react-router' {
+
+  interface Register {
+
+    router: typeof Router
+
+  }
+
+}
+
+```
 
 
 
 
 
-
-   ```               
+```               
 
 src/main.tsx:3:8 - error TS2440: Import declaration conflicts with local declaration of 'App'.
 
 3 import App from "./App.tsx";
          ~~~
+```
+
+Solution  - Delete this line
+
+
+```
 
 src/main.tsx:4:1 - error TS6133: 'TanStackRouterDevtoolsInProd' is declared but its value is never read.
 
