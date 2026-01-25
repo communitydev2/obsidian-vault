@@ -1,1 +1,1 @@
-#generic #southampton #relx #swe
+#genericMessage #southampton #relx #swe
