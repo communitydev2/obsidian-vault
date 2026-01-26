@@ -6,7 +6,7 @@
 
   
 
-# What are Images in docker
+# video 2 - What are Images in docker
 
 
 Images are packages built by the developer that contain all the dependencies,  libraries, tools and files that the containers require to run your finished application.
@@ -21,18 +21,20 @@ To make an image in docker
 
 https://www.youtube.com/watch?v=SnSH8Ht3MIc
 
-- Create a Dockerfile
+- Create a Dockerfile in your repo
 
 ```
 FROM nginx:1.28.1-alpine
 
 ```
 
+run your repo in the terminal command by pressing the right click open in terminal or copy path , and paste in terminal
+
 # What is Volumes in docker
 
   
 
-# What is Docker
+# video 1 What is Docker
 
 Docker allows you to share and ship applications between computers.
 
