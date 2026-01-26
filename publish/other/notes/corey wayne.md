@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=0-gUsEIJHZ8
 - women have to know that they push you too far and they walk away. 
 - you're going to treat a woman like a celebrity she's going to treat you like a fan.
 - if you feel losing someone, you will 
-- 
+- having "conversations" is not good, as being butthurt and in your feelings 
 
 # my buttons
 
