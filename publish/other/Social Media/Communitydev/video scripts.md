@@ -6,8 +6,10 @@
 
   
 
-# What is Images in docker
+# What are Images in docker
 
+
+Images are packages built by the developer that contain all the dependencies and necessary 
   
 
 # What is Volumes in docker
