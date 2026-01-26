@@ -8,7 +8,10 @@ https://www.youtube.com/watch?v=0-gUsEIJHZ8
 - women dont care about your feelings, they feel 
 
 # my buttons
+#track
 
+26/1/26
+- wehn she told me : make your own tea, I should have acted cool nad say: but I prefer when it's made from this beautiful lady here. And if she pressed on, just laugh and continue doing your thing.
 - 19/1/26 - came again to bust my balls . 
 since I told her about the book I'm reading, she started to be pushy. I told her to stop it cause I was going to go. At that point, I should have gone to the other house, instead I went to the lounge and she kept being bitchy. I left my center and she felt it. After that I was upset and started complaining about it. I think next time I gotta own up to her, and just have a conversation without being afraid. 
 even if I'm pissed off and horny, I should keep it to myself. 
