@@ -16,4 +16,4 @@ lean out on the limitations.
 
 pay attention to what the bigger influences share and what they do not share. 
 
-keep making gifts for people that care about you. 
+keep making gifts for people that care about you. you'll make amazing work that way. 
