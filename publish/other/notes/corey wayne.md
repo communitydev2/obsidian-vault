@@ -5,6 +5,7 @@ https://www.youtube.com/watch?v=0-gUsEIJHZ8
 - if you feel losing someone, you will 
 - having "conversations" is not good, as being butthurt and in your feelings doesn't help
 - assuming the worst turns a woman off. 
+- women dont care
 
 # my buttons
 
