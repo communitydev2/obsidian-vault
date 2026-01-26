@@ -128,6 +128,84 @@ function About() {
 ```
 
 
+src/main.tsx
+
+```
+import { StrictMode } from 'react'
+
+import ReactDOM from 'react-dom/client'
+
+import { RouterProvider, createRouter } from '@tanstack/react-router'
+
+import { TanStackRouterDevtoolsInProd } from '@tanstack/react-router-devtools'
+
+import { TanStackRouterDevtools } from '@tanstack/react-router-devtools'
+
+  
+
+if(process.env.NODE_ENV === 'production'){
+
+  <TanStackRouterDevtoolsInProd/>
+
+}
+
+  
+  
+
+// Import the generated route tree
+
+import { routeTree } from './routeTree.gen'
+
+  
+
+// Create a new router instance
+
+const router = createRouter({ routeTree })
+
+  
+
+// Register the router instance for type safety
+
+declare module '@tanstack/react-router' {
+
+  interface Register {
+
+    Router: typeof router
+
+  }
+
+}
+
+  
+
+// Render the app
+
+const rootElement = document.getElementById('root')!
+
+if (!rootElement.innerHTML) {
+
+  const root = ReactDOM.createRoot(rootElement)
+
+  root.render(
+
+    <StrictMode>
+
+      <RouterProvider router={router} />
+
+  
+
+            <TanStackRouterDevtools />
+
+    </StrictMode>,
+
+  )
+
+}
+
+
+
+```
+
 I get the following errors in Netlify Build
 
 
@@ -273,22 +351,6 @@ tsr generate
 
 
 
-
-
-```
-
-
-src/routes/index.tsx:3:38 - error TS2345: Argument of type '"/"' is not assignable to parameter of type 'undefined'.      
-
-3 export const Route = createFileRoute('/')({
-                                       ~~~
-
-src/routes/main.tsx:6:27 - error TS2307: Cannot find module './routeTree.gen' or its corresponding type declarations.     
-
-6 import { routeTree } from './routeTree.gen'
-                            ~~~~~~~~~~~~~~~~~
-
-```
 
 
 #tanstackRouter 
