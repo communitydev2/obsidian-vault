@@ -323,7 +323,7 @@ I have encountered the same problem. The issue is you missing routeTree.gen.ts f
 
 - Download the tanstack router cli:
 ```
-yarn add javascript
+yarn add
 @tanstack/router-cli
 
 ```
