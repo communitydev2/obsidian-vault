@@ -159,7 +159,6 @@ declare module '@tanstack/react-router' {
 
 
 
-
 ```               
 
 src/main.tsx:3:8 - error TS2440: Import declaration conflicts with local declaration of 'App'.
@@ -175,10 +174,32 @@ Solution  - Delete this line
 
 src/main.tsx:4:1 - error TS6133: 'TanStackRouterDevtoolsInProd' is declared but its value is never read.
 
+```
+# Solution
+
+```
+ yarn add @types/node    
+ 
+ 
+ if(process.env.NODE_ENV === 'production'){
+
+  <TanStackRouterDevtoolsInProd/>
+
+}
+ 
+```
+
+
+
+```
+
+
+
 4 import { TanStackRouterDevtoolsInProd } from '@tanstack/react-router-devtools'
   
 
 src/main.tsx:7:19 - error TS2304: Cannot find name 'createRootRoute'.
+
 
 7 const rootRoute = createRootRoute({
                     ~~~~~~~~~~~~~~~
@@ -186,27 +207,76 @@ src/main.tsx:7:19 - error TS2304: Cannot find name 'createRootRoute'.
 src/main.tsx:10:8 - error TS2304: Cannot find name 'Outlet'. 
 
 10       <Outlet />
-          ~~~~~~
 
-src/main.tsx:11:8 - error TS2552: Cannot find name 'TanStackRouterDevtools'. Did you mean 'TanStackRouterDevtoolsInProd'? 
+```
 
-11       <TanStackRouterDevtools />
-          ~~~~~~~~~~~~~~~~~~~~~~
 
-src/main.tsx:20:16 - error TS2304: Cannot find name 'createRouter'.
+# Solution
 
-20 const router = createRouter({
-                  ~~~~~~~~~~~~
+```
+imports for their names
+```
 
-src/main.tsx:25:11 - error TS2304: Cannot find name 'RouterProvider'.
 
-25   return <RouterProvider router={router} />
-             ~~~~~~~~~~~~~~
+
+
+```
 
 src/routes/about.tsx:3:38 - error TS2345: Argument of type '"/about"' is not assignable to parameter of type 'undefined'. 
 
 3 export const Route = createFileRoute('/about')({
                                        ~~~~~~~~
+
+```
+
+# Solution (generate routeTree.gen.ts)
+
+```
+
+
+follow the rest of the steps in here 
+
+https://stackoverflow.com/questions/78830985/tanstack-react-router-argument-of-type-string-is-not-assignable-to-parameter
+
+```
+
+
+I have encountered the same problem. The issue is you missing routeTree.gen.ts file under src/. Although it should be auto generated, according to the docs it does not happen in some instances. The steps to solving this issue are:
+
+- Download the tanstack router cli:
+```
+yarn add javascript
+@tanstack/router-cli
+
+```
+    
+- Create tsr.config.json in your project root, example:
+```
+
+    `{       "$schema": "https://cdn.jsdelivr.net/npm/@tanstack/router-cli/schema.json",       "routesDirectory": "./src/routes",       "generatedRouteTree": "./src/routeTree.gen.ts",       "routeFileIgnorePattern": "\\.(test|spec)\\.[jt]sx?$"     }`
+```
+```
+- Create a script in package.json and run it:
+
+    `"scripts": {         "generate:routes": "tsr generate"       }`
+```
+
+This will create the required file according to your routes directory.
+
+
+
+then do 
+
+```
+tsr generate
+```
+
+
+
+
+
+```
+
 
 src/routes/index.tsx:3:38 - error TS2345: Argument of type '"/"' is not assignable to parameter of type 'undefined'.      
 
