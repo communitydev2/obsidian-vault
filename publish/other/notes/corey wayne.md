@@ -2,6 +2,7 @@ https://www.youtube.com/watch?v=0-gUsEIJHZ8
 - you can't show that you're upset when she does something you don't want to. 
 - women have to know that they push you too far and they walk away. 
 - you're going to treat a woman like a celebrity she's going to treat you like a fan.
+- if you feel losing someone, 
 
 # my buttons
 
