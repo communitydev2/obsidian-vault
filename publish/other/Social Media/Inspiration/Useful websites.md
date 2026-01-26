@@ -1,0 +1,1 @@
+https://webapp.wisestamp.com/v1/onboarding# - building custom email footers
