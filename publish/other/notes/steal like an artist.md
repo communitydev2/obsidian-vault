@@ -19,3 +19,5 @@ pay attention to what the bigger influences share and what they do not share.
 keep making gifts for people that care about you. you'll make amazing work that way. 
 
 slow down. look at what's being made. when you look slowly, you start to learn things. 
+
+art is supposed to make us feel better. if it's ruining anyone's life it's not worth it. 
