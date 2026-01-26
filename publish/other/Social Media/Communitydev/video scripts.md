@@ -19,7 +19,7 @@ To make an image in docker
 
 #current
 
-https://www.youtube.com/watch?v=SnSH8Ht3MIc
+https://www.youtube.com/watch?v=SnSH8Ht3MIc - 8:58
 
 - Create a Dockerfile in your repo
 
@@ -29,6 +29,10 @@ FROM nginx:1.28.1-alpine
 ```
 
 run your repo in the terminal command by pressing the right click open in terminal or copy path , and paste in terminal
+
+```
+docker build . - currently doesn't work cause I had docker off
+```
 
 # What is Volumes in docker
 
