@@ -34,6 +34,25 @@ run your repo in the terminal command by pressing the right click open in termin
 docker build . - currently doesn't work cause I had docker off
 ```
 
+you can check with 
+
+```
+docker images
+```
+
+if you want to add a tag to your docker image do
+
+```
+docker build -t tagname .
+docker build -t tagname 
+```
+
+to delete an image, do 
+
+```
+docker rmi containerid
+```
+
 # What is Volumes in docker
 
   
