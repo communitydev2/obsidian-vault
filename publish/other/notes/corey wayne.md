@@ -1,4 +1,8 @@
 
+https://www.youtube.com/watch?v=3KNoF0_CGRc
+Being funny
+- 
+
 https://www.youtube.com/watch?v=4ie6395nDKc
 - Women know when they're being a bitch, and if you're inperturbed, they will apologise for their behaviour later IF your reply with humour
 - men who understand women do not argue with them
