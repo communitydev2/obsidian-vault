@@ -8,4 +8,4 @@ Minecraft notch
 undertale
 don't hardcode your strings, make them editable from a single file for localization
 don't gatekeep your game assets 
-option to choosemake your ui console 
+option to choose your ui game con platform console 
