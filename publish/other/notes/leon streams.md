@@ -1,11 +1,17 @@
 
-28/1/26
+28/1/26 - not finished
 - madeleine posted new thing about networking
 - 9:30 - how to do freelancing
 	- tell everyone you know you're doing freelancing
 	- have something they can share things with
 	- being local is your superpower
 - 14:41 - you're not selling a website, you're focusing on their pain points
+- 31:00 - don't sell on why you're a good fit, show them
+	- tell them why you love what the company is all about
+	- how can you do what they need from day one
+	- you need an action ready person
+	- when your toilet is flowing no one needs an aspiring plumber
+- 34:51
 
 
 20/1/26 - 
