@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/79746968/app-not-fetching-any-data-from-supabase-only-after-the-session-expires-hours-la
