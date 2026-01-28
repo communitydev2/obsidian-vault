@@ -8,4 +8,7 @@ isolating features
 
 keep core system and features out of core system
 
-he creatd a store locator 
+he created a store locator
+
+
+
