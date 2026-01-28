@@ -1,3 +1,8 @@
+
+https://youtu.be/tJQr2XN8lkE?si=JCaM1jAcXRkCRkQH
+- opinion openers are the best openers
+
+
 https://www.youtube.com/watch?v=qZ2BY37FouU
 - how does the captain of the football team do? 
 - if a woman walks by, talk to her. 
