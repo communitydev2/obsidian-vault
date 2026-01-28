@@ -1,9 +1,10 @@
 https://www.youtube.com/watch?v=qZ2BY37FouU
 - how does the captain of the football team do? 
-if a woman walks by, talk to her. 
-a successful guy focuses on themselves and let things happen naturally
-they have to work to get you
-she's hoping that she is called to your group and gets to know you 
+- if a woman walks by, talk to her. 
+- a successful guy focuses on themselves and let things happen naturally
+- they have to work to get you
+- she's hoping that she is called to your group and gets to know you 
+- if you say you need, you lack something. 
 
 https://www.youtube.com/watch?v=3KNoF0_CGRc
 Being funny
