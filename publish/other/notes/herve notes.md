@@ -4,3 +4,5 @@ he talks about an example where he made a website, but they no longer und stood 
 
 solutions :headless 
 
+isolating features 
+
