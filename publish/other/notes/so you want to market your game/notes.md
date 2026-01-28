@@ -6,3 +6,4 @@ code live
 show bakery witch in paris
 Minecraft notch
 undertale
+don't hardcode your strings, make them editable from a single file for localization
