@@ -1,1 +1,4 @@
 
+kara
+
+ikenai
