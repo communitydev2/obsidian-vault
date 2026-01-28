@@ -1,2 +1,12 @@
 Here are the reasons why I am the best fit for this role:
-- I have 5 years of video editing exepeinece 
+- I have 5 years of video editing experience
+- I've been building several solutions for several creative challenges for Adobe After Effects, Photoshop, Illustrator and Premiere. 
+	- In after Effects
+		- A panel that connects properties from layers into a top level null that allows you to control and animate your desired properties from a single layer rather than having to animate on separate layers, taking much longer.
+		- Stretch a selected layer (or all layers) by converting to Time Remap and adjust their duration to fit the composition's duration
+		- Connect several layers to a single null layer to move and scale all at once
+		- separate dimensions on all selected layers
+		- separate Masks from selected layers
+		- Apply a desired expression (like loopOut()) to several layers at once.
+		- Emulate the shine effect on a text
+		- generate random paths for a graphic to be animated quickly without many intervention
