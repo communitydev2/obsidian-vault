@@ -10,5 +10,5 @@ keep core system and features out of core system
 
 he created a store locator
 
-because his widget is mounted, it is bit crawl able 
+because his widget is mounted, it is not crawlabke
 
