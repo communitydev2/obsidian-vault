@@ -19,7 +19,7 @@ To make an image in docker
 
 #current
 
-https://www.youtube.com/watch?v=SnSH8Ht3MIc - 8:58
+https://www.youtube.com/watch?v=SnSH8Ht3MIc - 13:13
 
 - Create a Dockerfile in your repo
 
@@ -44,15 +44,24 @@ if you want to add a tag to your docker image do
 
 ```
 docker build -t tagname .
-docker build -t tagname 
+
 ```
 
 to delete an image, do 
 
 ```
-docker rmi containerid
+docker rmi imageid
 ```
 
+```
+docker run -d -p 80:80 imageID - builds container
+```
+
+```
+docker ps - list all running containers
+docker stop containerName
+docker rm containerName
+```
 # What is Volumes in docker
 
   
