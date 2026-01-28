@@ -10,3 +10,4 @@ Here are the reasons why I am the best fit for this role:
 		- Apply a desired expression (like loopOut()) to several layers at once.
 		- Emulate the shine effect on a text
 		- generate random paths for a graphic to be animated quickly without many intervention
+		- A script that allowed me to 
