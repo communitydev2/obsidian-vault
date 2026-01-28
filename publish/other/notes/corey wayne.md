@@ -1,6 +1,9 @@
 
 https://youtu.be/tJQr2XN8lkE?si=JCaM1jAcXRkCRkQH
 - opinion openers are the best openers
+- never break eye contact with a woman
+- if you see a woman with a lot of bags, asj
+- 
 
 
 https://www.youtube.com/watch?v=qZ2BY37FouU
