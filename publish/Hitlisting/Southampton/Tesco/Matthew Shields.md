@@ -1,3 +1,3 @@
 #customMessage #southampton #tesco
 
-#swe  #notResponded
+#swe  #respondedToCustomMessage 
