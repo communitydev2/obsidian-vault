@@ -6,3 +6,4 @@ solutions :headless
 
 isolating features 
 
+keep core system and features out of core system
