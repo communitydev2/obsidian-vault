@@ -1,5 +1,8 @@
 
 # Its a wonderful life
+Remember, no man who has friends is a failure
+
+This movie was beautiful, shows how he stuck to his values even when things went rough, and he had a wife who support
 
 
 
