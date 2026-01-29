@@ -16,7 +16,9 @@ supabase url
 jwt token from session as bearer token for auth
 on headers, used publishable key
 
-got  "message": "No API key found in request",
+# got  "message": "No API key found in request",
 
 https://github.com/orgs/supabase/discussions/16241
 
+I tried publishable key as both auth and api key
+I also used the jwt token as both audh and api key, same error
