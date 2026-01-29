@@ -9,3 +9,14 @@ It's possible to see info from the user when you copy the session code into jwt.
 RESTED
 
 You can see all of the methods to fetch in API Docs - select your account
+
+Tried to sign in in Postman using
+
+supabase url
+jwt token from session as bearer token for auth
+on headers, used publishable key
+
+got  "message": "No API key found in request",
+
+https://github.com/orgs/supabase/discussions/16241
+
