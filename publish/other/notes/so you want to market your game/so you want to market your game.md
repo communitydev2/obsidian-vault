@@ -12,11 +12,11 @@ great examples is undertale , he was very active online, sharing his projects , 
 
 show Sunny lab bakery witch in paris, they've been sharing their progress since day one, from when it was only a concept, also created a kickstarter, got their game signed with a publisher, and 4 years later, the game is releasing this year
 
-
+among us , only got famous 2 years after launch
 
 Minecraft notch
 
-don't hardcode your strings, make them editable from a single file for localization
+
 
 be patient. 
 
@@ -41,6 +41,7 @@ Let's say you have signed your game with a publisher, you will work with the mar
 turn ui off
 option to choose the platform for your visible game controller ui or separate it from your original ui, so we don't have to manually edit it out. 
 turn audio off
+don't hardcode your strings, make them editable from a single file for localization
 provide easy teleports to different sections of your game 
 ability to spawn the actors of your game
 access different states of your boss
