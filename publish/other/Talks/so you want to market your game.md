@@ -1,3 +1,5 @@
+# Alternative title : Hitchhiker's guide to game dev marketing
+
 
 I worked as a video editor and game capture artist on these games. I did a few trailers for some of these games and captured game for them, so if I didn't do the trailer for one of the titles, some of the footage you see on the final trailers it was me playing the game behind the screen.
 
