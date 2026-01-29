@@ -6,17 +6,21 @@ I've worked with several developers  and have assembled a list of do's and don't
 Step 1 - Get your game noticed
 share your progress
 Spending 12h on development? take some time off from development, share your progress online, look for communities who you think would love playing what you're making.
+code live
 
+great examples is undertale , he was very active online, sharing his projects , and then had a successful kickstarted, and the rest was history
+
+show bakery witch in paris
 
 turn ui off
 option to choose the platform for your visible game controller ui or separate it from your original ui, so we don't have to manually edit it out. 
 turn audio off
 provide easy teleports to different sections of your game 
 be open to suggestions 
-code live
-show bakery witch in paris
+
+
 Minecraft notch
-undertale
+
 don't hardcode your strings, make them editable from a single file for localization
 don't gatekeep your game assets 
 
