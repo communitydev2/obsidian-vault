@@ -11,3 +11,6 @@ Know what the mandates are
 question the goal of the asset you're making. Their request might not make sense
 
 use their language, try and simplify your language to clients
+
+create a blog
+deliver value
