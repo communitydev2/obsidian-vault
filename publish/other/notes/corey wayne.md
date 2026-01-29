@@ -39,6 +39,10 @@ https://www.youtube.com/watch?v=0-gUsEIJHZ8
 # my buttons
 #track
 
+28/1/26
+- when I walk into the meetup, and the lady recognizes the other guy, not me
+- susie saying something completely stupid, like you've shown me this video to tell me about the 
+
 26/1/26
 - wehn she told me : make your own tea, I should have acted cool nad say: but I prefer when it's made from this beautiful lady here. And if she pressed on, just laugh and continue doing your thing.
 - 19/1/26 - came again to bust my balls . 
