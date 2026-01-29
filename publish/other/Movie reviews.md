@@ -2,6 +2,7 @@
 # Its a wonderful life
 
 
+
 # Swingers 
 - nice movie there's a polarity between alpha and beta male. "you're money, baby" "
 
