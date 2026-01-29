@@ -22,3 +22,14 @@ https://github.com/orgs/supabase/discussions/16241
 
 I tried publishable key as both auth and api key
 I also used the jwt token as both audh and api key, same error
+
+### Solution 
+
+- You can see all of the methods to fetch in API Docs - select the table you want
+- press bash instead of javascript so you can test your routes through postman
+- GET 
+- Ensure you have SELECT policy set
+- on Headers, set 
+	- apikey - publishable key
+	- authorization - jwt session after you've signed in to your account
+	- make sure apikey is written like that, otherwise it won't work
