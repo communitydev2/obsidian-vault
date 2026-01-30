@@ -1,3 +1,8 @@
+
+# twitch intro
+
+Hi all. If you want to see tools, websites, software that a community needs, you've come to the right place! I am creating a website for people to trade Pokemon cards in Pokemon Pocket at the moment. I'll see you live,
+
 # What is docker build
 
   
