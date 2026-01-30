@@ -48,3 +48,5 @@ auth.email()
 ## policy examples:
 right(auth.email(),12) = '@supabase.io ' Ensures only emails with @supabase.io sign in
 
+https://www.youtube.com/watch?v=Ow_Uzedfohk
+
