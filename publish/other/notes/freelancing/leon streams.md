@@ -1,4 +1,15 @@
 
+30/1/26
+
+2024 - hibernated my origina llinked in and created a different one just for software engineer
+cut to last year where I got laid off from my current job as a video editor. 
+brought the old linkedin back to get a job to keep lights on till I am able to land a job as a swe
+its been 4 months and I'm not getting much success on both ends
+it#s come to the point I'm going to network events and I say I'm working and react , part of my 100h project, and when it gets to the part where we add each other on linked in they go
+oh. you're open to work
+oh, you were saying you work with react but you're a video editor
+what would you suggest I do ? do I keep this linked in , change back?
+
 28/1/26 - not finished
 - madeleine posted new thing about networking
 - 9:30 - how to do freelancing
