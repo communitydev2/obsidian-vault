@@ -24,9 +24,46 @@ https://www.youtube.com/watch?v=SnSH8Ht3MIc - 13:13
 - Create a Dockerfile in your repo
 
 ```
-FROM nginx:1.28.1-alpine
+// NGINX
+FROM nginx:1.10.1-alpine
+
+COPY project/index.html /usr/share/nginx/html
+
+# CMD ["nginx","-g","daemon off;"]
 
 ```
+
+```
+// node
+`# Use the latest LTS version of Node.js`
+
+`FROM node:18-alpine`
+
+`# Set the working directory inside the container`
+
+`WORKDIR /app`
+
+`# Copy package.json and package-lock.json`
+
+`COPY package*.json ./`
+
+`# Install dependencies`
+
+`RUN npm install`
+
+`# Copy the rest of your application files`
+
+`COPY . .`
+
+`# Expose the port your app runs on`
+
+`EXPOSE 3000`
+
+`# Define the command to run your app`
+
+`CMD ["npm", "start"]`
+```
+
 
 run your repo in the terminal command by pressing the right click open in terminal or copy path , and paste in terminal
 
@@ -61,7 +98,14 @@ docker run -d -p 80:80 imageID - builds container
 docker ps - list all running containers
 docker stop containerName
 docker rm containerName
+docker exec -it containerid /bin/sh - allows you to code inside the container in nginx
 ```
+
+```
+**/filename in dockerfile allows you to ignore path anywhere in file
+```
+
+
 # What is Volumes in docker
 
   
