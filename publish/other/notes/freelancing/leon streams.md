@@ -1,10 +1,11 @@
 
 30/1/26
 - i use AI to tweak my resume and cover letters for specific roles....i dont straight up copy and paste. i then tweak the AI's response to be more like me/true.
-- 
+- 29:00
+	- Do it like work hours, work till 5pm, then stop panicking, and relax.
 
 
-2024 - hibernated my origina llinked in and created a different one just for software engineer
+2024 - hibernated my original llinked in and created a different one just for software engineer
 cut to last year where I got laid off from my current job as a video editor. 
 brought the old linkedin back to get a job to keep lights on till I am able to land a job as a swe
 its been 4 months and I'm not getting much success on both ends
