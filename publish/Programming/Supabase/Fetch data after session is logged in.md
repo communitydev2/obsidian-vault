@@ -50,3 +50,8 @@ right(auth.email(),12) = '@supabase.io ' Ensures only emails with @supabase.io s
 
 https://www.youtube.com/watch?v=Ow_Uzedfohk
 
+auth.uid() = user_id
+### update clause
+
+https://neon.com/postgresql/postgresql-tutorial/postgresql-update
+
