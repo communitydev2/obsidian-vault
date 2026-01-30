@@ -1,4 +1,10 @@
 
+tailor of panama
+
+part of safe
+he's opening a safe whilst flkrting
+
+
 # Its a wonderful life
 Remember, no man who has friends is a failure
 
