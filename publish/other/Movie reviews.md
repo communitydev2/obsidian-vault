@@ -1,12 +1,13 @@
 
-tailor of panama
+# tailor of panama
 
 part of safe
 he's opening a safe whilst flirting with the female lead. 
 he's messing with the lock as he's hinting that the lock (her couscous ) was locked in a warehouse. 
 she takes him on the seduction and asks him 
 are you sure it was locked in the first place? 
-he takes thr chance to ask her out, she 
+he takes thr chance to ask her out, she refuses
+then he replies :the safe was open, just tight from lack of use. 
 
 
 # Its a wonderful life
