@@ -1,3 +1,3 @@
-#genericMessage  #notResponded 
+#genericMessage  #respondedToGenericMessage
 
 #ukpostbox #swe 
