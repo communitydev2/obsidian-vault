@@ -38,3 +38,13 @@ https://supabase.com/docs/guides/troubleshooting/why-is-my-select-returning-an-e
 
 The issue is that I have UPDATE and INSERT policies, and they were clashing
 Not having update wont allow me to change the username, meaning I have to make these two policies
+
+# three default supabase functions
+
+### auth.uid() 
+auth.role()
+auth.email()
+
+## policy examples:
+right(auth.email(),12) = '@supabase.io ' Ensures only emails with @supabase.io sign in
+
