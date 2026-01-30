@@ -35,3 +35,6 @@ I also used the jwt token as both audh and api key, same error
 	- make sure apikey is written like that, otherwise it won't work
 - I'm supposed to get the whole table, need to search more
 https://supabase.com/docs/guides/troubleshooting/why-is-my-select-returning-an-empty-data-array-and-i-have-data-in-the-table-xvOPgx
+
+The issue is that I have UPDATE and INSERT policies, and they were clashing
+Not having update wont allow me to change the username, meaning I have to make these two policies
