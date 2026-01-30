@@ -2,7 +2,10 @@
 tailor of panama
 
 part of safe
-he's opening a safe whilst flkrting
+he's opening a safe whilst flirting with the female lead. 
+he's messing with the lock as he's hinting that the lock (her couscous ) was locked in a warehouse. 
+she takes him on the seduction and asks him 
+are you sure it was locked in the first place 
 
 
 # Its a wonderful life
