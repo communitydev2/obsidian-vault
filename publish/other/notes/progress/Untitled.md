@@ -12,3 +12,4 @@ wants the live a healthy life, eating healthy, work out, no drugs or smoking (dr
 wants a family 
 wants a 
 likes to laugh 
+early riser
