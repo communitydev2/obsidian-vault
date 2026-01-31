@@ -8,4 +8,6 @@ she'll probably say the go, go, she'll come back, but do you want to come back?
 integrity 
 says what they say they are going to do
 open to new experiences
-wants the live a healthy life, eating healt
+wants the live a healthy life, eating healthy, work out, no drugs or smoking (drink ok, but no getting drunk )
+wants a family 
+wants a 
