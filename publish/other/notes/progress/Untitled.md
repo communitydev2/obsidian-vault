@@ -11,3 +11,4 @@ open to new experiences
 wants the live a healthy life, eating healthy, work out, no drugs or smoking (drink ok, but no getting drunk )
 wants a family 
 wants a 
+likes to laugh 
