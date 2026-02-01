@@ -13,3 +13,18 @@ wants a family
 wants a 
 likes to laugh 
 early riser
+
+
+
+| 1/2/26                                                                                                            |                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| What worked                                                                                                       | What I could improve                                                                           |
+| when she said, your stream is more important, I responded - you're more important, and she became more interested | She kept pushing me with the "im not doing your sandwiches, and I showed weakness on that one" |
+| she said in her culture people didn't exhibit signs of weakness, so hugging her in the morning really helped      |                                                                                                |
+
+
+| Good things | Bad things                                            |
+| ----------- | ----------------------------------------------------- |
+|             | No integrity:                                         |
+|             | 1/2/26 - told me she would cut the nails , and didn't |
+
