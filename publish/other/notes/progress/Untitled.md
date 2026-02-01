@@ -16,11 +16,12 @@ early riser
 
 
 
-| 1/2/26                                                                                                            |                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| What worked                                                                                                       | What I could improve                                                                           |
-| when she said, your stream is more important, I responded - you're more important, and she became more interested | She kept pushing me with the "im not doing your sandwiches, and I showed weakness on that one" |
-| she said in her culture people didn't exhibit signs of weakness, so hugging her in the morning really helped      |                                                                                                |
+| 1/2/26                                                                                                                                                            |                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| What worked                                                                                                                                                       | What I could improve                                                                           |
+| when she said, your stream is more important, I responded - you're more important, and she became more interested                                                 | She kept pushing me with the "im not doing your sandwiches, and I showed weakness on that one" |
+| she said in her culture people didn't exhibit signs of weakness, so hugging her in the morning really helped, so giving her hugs and holding her tight will help. |                                                                                                |
+|                                                                                                                                                                   |                                                                                                |
 
 
 | Good things | Bad things                                            |
