@@ -24,8 +24,9 @@ early riser
 |                                                                                                                                                                   |                                                                                                |
 
 
-| Good things | Bad things                                            |
-| ----------- | ----------------------------------------------------- |
-|             | No integrity:                                         |
-|             | 1/2/26 - told me she would cut the nails , and didn't |
+| Good things | Bad things                                                                                                           |
+| ----------- | -------------------------------------------------------------------------------------------------------------------- |
+|             | No integrity:                                                                                                        |
+|             | 1/2/26 - told me she would cut the nails , and didn't                                                                |
+|             | she's resentful about 2024, so things like me askking her to serve me gets a charged response about : do it yourself |
 
