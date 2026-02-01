@@ -29,4 +29,7 @@ early riser
 |             | No integrity:                                                                                                        |
 |             | 1/2/26 - told me she would cut the nails , and didn't                                                                |
 |             | she's resentful about 2024, so things like me askking her to serve me gets a charged response about : do it yourself |
+|             | always luring me to belive fumfum is about to happen, only to say some random excuse as to why it can't happen       |
+|             | we're no longer sleeping at the same time                                                                            |
+|             | during the night, she's on her phone. She's not paying a single whiff of attention to you.                           |
 
