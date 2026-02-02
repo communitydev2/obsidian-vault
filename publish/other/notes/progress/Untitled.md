@@ -16,20 +16,22 @@ early riser
 
 
 
-| 1/2/26                                                                                                                                                            |                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| What worked                                                                                                                                                       | What I could improve                                                                           |
-| when she said, your stream is more important, I responded - you're more important, and she became more interested                                                 | She kept pushing me with the "im not doing your sandwiches, and I showed weakness on that one" |
-| she said in her culture people didn't exhibit signs of weakness, so hugging her in the morning really helped, so giving her hugs and holding her tight will help. |                                                                                                |
-|                                                                                                                                                                   |                                                                                                |
+| 1/2/26                                                                                                                                                            |                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| What worked                                                                                                                                                       | What I could improve                                                                                      |
+| when she said, your stream is more important, I responded - you're more important, and she became more interested                                                 | She kept pushing me with the "im not doing your sandwiches, and I showed weakness on that one"            |
+| she said in her culture people didn't exhibit signs of weakness, so hugging her in the morning really helped, so giving her hugs and holding her tight will help. |                                                                                                           |
+| 2/2/26                                                                                                                                                            |                                                                                                           |
+|                                                                                                                                                                   | she kept blaming me for not staying with her, even though she's on her phone, not paying attention to me. |
 
 
-| Good things | Bad things                                                                                                           |
-| ----------- | -------------------------------------------------------------------------------------------------------------------- |
-|             | No integrity:                                                                                                        |
-|             | 1/2/26 - told me she would cut the nails , and didn't                                                                |
-|             | she's resentful about 2024, so things like me askking her to serve me gets a charged response about : do it yourself |
-|             | always luring me to belive fumfum is about to happen, only to say some random excuse as to why it can't happen       |
-|             | we're no longer sleeping at the same time                                                                            |
-|             | during the night, she's on her phone. She's not paying a single whiff of attention to you.                           |
+| Good things                                                   | Bad things                                                                                                           |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 2/2/26 - she wanted to see a movie when she saw me waking up. | No integrity:                                                                                                        |
+|                                                               | 1/2/26 - told me she would cut the nails , and didn't                                                                |
+|                                                               | she's resentful about 2024, so things like me askking her to serve me gets a charged response about : do it yourself |
+|                                                               | always luring me to belive fumfum is about to happen, only to say some random excuse as to why it can't happen       |
+|                                                               | we're no longer sleeping at the same time                                                                            |
+|                                                               | during the night, she's on her phone. She's not paying a single whiff of attention to you.                           |
+|                                                               | 2/2/26 - Barely any touching                                                                                         |
 
