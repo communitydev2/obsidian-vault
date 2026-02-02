@@ -24,6 +24,43 @@ To make an image in docker
 
 #current
 
+```
+docker ignore contents
+
+node_modules
+
+coverage
+
+npm-debug.log
+
+.DS_Store
+
+yarn-error.log
+
+.idea
+
+.vscode
+
+.yarn-cache
+
+.yarn-cache/
+
+.env
+```
+# following this tutorial
+
+https://docs.docker.com/guides/nodejs/containerize/
+```
+git clone https://github.com/kristiyan-velkov/docker-nodejs-sample
+```
+
+
+
+
+
+
+
+
 https://www.youtube.com/watch?v=SnSH8Ht3MIc - 13:13
 
 - Create a Dockerfile in your repo
