@@ -23,6 +23,8 @@ early riser
 | she said in her culture people didn't exhibit signs of weakness, so hugging her in the morning really helped, so giving her hugs and holding her tight will help. |                                                                                                           |
 | 2/2/26                                                                                                                                                            |                                                                                                           |
 |                                                                                                                                                                   | she kept blaming me for not staying with her, even though she's on her phone, not paying attention to me. |
+|                                                                                                                                                                   | Shouting at me for leaving things around (shes pmsing, so I was patient )                                 |
+|                                                                                                                                                                   | ref                                                                                                       |
 
 
 | Good things                                                   | Bad things                                                                                                           |
