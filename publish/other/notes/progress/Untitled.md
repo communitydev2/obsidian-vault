@@ -24,7 +24,9 @@ early riser
 | 2/2/26                                                                                                                                                            |                                                                                                           |
 |                                                                                                                                                                   | she kept blaming me for not staying with her, even though she's on her phone, not paying attention to me. |
 |                                                                                                                                                                   | Shouting at me for leaving things around (shes pmsing, so I was patient )                                 |
-|                                                                                                                                                                   | ref                                                                                                       |
+|                                                                                                                                                                   | refusing to go out with me second time                                                                    |
+|                                                                                                                                                                   | made her tea and all she knew was to make fun of me and didn't even said thank you                        |
+|                                                                                                                                                                   |                                                                                                           |
 
 
 | Good things                                                   | Bad things                                                                                                           |
