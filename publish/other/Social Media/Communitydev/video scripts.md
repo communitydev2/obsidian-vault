@@ -22,6 +22,80 @@ With docker that problem is no longer existent, as you can ship an image of your
 
 To make an image in docker
 
+## [Sign in with your Docker account](https://docs.docker.com/get-started/introduction/build-and-push-first-image/#sign-in-with-your-docker-account)
+
+To push images to Docker Hub, you will need to sign in with a Docker account.
+
+1. Open the Docker Dashboard.
+    
+2. Select **Sign in** at the top-right corner.
+    
+3. If needed, create an account and then complete the sign-in flow.
+    
+
+Once you're done, you should see the **Sign in** button turn into a profile picture.
+
+## [Create an image repository](https://docs.docker.com/get-started/introduction/build-and-push-first-image/#create-an-image-repository)
+
+Now that you have an account, you can create an image repository. Just as a Git repository holds source code, an image repository stores container images.
+
+1. Go to [Docker Hub](https://hub.docker.com).
+    
+2. Select **Create repository**.
+    
+3. On the **Create repository** page, enter the following information:
+    
+    - **Repository name** - `getting-started-todo-app`
+    - **Short description** - feel free to enter a description if you'd like
+    - **Visibility** - select **Public** to allow others to pull your customized to-do app
+
+
+4. To get started, either clone or [download the project as a ZIP file](https://github.com/docker/getting-started-todo-app/archive/refs/heads/main.zip) to your local machine.
+    
+    ```console
+     git clone https://github.com/docker/getting-started-todo-app
+    ```
+    
+    And after the project is cloned, navigate into the new directory created by the clone:
+    
+    ```console
+     cd getting-started-todo-app
+    ```
+    
+5. Build the project by running the following command, swapping out `DOCKER_USERNAME` with your username.
+    
+    ```console
+     docker build -t DOCKER_USERNAME/getting-started-todo-app .
+    ```
+    
+    For example, if your Docker username was `mobydock`, you would run the following:
+    
+    ```console
+     docker build -t mobydock/getting-started-todo-app .
+    ```
+    
+6. To verify the image exists locally, you can use the `docker image ls` command:
+    
+    ```console
+     docker image ls
+    ```
+    
+    You will see output similar to the following:
+    
+    ```console
+    REPOSITORY                          TAG       IMAGE ID       CREATED          SIZE
+    mobydock/getting-started-todo-app   latest    1543656c9290   2 minutes ago    1.12GB
+    ...
+    ```
+    
+7. To push the image, use the `docker push` command. Be sure to replace `DOCKER_USERNAME` with your username:
+    
+    ```console
+     docker push DOCKER_USERNAME/getting-started-todo-app
+    ```
+    
+    Depending on your upload speeds, this may take a moment to push.
+
 #current
 
 ```
@@ -54,8 +128,19 @@ https://docs.docker.com/guides/nodejs/containerize/
 git clone https://github.com/kristiyan-velkov/docker-nodejs-sample
 ```
 
+# following this tutorial
 
+https://docs.docker.com/get-started/introduction/develop-with-containers/
 
+```
+git clone https://github.com/docker/getting-started-todo-app
+```
+
+There are two types of images:
+
+Docker Official images, which are for popular software
+
+and Docker Hardened Images, with near zero common vulterabilities and exposures
 
 
 
