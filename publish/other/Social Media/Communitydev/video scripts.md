@@ -7,9 +7,18 @@ Hi all. If you want to see tools, websites, software that a community needs, you
 
   
 
-# What is Containers in docker
+# video 4 -What is Containers in docker
+https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/
 
-  
+
+# video 3 - What is supabase
+
+Supabase is a postgres development platform, with very good options for user authentication, replacement for a backend, automated router documentation, and the framework I'm currently using for the Pokemon Trading Website.
+
+In order to submit data to the database, we need to access it using docker. It works to our next tutorial , where we will install all necessary containers to create tables and submit data to our online Postgres database.
+#current
+
+
 
 # video 2 - What are Images in docker
 
@@ -96,7 +105,13 @@ Now that you have an account, you can create an image repository. Just as a Git 
     
     Depending on your upload speeds, this may take a moment to push.
 
-#current
+Now you're ready to create your containers in order to use this image.
+
+you can now see it on you account , and the code for you to get into your other machines
+
+docker push miguel454/getting-started-todo-app:tagname
+
+
 
 ```
 docker ignore contents
