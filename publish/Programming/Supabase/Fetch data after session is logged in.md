@@ -55,3 +55,14 @@ auth.uid() = user_id
 
 https://neon.com/postgresql/postgresql-tutorial/postgresql-update
 
+
+# Get tests
+
+https://xxtbgyxfxcisfugzizys.supabase.co/auth/v1/user
+
+## headers 
+
+api key - publishable key
+authroization
+
+Result - 404
