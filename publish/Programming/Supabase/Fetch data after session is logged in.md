@@ -1,3 +1,68 @@
+
+## Solution:
+
+## Create a trigger so that when the user authenticates the email, a new user_account is automatically created, with a foreign constraint.
+
+![[Pasted image 20260202112817.png]]
+
+## create user policies for all (update, insert , select)
+
+![[Pasted image 20260202113114.png]]
+
+## Setting routers in Postman
+
+### Get router (gets public info from user)
+
+- url - https://xxtbgyxfxcisfugzizys.supabase.co/rest/v1/user_account?select=*
+- Headers
+	- apikey - sb_publishable_UDCY3uXUW0HCWXpaHZPheQ_RwlhQsN4
+	- Authorization - Bearer (copy jwt from sign in)
+
+https://xxtbgyxfxcisfugzizys.supabase.co/rest/v1/user_account?select=*
+
+### Post router 
+
+- Won't work because the user has already been created, so you always have to PATCH
+
+### Patch router 
+
+- url - https://xxtbgyxfxcisfugzizys.supabase.co/rest/v1/user_account?user_id=eq.54f60b3a-a59e-40a2-806d-6bc22502ede0 (don't forget to change the user-id at the end of the url, which you can get from get auth router)
+	- headers
+		- apikey
+		- authorization
+		- Content-Type - application/json
+		- prefer - return=representation
+	- body
+	```
+	{
+
+   "user_id": "54f60b3a-a59e-40a2-806d-6bc22502ede0",
+
+    "username" : "tes566t"
+
+}
+	```
+		
+
+
+### get auth info
+
+- url - https://xxtbgyxfxcisfugzizys.supabase.co/auth/v1/user
+	- headers
+		- apikey
+		- Authorization
+	- body
+	```
+	{
+
+    "email":"miguelsalvadorstudios@gmail.com"
+
+}
+	```
+
+Journey
+
+
 https://stackoverflow.com/questions/79746968/app-not-fetching-any-data-from-supabase-only-after-the-session-expires-hours-la
 
 https://www.jwt.io/
@@ -66,3 +131,4 @@ api key - publishable key
 authroization
 
 Result - 404
+
