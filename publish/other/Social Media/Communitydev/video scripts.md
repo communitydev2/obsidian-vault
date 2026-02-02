@@ -109,6 +109,8 @@ docker exec -it containerid /bin/sh - allows you to code inside the container in
 ```
 **/filename in dockerfile allows you to ignore path anywhere in file
 ```
+# error  "/bin/sh -c npm install" did not complete successfully: exit code: 254
+
 
 
 # What is Volumes in docker
