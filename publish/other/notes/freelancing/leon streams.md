@@ -1,4 +1,13 @@
 
+3/1/26
+- 6 - you can run cron jobs to keep your raleway , fly.io or render not cold starting something.
+- https://www.digitalocean.com/products/droplets
+- 9 - handling interview invitations
+	- never overinvest in 1 opportunity
+- 14
+	- 60 people a week
+- 
+
 30/1/26
 - i use AI to tweak my resume and cover letters for specific roles....i dont straight up copy and paste. i then tweak the AI's response to be more like me/true.
 - 29:00
