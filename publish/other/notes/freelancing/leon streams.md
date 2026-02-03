@@ -14,6 +14,8 @@
 - 31
 	- gpt good to write bio
 	- https://chatgpt.com/g/g-68e95630e9b481918051aa54d9deec8a-bob-your-story-crafting-coach-from-100devs/c/69701321-51bc-832b-bb0c-309c421d5878
+- 41
+	- apollo mentioned, dont know yet
 
 30/1/26
 - i use AI to tweak my resume and cover letters for specific roles....i dont straight up copy and paste. i then tweak the AI's response to be more like me/true.
