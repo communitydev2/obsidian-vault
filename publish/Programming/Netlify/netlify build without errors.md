@@ -7,7 +7,7 @@ create a .github/workflows
 create a ci.yml
 
 paste 
-
+![[Screenshot 2026-02-04 121607.png]]
 ``` 
 name: ci
 
