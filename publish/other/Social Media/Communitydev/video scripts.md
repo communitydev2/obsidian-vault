@@ -16,6 +16,15 @@ https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-contain
 Supabase is a postgres development platform, with very good options for user authentication, replacement for a backend, automated router documentation, and the framework I'm currently using for the Pokemon Trading Website.
 
 In order to submit data to the database, we need to access it using docker. It works to our next tutorial , where we will install all necessary containers to create tables and submit data to our online Postgres database.
+
+Install postgres
+
+```
+docker pull postgres:17
+```
+
+
+
 #current
 
 
