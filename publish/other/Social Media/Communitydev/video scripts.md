@@ -7,11 +7,14 @@ Hi all. If you want to see tools, websites, software that a community needs, you
 
   
 
-# video 4 -What is Containers in docker
-https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/
+# video 4 - netlify 
 
 
 # video 3 - What is supabase
+
+
+#current
+
 
 Supabase is a postgres development platform, with very good options for user authentication, replacement for a backend, automated router documentation, and the framework I'm currently using for the Pokemon Trading Website.
 
@@ -32,7 +35,54 @@ $env:PGSSLMODE="require" docker exec -it postgres-db-local psql ` -d postgres ` 
 ```
 host is in 
 
-#current
+connect button on top of supabase website
+
+click on method
+
+session pooler
+
+view parameters
+
+copy host and username
+
+ if you know your database password, then grab it
+otherwise go to database - settings - reset password, and store it somewhere safe 
+
+
+Error
+
+```
+
+At line:1 char:26
++ $env:PGSSLMODE="require" docker exec -it postgres-db-local psql ` -d  ...
++                          ~~~~~~
+Unexpected token 'docker' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : UnexpectedToken
+```
+
+Solution - remove $env:PGSSLMODE="require" d
+
+CREATE TABLE card (
+
+card_idUUID DEFAULT uuid_generate_v4() UNIQUE NOT NULL,
+card_name text);
+ALTER TABLE card ENABLE ROW LEVEL SECURITY;
+
+make sure you have a cards.csv structured like this inside your directory
+
+card_name
+name1
+name2
+
+\copy card("name") FROM 'home/test/cards.csv';
+
+
+
+
+```
+
+
 
 
 
