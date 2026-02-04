@@ -27,6 +27,11 @@ docker pull postgres:17
 docker run --mount type=bind,src=C:/Users/Migue/Documents/community_dev/docker,dst=/root/data/projects/pokeTrade --name postgres-db-local -e POSTGRES_PASSWORD=dogsarecool -e POSTGRES_USER=miguel -e POSTGRES_DB=mydatabase -p 5434:5434 -d postgres:17
 ```
 
+```
+$env:PGSSLMODE="require" docker exec -it postgres-db-local psql ` -d postgres ` -h host` -p 5432 ` -U username
+```
+host is in 
+
 #current
 
 
