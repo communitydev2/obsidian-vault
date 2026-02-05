@@ -5,9 +5,23 @@ Hi all. If you want to see tools, websites, software that a community needs, you
 
 # What is docker build
 
-  
 
-# video 4 - netlify 
+
+# video * - authentication
+
+
+## set up site URL
+
+Authentication - URL Configuration
+https://pokedexchange.netlify.app/
+
+siteurl - http://localhost:5173/
+redirect url - http://localhost:5173/auth/callback
+
+
+# video 4 - netlify - set up project
+
+
 
 
 # video 3 - What is supabase
