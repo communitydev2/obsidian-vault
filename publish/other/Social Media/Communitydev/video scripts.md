@@ -48,6 +48,7 @@ copy host and username
  if you know your database password, then grab it
 otherwise go to database - settings - reset password, and store it somewhere safe 
 
+\ - backlash
 
 Error
 
