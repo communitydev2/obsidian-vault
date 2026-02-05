@@ -3,6 +3,7 @@
 
 # PSQL tricks:
 
+- ctrl l clears list
 - Create table if not exists
     
 - \l - list all available dbs
