@@ -37,7 +37,8 @@
     
 - \copy rarity ("name") FROM 'root/data/projects/pokeTrade/rarity.csv';
     
-- \copy set ("official_card_count","total_card_count","set_code","set_name") FROM 'root/data/projects/pokeTrade
+- \copy set ("official_card_count","total_card_count","set_code","set_name") FROM 'root/data/projects/pokeTrade' WITH (FORMAT CSV, NULL 'NULL', HEADER);
+
     
 - /set.csv' WITH (delimiter ',', format csv,header);
     

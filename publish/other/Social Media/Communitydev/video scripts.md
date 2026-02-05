@@ -67,16 +67,20 @@ Solution - remove $env:PGSSLMODE="require" d
 CREATE TABLE card (
 
 card_idUUID DEFAULT uuid_generate_v4() UNIQUE NOT NULL,
-card_name text);
+card_name text,
+card_image,
+card_local_id,
+
+);
 ALTER TABLE card ENABLE ROW LEVEL SECURITY;
 
 make sure you have a cards.csv structured like this inside your directory
 
-card_name
-name1
-name2
+card_name,card_image,card_local_id
+name1, image1,id1
+name2,image2,id2
 
-\copy card("name") FROM 'home/test/cards.csv';
+ \copy set ("official_card_count","total_card_count","set_code","set_name") FROM 'root/data/projects/pokeTrade' WITH (FORMAT CSV, NULL 'NULL', HEADER);
 
 
 
