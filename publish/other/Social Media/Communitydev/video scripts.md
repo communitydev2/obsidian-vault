@@ -31,7 +31,7 @@ docker run --mount type=bind,src=C:/Users/Migue/Documents/community_dev/docker,d
 ```
 
 ```
-$env:PGSSLMODE="require" docker exec -it postgres-db-local psql ` -d postgres ` -h host` -p 5432 ` -U username
+$env:PGSSLMODE="require" docker exec -it postgres-db-local psql  -d postgres  -h host -p 5432  -U username
 ```
 host is in 
 
