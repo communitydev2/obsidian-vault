@@ -4,12 +4,10 @@ Work developed for clients:
   
   
 
-Full Stack application developed for restaurants (In Development)
+### Full Stack application developed for restaurants (In Development)
 
 ---
 
-  
-  
 
 Customer’s Request: Develop a Full Stack Application for restaurants to ease communication between front of house, kitchen, price and inventory stock tracking.
 
@@ -23,7 +21,7 @@ Responsibilities: Handling Kitchen user section in backend and frontend and inte
 
   
 
-Website developed for restaurant
+### Website developed for restaurant
 
 ---
 
@@ -45,7 +43,7 @@ Result:
 
   
 
-B2C Client website development
+### B2C Client website development
 
 ---
 
@@ -69,7 +67,7 @@ Responsibilities: 
 
   
 
-LocalizationTF
+### LocalizationTF
 
 ---
 
@@ -77,8 +75,6 @@ LocalizationTF
   
 
 Customer’s request: Develop a workflow where different versions would be generated for every required language where all text would be translated.
-
-Stack: React, Typescript
 
   
 
@@ -90,7 +86,7 @@ Result:
   
   
 
-Ratings17
+### Ratings17
 
 ---
 
@@ -126,24 +122,16 @@ Result: From one video and a set up template in After Effects, it generates all 
   
 
 Customer’s request: 
-
 They needed a File Explorer that could save several folder locations and urls under different projects which are part of the same Game.
-
-  
-
 Stack : Python
-
-  
-
 Result: 
-
 - Team increased productivity by 10%.
     
 
   
   
 
-OST17 Generator
+### OST17 Generator
 
 ---
 
@@ -153,8 +141,7 @@ OST17 Generator
 Customer’s Request: Takes images, songs and song titles and sets images to song length, and adds title of each song all at once.
 
   
-
-# Stack: React, Typescript
+Stack: React, Typescript
 
   
 
@@ -167,43 +154,28 @@ Result:
 
   
 
-Continuous Camera Movement plugin in different Axis for Smooth Gameplay Capture
 
 ---
 
   
   
 
-Customer’s Request: Making smooth camera movements with a Joystick is stressful, very tiring and difficult to be precise.
-
-  
-
-#  Python
-
-  
+### Customer’s Request: Making smooth camera movements with a Joystick is stressful, very tiring and difficult to be precise.
+Continuous Camera Movement plugin in different Axis for Smooth Gameplay Capture
+Python
 
 Result: 
 
 - An application with key triggers that moves the in-game camera with customizable speed and directions.
     
 - Boosted in-game capture quality by 40%
-    
 
-  
-  
-  
-  
-
-Customer’s Request : Automation workflow of conversion from Storyboards to Motion Graphics Assets using Typescript
+### Customer’s Request : Automation workflow of conversion from Storyboards to Motion Graphics Assets using Typescript
 
 Stack: React, Typescript
-
-  
 
 Result:
 
 - Reduced Human Error by 90%
-    
 - Boosted business workflow by 15%
-    
 - Boosted efficiency by 75%
