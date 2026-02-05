@@ -9,6 +9,15 @@ https://docs.google.com/presentation/d/1BRYq4BJ25A64-hTFZKaDNzvg1SC-o4_UjqnaRBnN
 
 Show him the same techniques from the other videos he said he want to make
 
+#### Keyframes Section
+
+Double click on the keyframe opens the values
+
+
+Sound library
+
+
+
 
 ## Handbrake
 
