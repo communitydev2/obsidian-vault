@@ -17,12 +17,25 @@ https://www.youtube.com/watch?v=Q7P20fHJlm4
 
 # video * - check if username already exists
 
-### Error: useEffect received a final argument during this render, but not during the previous render. Even though the final argument is optional, its type cannot change between renders.
+##### Error: useEffect received a final argument during this render, but not during the previous render. Even though the final argument is optional, its type cannot change between renders.
+https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-dependency-array-in-react
+##### error : useEffect not triggered through dependency array
 
-### error : useEffect not triggered through dependency array
+-  journey
+	- I think that pressing a button does not trigger a re render, and useEffects run on start of re render, meaning it doesn't re-trigger
+	- I tried to run an empty dependency useEffect , didn't work
+	- I tried setting  setPressSetUsernameButton(true); directly on the button's call state, that also didn't work
+	- Passing an empty dependency array ([]) means the effect runs only on the initial render, and I thought It ran every cycle
+	-```
+	```
+	() => {
 
+          handleLogin(event)
 
-
+        }}
+        
+	```
+	- If there's () =>  you need to add () to a function otherwise it won't trigger
 ## set up site URL
 
 Authentication - URL Configuration
