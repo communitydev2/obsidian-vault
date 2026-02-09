@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=Q7P20fHJlm4
 
 ### Error: useEffect received a final argument during this render, but not during the previous render. Even though the final argument is optional, its type cannot change between renders.
 
+### error : useEffect not triggered through dependency array
+
 
 
 ## set up site URL
