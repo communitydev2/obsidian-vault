@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=Q7P20fHJlm4
 1:21:57
 
 
+# video * - check if username already exists
+
 ## set up site URL
 
 Authentication - URL Configuration
