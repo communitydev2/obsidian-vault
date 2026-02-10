@@ -1,2 +1,4 @@
 .obsidian
 **/**.DS_Store
+auto-sync.log
+.sync.lock/
