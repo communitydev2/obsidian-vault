@@ -22,9 +22,11 @@ https://nodejs.org/en/learn/typescript/run#running-typescript-code-with-tsx
 
 to use node with typescript, you need to :
 ```
-npm i -D ts-node
+npm i -D ts-node nodemon
 npm add -D @types/node
 npm i -D typescript # -D is a shorthand for --save-dev
+
+npm install express  tsconfig-paths
 
 
 ```
@@ -37,6 +39,27 @@ npx tsx example.ts - converts ts to js
 npm install nodemon -D
 
 ```
+change filename in package.json in "main"
+
+error:
+
+```
+  at Function._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Function._load (node:internal/modules/cjs/loader:1055:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)     
+    at node:internal/main/run_main_module:36:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+```
+
+
+journey:
+- installed express
+- reinstalled everything
+- npm install express  tsconfig-paths
 
 
 
