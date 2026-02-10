@@ -186,7 +186,9 @@ git commit -m "Resolve merge conflict"
 git push
 
 
-essentially there are two folders now of repos in the phone, 
+essentially there are two folders now of repos in the phone, so I gotta see which one is the latest
+
+
 
 
 
