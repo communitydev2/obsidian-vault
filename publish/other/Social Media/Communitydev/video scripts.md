@@ -7,6 +7,18 @@ Hi all. If you want to see tools, websites, software that a community needs, you
 
 
 
+# brushing up mern stack
+
+https://vtrsalgado.medium.com/a-simple-node-js-boilerplate-with-typescript-647c2601f04
+```
+npx create-nodejs-ts --no --app=new-app
+--no doesn't print the inital prompt
+```
+
+
+
+
+
 # video * - authentication
 
 https://www.youtube.com/watch?v=Q7P20fHJlm4
