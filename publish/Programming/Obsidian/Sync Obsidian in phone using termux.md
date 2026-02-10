@@ -180,18 +180,29 @@ run again
 /data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
 
 
-cd /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault
-git add path/to/the/file.md
-git commit -m "Resolve merge conflict"
-git push
+
+I ran sed -n '1,120p' publish/other/notes/progress/Untitled.md
+
+cd "$(dirname "$(dirname "$(dirname "$(dirname "publish/other/notes/progress/Untitled.md")")")")"
+
+pwd
+git rev-parse --show-toplevel 2>&1
+
+essentially it continued updating the repo in a new path
+
+nano /storage/5582-52A3/obsidian/obsidian-vault/sync.sh
 
 
-essentially there are two folders now of repos in the phone, so I gotta see which one is the latest
+cd /storage/5582-52A3/obsidian/obsidian-vault || exit 1
+
+git config --global core.pager cat
 
 
+cd /storage/5582-52A3/obsidian/obsidian-vault
+git status -uall
+git diff --name-only
 
-
-
+ls -l --time-style=long-iso publish/other/notes/progress/Untitled.md - tells you the last time it was edited
 
 
 
