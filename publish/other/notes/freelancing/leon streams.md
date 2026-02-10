@@ -2,6 +2,8 @@
 10/2/26
 - 11 - person has to reschedule 4h company test, leon said : be aware how they treat you at the start of the relationship
 - 16 - hes mentioning video editors, focus on software and video editing
+- 27 -You don't have an engineering job now, even if you don't do well in the interviews calling for skills you have at this point, you've got more interviewing experience and an in with a company when you have more experience down the road. If someone likes you when you network in, they may reach out six months after and see where you're at because a position opens up
+- send emails past midnight so they see your messages first in the morning
 
 6/2/26
 - when he spoke to me, he said my cv must make the recruiter go to the next door and say they gotta hire me (remember your video cv?)
