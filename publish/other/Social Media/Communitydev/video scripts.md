@@ -64,6 +64,7 @@ https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-depen
   - I was setting user again on account , which is mounted after username is set, so it would glitch and go back to username
   - created two components, one to toggle the message, another to set the message
   - created a useEffect where I set it to false after 5 seconds
+  - also had to create a check for empty usernames, as if you press send with a empty value, it will set to an empty value
 ## set up site URL
 
 Authentication - URL Configuration
