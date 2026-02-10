@@ -35,7 +35,9 @@ https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-depen
         }}
         
 	```
+- 
 	- If there's () =>  you need to add () to a function otherwise it won't trigger
+- Update needs a where clause
 ## set up site URL
 
 Authentication - URL Configuration
