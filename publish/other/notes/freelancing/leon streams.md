@@ -1,4 +1,7 @@
 
+10/2/26
+- 
+
 6/2/26
 - when he spoke to me, he said my cv must make the recruiter go to the next door and say they gotta hire me (remember your video cv?)
 
