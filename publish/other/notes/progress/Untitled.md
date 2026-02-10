@@ -14,8 +14,6 @@ wants a
 likes to laugh 
 early riser
 
-
-<<<<<<< HEAD
 test
 
 | 1/2/26                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                           |
