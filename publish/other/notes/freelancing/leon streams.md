@@ -1,5 +1,8 @@
 
-3/1/26
+6/2/26
+- when he spoke to me, he said my cv must make the recruiter go to the next door and say they gotta hire me (remember your video cv?)
+
+3/2/26
 - 6 - you can run cron jobs to keep your raleway , fly.io or render not cold starting something.
 - https://www.digitalocean.com/products/droplets
 - 9 - handling interview invitations
