@@ -20,3 +20,4 @@ https://docs.google.com/document/d/1Vuo7MQ5WKTMey-JLv8eZ17Zmo-l9or4WQVs3w1_N2J0/
 6/2/26 - leon feedback
 
 bring back video linkedin
+add blurb explaining the change from one to another
