@@ -180,4 +180,12 @@ run again
 /data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
 
 
+cd /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault
+git add path/to/the/file.md
+git commit -m "Resolve merge conflict"
+git push
+
+
+it needs a path first, and the filrs are not updates
+
 ```
