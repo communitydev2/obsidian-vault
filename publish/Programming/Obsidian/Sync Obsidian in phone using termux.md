@@ -157,5 +157,27 @@ after unsynched, I ran /data/data/com.termux/files/usr/bin/bash \
 
 got , I'm on a wrong branch
 
+I did 
+
+cd /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault
+git status
+
+
+get fetch origin
+
+git rebase --continue
+
+cd /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault
+git status
+git branch -vv
+
+
+if nothing wrong 
+
+
+run again
+
+/data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+
 
 ```
