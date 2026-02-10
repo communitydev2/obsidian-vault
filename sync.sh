@@ -1,7 +1,8 @@
 TPWD=$PWD
 
 cd /storage/5582-52A3/obsidian/obsidian-vault || exit 1
-
+exec >> /storage/5582-52A3/obsidian/obsidian-vault/auto-sync.log 2>&1
+echo "=== sync run: $(date) ==="
 
 git add -A
 
