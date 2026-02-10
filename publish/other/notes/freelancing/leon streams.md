@@ -1,6 +1,7 @@
 
 10/2/26
 - 11 - person has to reschedule 4h company test, leon said : be aware how they treat you at the start of the relationship
+- 16 - hes mentioning video editors, focus on software and 
 
 6/2/26
 - when he spoke to me, he said my cv must make the recruiter go to the next door and say they gotta hire me (remember your video cv?)
