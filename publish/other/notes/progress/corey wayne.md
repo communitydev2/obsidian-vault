@@ -1,4 +1,67 @@
 
+
+women who like you put themselves in your orbit, it's your role to make a date happen 
+be patient with women 
+
+
+https://www.youtube.com/watch?v=wshV47KdFrw
+- meditate
+- cardio /exercise
+- eat healthy diet - 80% greens
+- colon cleanse 
+- spend time in nature 
+- grateful for?
+- your brain is always looking for an answer to the things you focus on
+- imagining you being successful 
+- focus on all positives of all situations 
+- delete negative people from your life
+- find an associate with positive achievement goals 
+- spend time with People who are not trying to change you
+- work on a career that love 
+- stop watching the news
+- focus spending time with people in real life, not on your phone 
+- success is feeling like you're making progress 
+- what would you do if you knew you couldn't fail
+- live within your means
+- savings is for emergencies 
+- use money to make money while you sleep
+- a goal without a plan is simply a wish. 
+- must take action and make things happen 
+- become who you want them attract. 
+- listen more than speaking. 
+- focus on people that improve the silence, not make it worse
+- confidence comes from successful repetition 
+
+how to save your marriage or relationship 
+- dont take yourself too seriously 
+- first guy stopped being the guy his wife fell in love with
+
+
+why you should or shouldn't stay in a relationship 
+- do you see her as the mother of your children 
+- do you feel like giving to her 
+- 
+
+communicate doesn't leave
+- you need to stay, don't leave, talk to her, only until she has expressed that she has said everything she needed to say
+- 
+
+
+
+
+https://www.youtube.com/watch?v=aP23eDWJnm4
+- guy who tests women attractions
+- women will bump into you on purpose 
+- 
+
+
+women are attracted to men whose attention they have to earn
+they like men that they're skeptical
+in other words, trying too hard
+no rush 
+they tell them how it is
+it's always better when she thinks she likes you more
+
 https://youtu.be/tJQr2XN8lkE?si=JCaM1jAcXRkCRkQH
 - opinion openers are the best openers
 - never break eye contact with a woman

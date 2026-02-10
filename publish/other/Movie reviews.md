@@ -1,4 +1,13 @@
 
+
+# goldfinger
+
+- she says she likes you
+- he says well what are you going to do about it? 
+- she says what indeed
+- he says how about dinner, I know the best place in town 
+- and cuts to his bed 😂😂😂
+
 # tailor of panama
 
 part of safe

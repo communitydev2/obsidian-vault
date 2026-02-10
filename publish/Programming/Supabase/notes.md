@@ -1,3 +1,10 @@
+
+#supabase intro video freecodecamp 
+- supabase is a open source alternative to firebase, allowing to create a BaaS, backend as a service
+- sql to rest api translator
+- instead of doing const {data, error}, do const response = await supabase 
+- aggregate function allows to calculate values from different tables 
+
 # Profanity flow:
 
 Create table with uuid and text
