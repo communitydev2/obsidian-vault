@@ -53,7 +53,8 @@ https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-depen
 ```
 
 - authstore.user is empty
-- 
+- issue was that user was set on account, which runs only after username is set, meaning you need to set user on usernameDialog if it's not set yet
+- I've set user on username dialog on zustand
 ## set up site URL
 
 Authentication - URL Configuration
