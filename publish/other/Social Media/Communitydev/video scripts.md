@@ -63,6 +63,7 @@ https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-depen
   - to view the table info, go to table editor , select the table you want
   - I was setting user again on account , which is mounted after username is set, so it would glitch and go back to username
   - created two components, one to toggle the message, another to set the message
+  - created a useEffect where I set it to false after 5 seconds
 ## set up site URL
 
 Authentication - URL Configuration
