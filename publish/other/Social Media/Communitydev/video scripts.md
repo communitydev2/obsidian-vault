@@ -15,7 +15,28 @@ npx create-nodejs-ts --no --app=new-app
 --no doesn't print the inital prompt
 ```
 
+create folder backend
+cd backend
 
+https://nodejs.org/en/learn/typescript/run#running-typescript-code-with-tsx
+
+to use node with typescript, you need to :
+```
+npm i -D ts-node
+npm add -D @types/node
+npm i -D typescript # -D is a shorthand for --save-dev
+
+
+```
+they recommend type check your code first with `tsc` and then run it with `tsx` before shipping it.
+
+when you do
+
+```
+npx tsx example.ts - converts ts to js 
+npm install nodemon -D
+
+```
 
 
 
