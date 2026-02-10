@@ -1,5 +1,7 @@
 
 
+you want to seek women who are open, able, ready, and willing
+
 women who like you put themselves in your orbit, it's your role to make a date happen 
 be patient with women 
 
