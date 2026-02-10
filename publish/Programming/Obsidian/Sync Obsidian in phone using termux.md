@@ -149,3 +149,13 @@ on app settings, set termux to unresttricted battery
 allow background activity
 ```
 
+```
+errors:
+
+after unsynched, I ran /data/data/com.termux/files/usr/bin/bash \
+/data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+
+got , I'm on a wrong branch
+
+
+```
