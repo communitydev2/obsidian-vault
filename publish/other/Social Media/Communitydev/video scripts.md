@@ -62,7 +62,7 @@ journey:
 - npm install express  tsconfig-paths
 
 
-
+https://nodejs.org/en/learn/getting-started/debugging
 # video * - authentication
 
 https://www.youtube.com/watch?v=Q7P20fHJlm4
