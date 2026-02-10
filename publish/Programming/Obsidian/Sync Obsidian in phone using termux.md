@@ -139,11 +139,15 @@ ls /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-
 
 chmod +x /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
 
-crontab -e
+crontab -r 2>/dev/null || echo "No existing crontab"
 
+cat <<'EOF' | crontab -
+* * * * * /data/data/com.termux/files/usr/bin/bash /storage/5582-52A3/obsidian/obsidian-vault/sync.sh >> /data/data/com.termux/files/home/cron-sync.log 2>&1
+EOF
 
-
-* * * * * /data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh >> /data/data/com.termux/files/home/cron-sync.log 2>&1
+sv-enable crond
+sv up crond
+sv status crond
 
 on app settings, set termux to unresttricted battery
 allow background activity
@@ -152,59 +156,85 @@ allow background activity
 ```
 errors:
 
-after unsynched, I ran /data/data/com.termux/files/usr/bin/bash \
-/data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+it was unsynching because it was using a random folder I created, which I deleted,
 
-got , I'm on a wrong branch
+I changed the sync.sh
 
-I did 
+cat > /storage/5582-52A3/obsidian/obsidian-vault/sync.sh <<'EOF'
+#!/data/data/com.termux/files/usr/bin/bash
+set -euo pipefail
 
-cd /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault
-git status
+VAULT_DIR="/storage/5582-52A3/obsidian/obsidian-vault"
 
+# Runtime files OUTSIDE the repo
+LOG_FILE="/data/data/com.termux/files/home/auto-sync.log"
+LOCK_DIR="/data/data/com.termux/files/home/.obsidian-vault-sync.lock"
 
-get fetch origin
+# Safety
+if [ ! -d "$VAULT_DIR" ]; then
+  echo "ERROR: Vault not found: $VAULT_DIR" >&2
+  exit 1
+fi
 
-git rebase --continue
+cd "$VAULT_DIR"
 
-cd /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault
-git status
-git branch -vv
+# Prevent overlapping runs
+if mkdir "$LOCK_DIR" 2>/dev/null; then
+  trap 'echo "SYNC END: $(date)" >> "$LOG_FILE"; rmdir "$LOCK_DIR" 2>/dev/null || true' EXIT
+else
+  echo "INFO: Sync already running, exiting." >> "$LOG_FILE"
+  exit 0
+fi
 
+# Logging
+{
+  echo "========================================"
+  echo "SYNC START: $(date)"
+  echo "PWD: $(pwd)"
+} >> "$LOG_FILE"
+exec >> "$LOG_FILE" 2>&1
 
-if nothing wrong 
+# Abort if a rebase is already in progress
+if [ -d ".git/rebase-merge" ] || [ -d ".git/rebase-apply" ]; then
+  echo "ERROR: Rebase already in progress. Finish it first."
+  exit 1
+fi
 
+# 1) Commit current local changes
+git add -A
+if ! git diff --cached --quiet; then
+  git commit -m "android backup at $(date)"
+else
+  echo "INFO: No local changes to commit (pass 1)."
+fi
 
-run again
+# 2) Pull safely even if files change mid-run
+git pull --rebase --autostash
 
-/data/data/com.termux/files/usr/bin/bash /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+# 3) Commit again in case changes reappear
+git add -A
+if ! git diff --cached --quiet; then
+  git commit -m "android backup at $(date) (post-pull)"
+else
+  echo "INFO: No local changes to commit (pass 2)."
+fi
 
+# 4) Push
+git push
+EOF
 
+```
 
-I ran sed -n '1,120p' publish/other/notes/progress/Untitled.md
+```
+then 
 
-cd "$(dirname "$(dirname "$(dirname "$(dirname "publish/other/notes/progress/Untitled.md")")")")"
+chmod +x /storage/5582-52A3/obsidian/obsidian-vault/sync.sh
 
-pwd
-git rev-parse --show-toplevel 2>&1
+/data/data/com.termux/files/usr/bin/bash /storage/5582-52A3/obsidian/obsidian-vault/sync.sh
 
-essentially it continued updating the repo in a new path
-
-nano /storage/5582-52A3/obsidian/obsidian-vault/sync.sh
-
-
-cd /storage/5582-52A3/obsidian/obsidian-vault || exit 1
-
-git config --global core.pager cat
-
-
-cd /storage/5582-52A3/obsidian/obsidian-vault
-git status -uall
-git diff --name-only
-
-ls -l --time-style=long-iso publish/other/notes/progress/Untitled.md - tells you the last time it was edited
-
+tail -n 60 /data/data/com.termux/files/home/auto-sync.log
 
 
 
 ```
+
