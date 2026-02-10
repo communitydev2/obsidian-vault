@@ -39,6 +39,21 @@ https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-depen
 	- If there's () =>  you need to add () to a function otherwise it won't trigger
 - Update needs a where clause
 - stored session on zustand
+
+```
+   const response = await supabase
+
+        .from('user_account')
+
+        .update({ username: username })
+
+        .eq('user_id', authStore.user?.user_id)
+
+        .select()
+```
+
+- authstore.user is empty
+- 
 ## set up site URL
 
 Authentication - URL Configuration
