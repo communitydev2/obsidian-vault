@@ -1,6 +1,7 @@
 TPWD=$PWD
 
-cd ~/storage/shared-external-1/obsidian/obsidian-vault
+cd /storage/5582-52A3/obsidian/obsidian-vault || exit 1
+
 
 git add -A
 
