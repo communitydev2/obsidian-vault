@@ -60,6 +60,9 @@ https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-depen
 - ```
   data[0] on the useEffect
   ```
+  - to view the table info, go to table editor , select the table you want
+  - I was setting user again on account , which is mounted after username is set, so it would glitch and go back to username
+  - created two components, one to toggle the message, another to set the message
 ## set up site URL
 
 Authentication - URL Configuration
