@@ -186,6 +186,12 @@ git commit -m "Resolve merge conflict"
 git push
 
 
-it needs a path first, and the filrs are not updates
+essentially there are two folders now of repos in the phone, 
+
+
+
+
+
+
 
 ```
