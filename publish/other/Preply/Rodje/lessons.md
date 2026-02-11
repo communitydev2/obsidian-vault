@@ -3,6 +3,8 @@ https://www.colormatters.com/color-and-design/basic-color-theory
 
 # lesson 3
 
+talk about lows, mids and highs
+
 https://www.youtube.com/watch?v=SkosqJfzEs0
 3:35
 
@@ -12,6 +14,23 @@ https://www.youtube.com/watch?v=SkosqJfzEs0
 Toggle Clips
 
 ![[Pasted image 20260205113233.png]]
+Color correction is taking footage and correct things (white balance, things look off)
+
+colour grading is where setting the mood
+
+There are different types of scopes (parade, )
+- 0 means darkest, top is bright area
+- There are lows, midtones, and highs
+
+
+On the wheels
+- Lift - control lows, meaning, darker areas of the shot
+- Gamma - Midtones section
+- Gain - Highs, brightest colors
+- Offset - master volume, moving everything at once
+
+- Primary Log wheels
+	- 
 # lesson 2
 
 Color Harmony
