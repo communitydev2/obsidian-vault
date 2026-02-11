@@ -14,7 +14,24 @@ best comebacks ever :
 - I can't sleep with a guy on the first date
 	- is that your rulebook 
 		- yeah 
-			- 
+			- you need to throw that away because tht rule doesn't apply to me honey
+- you're such a jerk, I would never want you
+	- I think you need to come here and just kiss me
+	- too much of a chicken to kiss me? that must mean you're a bad kisser
+	- I'll give you a chance, if you can't impress me, you're out. not mean, guys gotta have standards 
+- I'm leaving you for another man
+	- you'll be back
+- let's just be friends
+	- friends with benefits sounds great, I'm in
+		- no
+			- that won't work for me can't be with you without touching you
+				- no
+					- give me a call if you change your mind 
+- when someone is rude to you
+	- i love when you talk to me like that 
+- you're a jerk
+	- thanks for noticing 
+	- i love when you talk sweet
 
 
 
