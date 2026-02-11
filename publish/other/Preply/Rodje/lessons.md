@@ -1,3 +1,9 @@
+
+update : been editing on the phone 
+Windows laptop
+
+
+
 https://www.colormatters.com/color-and-design/basic-color-theory
 
 
