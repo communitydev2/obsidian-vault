@@ -9,11 +9,12 @@ best comebacks ever :
 		- let's make out sonwe can get better acquainted. are you a good kisser 
 			- yes
 				- prove it
-- 
+- I think I want something sweet. I want ice cream 
+	- I want
 
 
 
-listen de what she says. if she says "MIGHT be a good idea to break up" means that she's unsure if you still want it, so here you need to ask what does she meab, ask quality questions. 
+listen to what she says. if she says "MIGHT be a good idea to break up" means that she's unsure if you still want it, so here you need to ask what does she meab, ask quality questions. 
 
 you want to seek women who are open, able, ready, and willing
 
