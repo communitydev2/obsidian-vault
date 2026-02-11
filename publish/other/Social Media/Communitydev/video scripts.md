@@ -57,31 +57,27 @@ when I press the button Manage cards on header , it triggers a useState inside u
 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 - create backend folder
-- 
+- cd backend
 ```
 tsc greeter.ts - this transpilates your file into javascript
 ```
 - 
-  ```
-  
+```
+  npm install express  tsconfig-paths typescript
+npm install  ts-node nodemon @types/node -D
   open command prompt (must be in command prompt)
   
-# install nvm
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
-
-# install node 8
-nvm install 8
-
-# to make node 8 the default
-nvm alias default 8
+npm init -y inside folder  
 ```
 
 
 https://vtrsalgado.medium.com/a-simple-node-js-boilerplate-with-typescript-647c2601f04
 ```
+
 npx create-nodejs-ts --no --app=new-app
 --no doesn't print the inital prompt
 ```
+
 
 create folder backend
 cd backend
@@ -95,9 +91,11 @@ npm add -D @types/node
 npm i -D typescript # -D is a shorthand for --save-dev
 
 npm install express  tsconfig-paths
-
-
 ```
+
+
+
+
 they recommend type check your code first with `tsc` and then run it with `tsx` before shipping it.
 
 when you do
@@ -169,7 +167,7 @@ https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-depen
         .eq('user_id', authStore.user?.user_id)
 
         .select()
-```
+
 
 - authstore.user is empty
 - issue was that user was set on account, which runs only after username is set, meaning you need to set user on usernameDialog if it's not set yet
@@ -244,12 +242,12 @@ Error
 
 At line:1 char:26
 + $env:PGSSLMODE="require" docker exec -it postgres-db-local psql ` -d  ...
-+                          ~~~~~~
++                    
 Unexpected token 'docker' in expression or statement.
     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
     + FullyQualifiedErrorId : UnexpectedToken
-```
 
+```
 Solution - remove $env:PGSSLMODE="require" d
 
 CREATE TABLE card (
@@ -270,6 +268,7 @@ name2,image2,id2
 
  \copy set ("official_card_count","total_card_count","set_code","set_name") FROM 'root/data/projects/pokeTrade' WITH (FORMAT CSV, NULL 'NULL', HEADER);
 
+```
 
 
 
