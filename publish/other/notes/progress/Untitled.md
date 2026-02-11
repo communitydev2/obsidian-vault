@@ -48,6 +48,7 @@ djdjdjdj
 
 | good things                                                                                 | bad things |
 | ------------------------------------------------------------------------------------------- | ---------- |
+| 10/2/26                                                                                     |            |
 | 9/2/26                                                                                      |            |
 | saw stunning woman in job centre, blue eyes, tall, nice boobs, really nice attractive lady. |            |
 | got back at doing some more work.                                                           |            |
@@ -66,6 +67,7 @@ djdjdjdj
 
 | Good things                                                                             | Bad things                                                                                                           |
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+|                                                                                         |                                                                                                                      |
 | 2/2/26 - she wanted to see a movie when she saw me waking up.                           | No integrity:                                                                                                        |
 | 2/2/26 - I dealt with things without getting too angry, except when she touches chicken | 1/2/26 - told me she would cut the nails , and didn't                                                                |
 |                                                                                         | she's resentful about 2024, so things like me askking her to serve me gets a charged response about : do it yourself |
