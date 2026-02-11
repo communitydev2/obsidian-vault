@@ -10,6 +10,7 @@ https://www.colormatters.com/color-and-design/basic-color-theory
 # lesson 3
 
 talk about lows, mids and highs
+frames
 
 https://www.youtube.com/watch?v=SkosqJfzEs0
 3:35
