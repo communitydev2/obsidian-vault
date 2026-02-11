@@ -63,12 +63,20 @@ tsc greeter.ts - this transpilates your file into javascript
 ```
 - 
 ```
+npm init -y inside folder  
   npm install express  tsconfig-paths typescript
 npm install  ts-node nodemon @types/node -D
   open command prompt (must be in command prompt)
   
-npm init -y inside folder  
 ```
+
+
+
+
+Read later
+
+https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
+
 
 
 https://vtrsalgado.medium.com/a-simple-node-js-boilerplate-with-typescript-647c2601f04
