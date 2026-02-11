@@ -9,6 +9,8 @@ https://www.colormatters.com/color-and-design/basic-color-theory
 
 # lesson 3
 
+https://docs.google.com/presentation/d/11hH5HJ0A0yNQZHyhdHAI8oDlpyp1Lpx6DuM139p1kvU/edit?usp=sharing
+
 talk about lows, mids and highs
 frames
 
