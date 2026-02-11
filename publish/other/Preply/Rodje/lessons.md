@@ -83,3 +83,8 @@ on video, lower constant quality to the least
 add to queue arrow, add all
 
 start queue
+
+# lesson1
+
+https://docs.google.com/presentation/d/1wrTqrvKUgkR3zgacVA7eruMaPXWBvrKiOAd3PW0eqXs/edit?usp=sharing
+
