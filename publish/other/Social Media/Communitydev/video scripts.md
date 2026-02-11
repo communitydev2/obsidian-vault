@@ -8,9 +8,10 @@ Hi all. If you want to see tools, websites, software that a community needs, you
 
 # Manage cards menu
 
-when I press the button
+when I press the button Manage cards on header , it triggers a useState inside useStateStore
 - display ManageCardsMainMenu
 	- check if there's any tcg accounts, if not , display ManageTCGAccounts
+	- 
 
 # conditional rendering on header
 
