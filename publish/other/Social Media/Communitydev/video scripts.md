@@ -57,7 +57,24 @@ when I press the button Manage cards on header , it triggers a useState inside u
 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 - create backend folder
+- 
+```
+tsc greeter.ts - this transpilates your file into javascript
+```
+- 
+  ```
+  
+  open command prompt (must be in command prompt)
+  
+# install nvm
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
 
+# install node 8
+nvm install 8
+
+# to make node 8 the default
+nvm alias default 8
+```
 
 
 https://vtrsalgado.medium.com/a-simple-node-js-boilerplate-with-typescript-647c2601f04
