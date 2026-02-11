@@ -1,4 +1,8 @@
 
+best comebacks ever :
+
+
+
 
 listen de what she says. if she says "MIGHT be a good idea to break up" means that she's unsure if you still want it, so here you need to ask what does she meab, ask quality questions. 
 
