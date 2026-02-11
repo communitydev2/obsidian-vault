@@ -1,4 +1,4 @@
-
+https://speedmaker.notion.site/Grammar-Verb-Cheatsheet-brought-to-you-by-Sakuraspeak-e2529e251f7748f894fbf6a0d9aaeca4
 # (不規則動詞, Fukisoku-doushi) Irregular Verbs
 | Conjugation Type  | する (suru) Casual | する (suru) Formal | 来る (kuru) Casual | 来る (kuru) Formal |
 | ----------------- | ---------------- | ---------------- | ---------------- | ---------------- |
