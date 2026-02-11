@@ -6,8 +6,47 @@ Hi all. If you want to see tools, websites, software that a community needs, you
 # What is docker build
 
 
+# Manage cards menu
+
+when I press the button
+- display ManageCardsMainMenu
+	- check if there's any tcg accounts, if not , display ManageTCGAccounts
+
 # conditional rendering on header
 
+```
+
+
+  
+
+            {authStore.session ? (
+
+                        <Group visibleFrom="sm">
+
+              <Text size="xl" c="dimmed">
+
+                        Hi {authStore.user?.username}
+
+                      <Button variant="default" onClick={handleManageCardsMenu}>Manage Cards</Button>
+
+                      </Text>
+
+          </Group>
+
+            ) : (
+
+              <Group visibleFrom="sm">
+
+              <Button variant="default">Log in</Button>
+
+              <Button>Sign up</Button>
+
+          </Group>
+
+  
+
+            )}
+```
 
 
 
