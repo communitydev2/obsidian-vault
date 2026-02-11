@@ -54,7 +54,7 @@ when I press the button Manage cards on header , it triggers a useState inside u
 # brushing up mern stack
 
 
-11/2/26
+## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 - create backend folder
 - cd backend
@@ -64,8 +64,8 @@ tsc greeter.ts - this transpilates your file into javascript
 - 
 ```
 npm init -y inside folder  
-  npm install express  tsconfig-paths typescript
-npm install  ts-node nodemon @types/node -D
+  npm install express  tsconfig-paths dotenv typescript
+npm install  ts-node nodemon @types/node @types/express -D
   open command prompt (must be in command prompt)
   tsc --init
   
@@ -79,12 +79,25 @@ add to package.json scripts
 ```
 
 
+App.ts:6:24 - error TS2349: This expression is not callable.
+  Type 'typeof e' has no call signatures.
+
+6         this.express = express()
+
+solution:
+https://stackoverflow.com/questions/53142239/typescript-express-type-typeof-e-has-no-compatible-call-signatures
+
+```
+javascript
+import express from "express";
+import bodyParser from "body-parser";
+```
 4 - Add ESLint
 
 
 
 
- Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`
+#### Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`
 - https://dev.to/asjadanis/parsing-env-with-typescript-3jjm
 - create global.d.ts
 ```
@@ -107,12 +120,31 @@ add to tsconfig.json
 ```
 
 
+- in the config.ts , add at the top
+```
+/// <reference types="node" />
+```
+
+#### Could not find a declaration file for module 'express'. 'c:/Users/Migue/Documents/GitHub/brushingupmern/backend/node_modules/express/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express` if it exists or add a new declaration (.d.ts) file containing `declare module 'express';`
+
+
+- https://stackoverflow.com/questions/75845719/could-not-find-a-declaration-file-for-module-express
+
+#### error TS2307: Cannot find module 'dotenv' or its corresponding type declarations.
+
+solution:
+
+https://stackoverflow.com/questions/61407393/while-running-the-script-throws-cannot-find-module-dotenv
+
+npm install dotenv
+
 Read later
 
 https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
 
 
-10/2/26
+## 10/2/26
 
 https://vtrsalgado.medium.com/a-simple-node-js-boilerplate-with-typescript-647c2601f04
 ```
