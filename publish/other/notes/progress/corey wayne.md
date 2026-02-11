@@ -10,7 +10,8 @@ best comebacks ever :
 			- yes
 				- prove it
 - I think I want something sweet. I want ice cream 
-	- I want you naked 
+	- I want you naked in my bed how about that 
+- I can't sleep with a guy on the first date
 
 
 
