@@ -67,9 +67,10 @@ npm init -y inside folder
   npm install express  tsconfig-paths typescript
 npm install  ts-node nodemon @types/node -D
   open command prompt (must be in command prompt)
+  tsc --init
   
 ```
-
+https://tsconfig.guide/
 
 
 
