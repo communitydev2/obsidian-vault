@@ -73,12 +73,17 @@ npm install  ts-node nodemon @types/node -D
 https://tsconfig.guide/
 
 
+ Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.
+- tried to  add  "types": ["node"], in config.json , didn't work
+
+
 
 Read later
 
 https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
 
 
+10/2/26
 
 https://vtrsalgado.medium.com/a-simple-node-js-boilerplate-with-typescript-647c2601f04
 ```
