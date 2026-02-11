@@ -1,5 +1,7 @@
 
 
+listen de what she says. if she says ""
+
 you want to seek women who are open, able, ready, and willing
 
 women who like you put themselves in your orbit, it's your role to make a date happen 
