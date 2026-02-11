@@ -4,8 +4,10 @@ best comebacks ever :
 	- really for how long? 
 		- forever
 			- can I help you pack? 
-- can I have umber
-- 
+- can I have your number
+	- i don't know you that well
+		- let's make out sonwe can get better acquainted. are you a good kiser
+			- 
 
 
 
