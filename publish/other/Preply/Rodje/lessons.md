@@ -16,6 +16,8 @@ Toggle Clips
 ![[Pasted image 20260205113233.png]]
 Color correction is taking footage and correct things (white balance, things look off)
 
+Raw files have no color correction models from the phone
+
 colour grading is where setting the mood
 
 There are different types of scopes (parade, )
@@ -30,7 +32,11 @@ On the wheels
 - Offset - master volume, moving everything at once
 
 - Primary Log wheels
-	- 
+	- Is more precise, doesn't move the bar up too much (say shadows, moves only the lows area, not the rest)
+
+![[Pasted image 20260211115029.png]]
+
+allows you to see before and after
 # lesson 2
 
 Color Harmony
