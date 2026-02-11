@@ -53,6 +53,13 @@ when I press the button Manage cards on header , it triggers a useState inside u
 
 # brushing up mern stack
 
+
+11/2/26
+- https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
+- create backend folder
+
+
+
 https://vtrsalgado.medium.com/a-simple-node-js-boilerplate-with-typescript-647c2601f04
 ```
 npx create-nodejs-ts --no --app=new-app
@@ -107,12 +114,7 @@ journey:
 
 
 https://nodejs.org/en/learn/getting-started/debugging
-# video * - authentication
 
-https://www.youtube.com/watch?v=Q7P20fHJlm4
-
-
-1:21:57
 
 
 # video * - check if username already exists
