@@ -72,10 +72,39 @@ npm install  ts-node nodemon @types/node -D
 ```
 https://tsconfig.guide/
 
+add to package.json scripts
 
- Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`.
-- tried to  add  "types": ["node"], in config.json , didn't work
+```
+"tsc":"tsc"
+```
 
+
+4 - Add ESLint
+
+
+
+
+ Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node`
+- https://dev.to/asjadanis/parsing-env-with-typescript-3jjm
+- create global.d.ts
+```
+
+
+namespace NodeJS {
+  interface ProcessEnv {
+    NODE_ENV: string;
+    PORT: string;
+    MONGO_URI: string;
+  }
+}
+
+
+```
+add to tsconfig.json
+
+```
+"typeRoots": ["./global.d.ts", "./node_modules/@types"]
+```
 
 
 Read later
