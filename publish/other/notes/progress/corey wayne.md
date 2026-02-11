@@ -12,6 +12,9 @@ best comebacks ever :
 - I think I want something sweet. I want ice cream 
 	- I want you naked in my bed how about that 
 - I can't sleep with a guy on the first date
+	- is that your rulebook 
+		- yeah 
+			- 
 
 
 
