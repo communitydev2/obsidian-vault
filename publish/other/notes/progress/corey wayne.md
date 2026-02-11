@@ -6,7 +6,7 @@ best comebacks ever :
 			- can I help you pack? 
 - can I have your number
 	- i don't know you that well
-		- let's make out sonwe can get better acquainted. are you a good kiser
+		- let's make out sonwe can get better acquainted. are you a good kisser 
 			- 
 
 
