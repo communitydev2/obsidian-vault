@@ -57,7 +57,56 @@ when I press the button Manage cards on header , it triggers a useState inside u
 
 ### https://medium.com/@gabrieldrouin/node-js-2025-guide-how-to-setup-express-js-with-typescript-eslint-and-prettier-b342cd21c30d
 
+- node -v > .nvmrc
+- nvm install  
+- nvm use
+- npm init -y
+- on package.json , change type to module
+- remove   "main": "index.js",
 
+```
+
+  npm i express  tsconfig-paths dotenv 
+npm i typescript tsx @tsconfig/node22   nodemon @types/node @types/express -D
+  open command prompt (must be in command prompt)
+  tsc --init
+  
+```
+
+
+- create src folder
+- create index.ts
+- add
+```
+import express from "express";  
+const app = express();  
+const port = "3000";  
+  
+app.get("/", (req, res) => {  
+  res.send("Hello World!");  
+  console.log("Response sent");  
+});  
+  
+app.listen(port, () => {  
+  console.log(`Example app listening on port ${port}`);  
+});
+```
+you must cd into src and run node server.js
+
+```
+{  
+  "extends": "@tsconfig/node22/tsconfig.json",  
+  "compilerOptions": {  
+    "outDir": "./dist",  
+    "rootDir": "./"  
+  },  
+  "include": ["**/*.ts"],  
+  "exclude": ["dist"]  
+}
+```
+
+
+npx tsc
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 - create backend folder
