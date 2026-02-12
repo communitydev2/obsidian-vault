@@ -67,7 +67,7 @@ when I press the button Manage cards on header , it triggers a useState inside u
 ```
 
   npm i express  tsconfig-paths dotenv 
-npm i typescript tsx @tsconfig/node22   @types/node @types/express -D
+npm i prettier typescript tsx @tsconfig/node22   @types/node @types/express -D
   open command prompt (must be in command prompt)
   tsc --init
   
@@ -129,6 +129,31 @@ to run ts files as if you're using nodemon, do
 ```
 npx tsx --watch src/index.ts
 ```
+
+package.json
+
+```
+  "scripts": {  
+    "dev": "tsx --watch src/index.ts",  
+    "start": "node dist/index.js",  
+    "build": "tsc",  
+    "type-check": "tsc --noEmit",  
+    "lint": "eslint .",  
+    "lint:fix": "eslint --fix .",  
+    "format": "prettier --write .",  
+    "format:check": "prettier --check .",  
+    "test": "echo \"Error: no test specified\" && exit 1",  
+  },
+```
+
+to create a prettier rc , do
+
+```
+echo '{}' > .prettierrc
+echo 'dist' > .prettierignore
+```
+
+
 
 
 ## 11/2/26
