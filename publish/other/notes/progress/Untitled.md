@@ -85,7 +85,6 @@ early riser
 
 
 
-
 | qualities I want                                       | qualities I don't want                                              |
 | ------------------------------------------------------ | ------------------------------------------------------------------- |
 | I want someone who wants to be healthy. They eat meat. | My personal experience is that I don’t want someone who is devious. |
