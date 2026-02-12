@@ -181,9 +181,23 @@ cd .vscode
  
 ```
 
+```
+src/  
+├── middlewares/  
+│   └── middlewares.ts  
+└── subfolder/  
+   └── subsubfolder/  
+       └── app/  
+           └── index.ts
+```
 
+on package.json do 
 
-
+```
+ "imports": {  
+    "#*": "./src/*"  
+  }
+```
 
 
 
