@@ -1,2 +1,36 @@
 someone missed your order on a cafe
 - my latte seems to have missed the bus
+
+best comebacks ever :
+- I'm breaking up with you
+	- really for how long? 
+		- forever
+			- can I help you pack? 
+- can I have your number
+	- i don't know you that well
+		- let's make out sonwe can get better acquainted. are you a good kisser 
+			- yes
+				- prove it
+- I think I want something sweet. I want ice cream 
+	- I want you naked in my bed how about that 
+- I can't sleep with a guy on the first date
+	- is that your rulebook 
+		- yeah 
+			- you need to throw that away because tht rule doesn't apply to me honey
+- you're such a jerk, I would never want you
+	- I think you need to come here and just kiss me
+	- too much of a chicken to kiss me? that must mean you're a bad kisser
+	- I'll give you a chance, if you can't impress me, you're out. not mean, guys gotta have standards 
+- I'm leaving you for another man
+	- you'll be back
+- let's just be friends
+	- friends with benefits sounds great, I'm in
+		- no
+			- that won't work for me can't be with you without touching you
+				- no
+					- give me a call if you change your mind 
+- when someone is rude to you
+	- i love when you talk to me like that 
+- you're a jerk
+	- thanks for noticing 
+	- i love when you talk sweet

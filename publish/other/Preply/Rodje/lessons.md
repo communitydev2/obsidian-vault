@@ -16,7 +16,11 @@ frames
 
 https://www.youtube.com/watch?v=SkosqJfzEs0
 3:35
+### Good titles
 
+Draw on corners
+Drop in lower third
+Fade On
 
 ## Color  tutorial
 
@@ -65,11 +69,7 @@ Show him the same techniques from the other videos he said he want to make
 Double click on the keyframe opens the values
 
 
-### Good titles
 
-Draw on corners
-Drop in lower third
-Fade On
 
 
 
