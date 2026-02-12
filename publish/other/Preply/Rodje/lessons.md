@@ -35,14 +35,14 @@ https://www.premiumbeat.com/blog/manipulate-emotions-with-color-in-film/
 https://docs.google.com/presentation/d/11hH5HJ0A0yNQZHyhdHAI8oDlpyp1Lpx6DuM139p1kvU/edit?usp=sharing
 
 talk about lows, mids and highs
-frames
 
-
-### Good titles
+Good titles
 
 Draw on corners
 Drop in lower third
 Fade On
+
+Show how to do a simple masking image
 
 ### https://www.youtube.com/watch?v=SkosqJfzEs0 Color  tutorial
 
