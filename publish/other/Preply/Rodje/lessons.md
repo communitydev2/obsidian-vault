@@ -9,6 +9,10 @@ https://www.colormatters.com/color-and-design/basic-color-theory
 
 # lesson 4
 
+
+### topic specific color - reshow color correction
+
+
 https://www.youtube.com/watch?v=8HyJaeEng1E
 
 Fix white balance 
