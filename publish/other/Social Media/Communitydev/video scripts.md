@@ -67,7 +67,7 @@ when I press the button Manage cards on header , it triggers a useState inside u
 ```
 
   npm i express  tsconfig-paths dotenv 
-npm i typescript tsx @tsconfig/node22   nodemon @types/node @types/express -D
+npm i typescript tsx @tsconfig/node22   @types/node @types/express -D
   open command prompt (must be in command prompt)
   tsc --init
   
@@ -107,6 +107,30 @@ you must cd into src and run node server.js
 
 
 npx tsc
+
+
+if you run node server.js, make sure you see the directory, as it can be wrong. I had to put dist/src
+
+to run a tsx file without compilation, we do
+
+```
+npx tsx src/index.ts
+```
+
+
+to test file without showing ts errors , do 
+
+```
+npx tsc --noEmit && npx tsx src/index.ts
+```
+
+to run ts files as if you're using nodemon, do
+
+```
+npx tsx --watch src/index.ts
+```
+
+
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 - create backend folder
