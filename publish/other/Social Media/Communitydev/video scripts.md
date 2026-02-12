@@ -53,6 +53,10 @@ when I press the button Manage cards on header , it triggers a useState inside u
 
 # brushing up mern stack
 
+## 12/2/25
+
+### https://medium.com/@gabrieldrouin/node-js-2025-guide-how-to-setup-express-js-with-typescript-eslint-and-prettier-b342cd21c30d
+
 
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
