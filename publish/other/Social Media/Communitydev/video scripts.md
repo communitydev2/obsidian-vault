@@ -64,7 +64,7 @@ tsc greeter.ts - this transpilates your file into javascript
 - 
 ```
 npm init -y inside folder  
-  npm install express  tsconfig-paths dotenv typescript
+  npm install express  tsconfig-paths dotenv typescript typescript-eslint-parser
 npm install  ts-node nodemon @types/node @types/express -D
   open command prompt (must be in command prompt)
   tsc --init
@@ -93,6 +93,8 @@ import express from "express";
 import bodyParser from "body-parser";
 ```
 4 - Add ESLint
+
+
 
 
 
