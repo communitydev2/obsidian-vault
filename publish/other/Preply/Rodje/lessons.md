@@ -19,6 +19,17 @@ On bottom right, scopes, vector scopes
 https://www.premiumbeat.com/blog/manipulate-emotions-with-color-in-film/
 
 
+### https://www.youtube.com/watch?v=y0oCLWIzoxA - Smart filters
+
+
+### https://www.youtube.com/watch?v=wrkq9KaG3uc - color manage
+
+![[Pasted image 20260212014510.png]]
+
+
+
+
+
 # lesson 3
 
 https://docs.google.com/presentation/d/11hH5HJ0A0yNQZHyhdHAI8oDlpyp1Lpx6DuM139p1kvU/edit?usp=sharing
@@ -26,15 +37,14 @@ https://docs.google.com/presentation/d/11hH5HJ0A0yNQZHyhdHAI8oDlpyp1Lpx6DuM139p1
 talk about lows, mids and highs
 frames
 
-https://www.youtube.com/watch?v=SkosqJfzEs0
-3:35
+
 ### Good titles
 
 Draw on corners
 Drop in lower third
 Fade On
 
-## Color  tutorial
+### https://www.youtube.com/watch?v=SkosqJfzEs0 Color  tutorial
 
 Toggle Clips
 
@@ -109,3 +119,4 @@ start queue
 
 https://docs.google.com/presentation/d/1wrTqrvKUgkR3zgacVA7eruMaPXWBvrKiOAd3PW0eqXs/edit?usp=sharing
 
+https://www.colormatters.com/color-and-design/basic-color-theory
