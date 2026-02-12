@@ -7,6 +7,18 @@ Windows laptop
 https://www.colormatters.com/color-and-design/basic-color-theory
 
 
+# lesson 4
+
+https://www.youtube.com/watch?v=8HyJaeEng1E
+
+Fix white balance 
+
+On bottom right, scopes, vector scopes
+![[Pasted image 20260212012447.png]]
+
+https://www.premiumbeat.com/blog/manipulate-emotions-with-color-in-film/
+
+
 # lesson 3
 
 https://docs.google.com/presentation/d/11hH5HJ0A0yNQZHyhdHAI8oDlpyp1Lpx6DuM139p1kvU/edit?usp=sharing
