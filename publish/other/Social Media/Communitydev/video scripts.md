@@ -66,8 +66,8 @@ when I press the button Manage cards on header , it triggers a useState inside u
 
 ```
 
-  npm i express  tsconfig-paths dotenv 
-npm i prettier typescript tsx @tsconfig/node22   @types/node @types/express -D
+  npm i express  tsconfig-paths    
+npm i prettier typescript tsx dotenv @tsconfig/node22   @types/node @types/express eslint typescript-eslint @eslint/js eslint-plugin-perfectionist -D
   open command prompt (must be in command prompt)
   tsc --init
   
@@ -152,6 +152,37 @@ to create a prettier rc , do
 echo '{}' > .prettierrc
 echo 'dist' > .prettierignore
 ```
+
+```
+mkdir .vscode  
+cd .vscode  
+ echo '{
+
+   "recommendations": [
+
+     "dbaeumer.vscode-eslint",
+
+     "esbenp.prettier-vscode",
+
+     "ms-vscode.vscode-typescript-next"
+
+   ]
+
+ }' >  extensions.json
+ 
+  echo '{
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.formatOnSave": true
+
+}' >  settings.json
+ 
+ 
+```
+
+
+
 
 
 
