@@ -57,6 +57,15 @@ when I press the button Manage cards on header , it triggers a useState inside u
 
 ### https://medium.com/@gabrieldrouin/node-js-2025-guide-how-to-setup-express-js-with-typescript-eslint-and-prettier-b342cd21c30d
 
+
+### things to take note
+- nodemon is no longer used after node 18, now its tsx watch
+- dotenv package is no longer needed after node 20.6, now it's --env-file .env
+- .env.example for another dev to know which files to add
+
+
+
+
 - node -v > .nvmrc
 - nvm install  
 - nvm use
@@ -199,7 +208,14 @@ on package.json do
   }
 ```
 
+when using dotenv, there are a few changes:
 
+```
+"scripts": {  
+    "dev": "tsx --watch --env-file .env src/index.ts",  
+    "start": "node --env-file .env dist/index.js",  
+  },
+```
 
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
