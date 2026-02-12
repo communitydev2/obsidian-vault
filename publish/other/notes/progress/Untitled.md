@@ -61,28 +61,6 @@ early riser
 |                                                                                         | she only hugs me when she knows I'm about to start working, in other words, when I'm not paying any attention to her. I always tell her I'm busy, she always ignores it and tries to make me stay longer. Today she got to the point and said "if I said we'd have sex you'd stay", I turned back and said "say we're gonna, see if I stay, say you're gonna susu see if I'm gonna stay" |
 
 
-| good things                                                                                 | bad things |
-| ------------------------------------------------------------------------------------------- | ---------- |
-| 10/2/26                                                                                     |            |
-| in alive                                                                                    |            |
-| I'm healthy                                                                                 |            |
-| i have choices                                                                              |            |
-| I'm abundant                                                                                |            |
-| i have people who love me                                                                   |            |
-| getting opportunities                                                                       |            |
-| 9/2/26                                                                                      |            |
-| saw stunning woman in job centre, blue eyes, tall, nice boobs, really nice attractive lady. |            |
-| got back at doing some more work.                                                           |            |
-| bought new phone                                                                            |            |
-| got back to atelier yumia                                                                   |            |
-| asked rhys to get lift to Guildford                                                         |            |
-| 10/2                                                                                        |            |
-| am alive                                                                                    |            |
-| have health                                                                                 |            |
-| have people that care about me                                                              |            |
-| have the means to improve my life                                                           |            |
-
-
 
 
 | qualities I want                                       | qualities I don't want                                              |
