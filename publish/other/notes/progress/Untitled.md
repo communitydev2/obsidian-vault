@@ -86,6 +86,8 @@ we plan our time, and when se come together, we love spending time together. we 
 
 
 
+
+
 | what I want on my career                                                             |     |
 | ------------------------------------------------------------------------------------ | --- |
 | I get paid by creating custom software for people in different communities in twitch |     |
