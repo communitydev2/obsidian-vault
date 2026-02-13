@@ -1,4 +1,10 @@
 
+13/2/26
+- my question - question about negotiating a potential offer. job is in another city 3h away from where I am currently living, they want full time on site, but the hiring manager which got me to the final stage does work full time remote. what can I work with here on raising my starting salary to the max or potentially working fully remote as well, avoiding having to relocate because of the job?
+- 8 - ai - swe won't go away, the tasks that the devs are doing will change
+- 
+
+
 10/2/26
 - 11 - person has to reschedule 4h company test, leon said : be aware how they treat you at the start of the relationship
 - 16 - hes mentioning video editors, focus on software and video editing
