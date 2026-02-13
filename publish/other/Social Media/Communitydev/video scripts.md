@@ -62,6 +62,7 @@ when I press the button Manage cards on header , it triggers a useState inside u
 - nodemon is no longer used after node 18, now its tsx watch
 - dotenv package is no longer needed after node 20.6, now it's --env-file .env
 - .env.example for another dev to know which files to add
+- 
 
 
 
@@ -216,6 +217,11 @@ when using dotenv, there are a few changes:
     "start": "node --env-file .env dist/index.js",  
   },
 ```
+
+
+
+
+
 
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
