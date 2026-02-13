@@ -1,6 +1,19 @@
 
 | good things                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------- |
+| 14/2                                                                                                                      |
+| I'm going to be confident in the video lesson                                                                             |
+| I'm going tonhe better tomorrow                                                                                           |
+| I'm going to have a wonderful day tomorrow                                                                                |
+| I'm going to have 7 new followers on twitch                                                                               |
+| ll will be raided tomorrow on twitch by 285 people                                                                        |
+| I will get 39 new twitch subs tier 3                                                                                      |
+| I will be healthy tomorrow                                                                                                |
+| I will have quality conversations tomorrow                                                                                |
+| I will have fun on my own tomorrow                                                                                        |
+|                                                                                                                           |
+|                                                                                                                           |
+| I'm meeting  speaking and touching a new woman tomorrow who shows great    interest for me, I will also get her number    |
 | 13/2/26                                                                                                                   |
 | I'm alive                                                                                                                 |
 | I'm healthy                                                                                                               |
@@ -8,7 +21,7 @@
 | I will meet abd make a new connection tomorrow                                                                            |
 | I will get 3 new paid subs in my stream                                                                                   |
 | I will do all my tasks                                                                                                    |
-| I will be invited ti the interview                                                                                        |
+| I will be invited ti the interview - happened!                                                                            |
 | I will speak to a beautiful woman on my way outside - happened on the gym! had to ask a lady to move away                 |
 | I will get a confirmation for Wednesday morning 9h37 in London for the test                                               |
 | I will nake great progress tomorrow in my brushing up skills                                                              |
@@ -20,7 +33,7 @@
 | I will be calm and playful to susu                                                                                        |
 | I will be happy tomorrow                                                                                                  |
 | I will get 378.47 money from somewhere unexpected                                                                         |
-| n                                                                                                                         |
+|                                                                                                                           |
 |                                                                                                                           |
 |                                                                                                                           |
 |                                                                                                                           |
