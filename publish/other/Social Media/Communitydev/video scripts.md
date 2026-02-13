@@ -63,6 +63,8 @@ when I press the button Manage cards on header , it triggers a useState inside u
 - dotenv package is no longer needed after node 20.6, now it's --env-file .env
 - .env.example for another dev to know which files to add
 - Vitest is better than Jest as it has native ESM and Typescript support, Jest is better for CommonJs projects, and older node.js projects (v20 and below)
+- Helmet is used to set security headers by default
+- app.use(helmet());
 
 
 
