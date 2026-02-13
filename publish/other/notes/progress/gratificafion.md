@@ -3,7 +3,7 @@
 | ------------------------------------------------------------------------------------------------------------------------- |
 | 14/2                                                                                                                      |
 | I'm going to be confident in the video lesson                                                                             |
-| I'm meeting  speaking and touching a new woman tomorrow who shows great    interest for me                                |
+| I'm meeting  speaking and touching a new woman tomorrow who shows great    interest for me, I will also get her number    |
 |                                                                                                                           |
 |                                                                                                                           |
 |                                                                                                                           |
