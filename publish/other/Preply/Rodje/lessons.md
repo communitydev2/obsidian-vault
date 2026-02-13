@@ -18,6 +18,9 @@ https://www.colormatters.com/color-and-design/basic-color-theory
 - share folder with me
 - we can work on the same project
 - show that he can backup his project if he wants to
+- work on cello video
+- work on toucan video
+- work on his project
 - 
 
 
