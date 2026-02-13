@@ -219,7 +219,12 @@ when using dotenv, there are a few changes:
 ```
 
 
+#### Vitest
 
+```
+mkdir -p src/__tests__  
+mkdir -p src/utils
+```
 
 
 
