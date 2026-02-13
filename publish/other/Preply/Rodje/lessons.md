@@ -9,6 +9,11 @@ https://www.colormatters.com/color-and-design/basic-color-theory
 
 # lesson 4
 
+### Structure
+- bottom right, set framerate to 30fps
+- 
+
+
 
 ### topic specific color - reshow color correction
 
