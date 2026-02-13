@@ -226,6 +226,19 @@ mkdir -p src/__tests__
 mkdir -p src/utils
 ```
 
+create a tsconfig.build.json
+
+```
+{
+
+  "extends": "./tsconfig.json",
+
+  "exclude": ["**/*.test.ts", "**/*.spec.ts"]
+
+}
+```
+
+
 
 
 ## 11/2/26
