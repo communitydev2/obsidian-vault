@@ -2,7 +2,21 @@
 13/2/26
 - my question - question about negotiating a potential offer. job is in another city 3h away from where I am currently living, they want full time on site, but the hiring manager which got me to the final stage does work full time remote. what can I work with here on raising my starting salary to the max or potentially working fully remote as well, avoiding having to relocate because of the job?
 - 8 - ai - swe won't go away, the tasks that the devs are doing will change
-- 
+- 29 - to be a principal engineer, you need to know theory, but to be up to date. Consume hacker news, twitter
+	- https://news.ycombinator.com/classic
+	- secret life of programs book
+	- leon made a custom anki
+- 38
+	- never give a budget, ask for a budget , and do something for that price point
+- 39
+	- growth does not come from your job
+- 41
+	- if working remotely, invite people to have lunch online
+- 45 - hellointerview is a good source
+- 48 - A philosophy of software design book
+- Deep learning for coders with fast ai and pytorch book
+- designing data and intensive applications book
+- scip book
 
 
 10/2/26
