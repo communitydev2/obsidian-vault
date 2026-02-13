@@ -8,9 +8,9 @@
 | I'm going to have 7 new followers on twitch                                                                               |
 | ll will be raided tomorrow on twitch by 285 people                                                                        |
 | I will get 39 new twitch subs tier 3                                                                                      |
-|                                                                                                                           |
-|                                                                                                                           |
-|                                                                                                                           |
+| I will be healthy tomorrow                                                                                                |
+| I will have quality conversations tomorrow                                                                                |
+| I will have fun on my own tomorrow                                                                                        |
 |                                                                                                                           |
 |                                                                                                                           |
 | I'm meeting  speaking and touching a new woman tomorrow who shows great    interest for me, I will also get her number    |
