@@ -221,6 +221,25 @@ when using dotenv, there are a few changes:
 
 #### Vitest
 
+create a vitest.config.ts
+
+```
+import { defineConfig } from "vitest/config";  
+  
+export default defineConfig({});
+```
+
+scripts
+```
+"scripts": {  
+  "build": "tsc -p tsconfig.build.json",  
+  "test": "vitest",  
+  "test:run": "vitest --run",  
+  "test:ui": "vitest --ui",  
+  "coverage": "vitest run --coverage",  
+}
+```
+
 ```
 mkdir -p src/__tests__  
 mkdir -p src/utils
