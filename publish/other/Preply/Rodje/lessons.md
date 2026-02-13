@@ -11,6 +11,13 @@ https://www.colormatters.com/color-and-design/basic-color-theory
 
 ### Structure
 - bottom right, set framerate to 30fps
+- home button bottom right
+- ![[Pasted image 20260213112235.png]]
+- add project library
+- set on his google drive
+- share folder with me
+- we can work on the same project
+- show that he can backup his project if he wants to
 - 
 
 
