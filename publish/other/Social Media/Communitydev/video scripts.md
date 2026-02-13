@@ -77,7 +77,7 @@ when I press the button Manage cards on header , it triggers a useState inside u
 ```
 
   npm i express  tsconfig-paths    
-npm i prettier typescript tsx dotenv @tsconfig/node22   @types/node @types/express eslint  @eslint/js eslint-plugin-perfectionist -D
+npm i prettier typescript tsx dotenv @tsconfig/node22   @types/node @types/express eslint  @eslint/js eslint-plugin-perfectionist vitest @vitest/coverage-v8 @vitest/eslint-plugin -D
   open command prompt (must be in command prompt)
   tsc --init
   
