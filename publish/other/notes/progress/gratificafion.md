@@ -9,7 +9,7 @@
 | I will get 3 new paid subs in my stream                                                                                   |
 | I will do all my tasks                                                                                                    |
 | I will be invited ti the interview                                                                                        |
-| I will speak to a beautiful woman on my way outside                                                                       |
+| I will speak to a beautiful woman on my way outside - happened on the gym! had to ask a lady to move away                 |
 | I will get a confirmation for Wednesday morning 9h37 in London for the test                                               |
 | I will nake great progress tomorrow in my brushing up skills                                                              |
 | My ear will heal                                                                                                          |
