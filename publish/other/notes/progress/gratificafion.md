@@ -3,13 +3,13 @@
 | ------------------------------------------------------------------------------------------------------------------------- |
 | 14/2                                                                                                                      |
 | I'm going to be confident in the video lesson                                                                             |
+| I'm going tonhe better tomorrow                                                                                           |
+| I'm going to have a wonderful day tomorrow                                                                                |
+|                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
 | I'm meeting  speaking and touching a new woman tomorrow who shows great    interest for me, I will also get her number    |
-|                                                                                                                           |
-|                                                                                                                           |
-|                                                                                                                           |
-|                                                                                                                           |
-|                                                                                                                           |
-|                                                                                                                           |
 | 13/2/26                                                                                                                   |
 | I'm alive                                                                                                                 |
 | I'm healthy                                                                                                               |
