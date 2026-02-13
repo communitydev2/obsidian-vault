@@ -64,7 +64,8 @@ when I press the button Manage cards on header , it triggers a useState inside u
 - .env.example for another dev to know which files to add
 - Vitest is better than Jest as it has native ESM and Typescript support, Jest is better for CommonJs projects, and older node.js projects (v20 and below)
 - Helmet is used to set security headers by default
-- 
+- use cors 
+- add husky
   ```
   app.use(helmet());
   ```
@@ -93,7 +94,7 @@ app.use(cors())
 ```
 
   npm i express  tsconfig-paths cors helmet morgan   
-npm i prettier typescript tsx dotenv @tsconfig/node22   @types/node @types/express eslint  @eslint/js eslint-plugin-perfectionist vitest @vitest/coverage-v8 @vitest/eslint-plugin -D
+npm i prettier typescript tsx dotenv  husky lint-staged @tsconfig/node22   @types/node @types/express eslint  @eslint/js eslint-plugin-perfectionist vitest @vitest/coverage-v8 @vitest/eslint-plugin -D
   open command prompt (must be in command prompt)
   tsc --init
   
@@ -311,6 +312,33 @@ export default tseslint.config(
 );
 ```
 
+### Husky
+
+Tests files before commiting
+```
+
+npx husky init
+```
+
+```
+npm run test:run  
+npm run type-check  
+npx lint-staged
+```
+
+in package.json
+
+```
+ "lint-staged": {  
+    "*.{js,jsx,ts,tsx}": [  
+      "eslint",  
+      "prettier --check"  
+    ],  
+    "*.{json,yml,yaml,md}": [  
+      "prettier --check"  
+    ]  
+  }
+```
 
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
