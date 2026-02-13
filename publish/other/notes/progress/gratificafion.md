@@ -1,9 +1,35 @@
 
 | good things                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------- |
+| 13/2/26                                                                                                                   |
+| I'm alive                                                                                                                 |
+|                                                                                                                           |
+|                                                                                                                           |
+| I will meet abd make a new connection tomorrow                                                                            |
+| I will get 3 new paid subs in my stream                                                                                   |
+| I will do all my tasks                                                                                                    |
+| I will be invited ti the interview                                                                                        |
+| I will speak to a beautiful woman on my way outside                                                                       |
+| I will get a confirmation for Wednesday morning 9h37 in London for the test                                               |
+| I will nake great progress tomorrow in my brushing up skills                                                              |
+| My ear will heal                                                                                                          |
+| I will meet someone amazing in the stream                                                                                 |
+| I will have something important for me happening for me tomorrow                                                          |
+| tomorrow she will want it do susu                                                                                         |
+| I will sleep really well                                                                                                  |
+| I will be calm and playful to susu                                                                                        |
+| I will be happy tomorrow                                                                                                  |
+| I will get 378.47 money from somewhere unexpected                                                                         |
+| n                                                                                                                         |
+|                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
 | 12/2/26                                                                                                                   |
 | I'm alive<br>I'm healthy<br>I have something to live for<br>I have a purpose<br>I have money<br>I have people who love me |
-| today I manifested getting a rai                                                                                          |
+| today I manifested getting a rainbow mimikyu ex, and I did!                                                               |
+| networking got me a free trip to Guildford and possibly a free ticket too!                                                |
+|                                                                                                                           |
+|                                                                                                                           |
 | 10/2/26                                                                                                                   |
 | in alive                                                                                                                  |
 | I'm healthy                                                                                                               |
