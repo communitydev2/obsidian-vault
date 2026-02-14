@@ -1,5 +1,6 @@
 
 when you care about what other people think, you will always be their prisoner. 
+give your love to people who accepts it and matches your energy. 
 
 
 
