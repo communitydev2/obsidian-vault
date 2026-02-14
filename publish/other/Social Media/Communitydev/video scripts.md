@@ -1,4 +1,12 @@
 
+# Handling multiple account creation on react
+
+- create a type of the input
+- make a separate component for the input
+- add a counter where everytime you press , it adds another field to add account.
+- map according to the number you've input
+
+
 # twitch intro
 
 Hi all. If you want to see tools, websites, software that a community needs, you've come to the right place! I am creating a website for people to trade Pokemon cards in Pokemon Pocket at the moment. I'll see you live,
