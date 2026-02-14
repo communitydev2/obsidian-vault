@@ -13,7 +13,7 @@
 | I will have fun on my own tomorrow                                                                                        |
 | I'm alive                                                                                                                 |
 | I'm healthy                                                                                                               |
-|                                                                                                                           |
+| I have people                                                                                                             |
 |                                                                                                                           |
 |                                                                                                                           |
 |                                                                                                                           |
