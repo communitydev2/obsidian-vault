@@ -1,7 +1,7 @@
 
 when you care about what other people think, you will always be their prisoner. 
 give your love to people who accepts it and matches your energy. 
-your life should be the cake. a woman in your life should be the cherry only, not the whole thing. In other words, you must be happy BEFORE
+your life should be the cake. a woman in your life should be the cherry only, not the whole thing. In other words, you must be happy BEFORE your relationship. 
 
 
 if they call you, assume they want to see you.. 
