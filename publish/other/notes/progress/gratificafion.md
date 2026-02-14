@@ -7,6 +7,12 @@
 |                                                                                                                           |
 |                                                                                                                           |
 |                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
+|                                                                                                                           |
 | I'm going to be confident in the video lesson                                                                             |
 | I'm going tonhe better tomorrow                                                                                           |
 | I'm going to have a wonderful day tomorrow                                                                                |
