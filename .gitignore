@@ -2,3 +2,6 @@
 **/**.DS_Store
 auto-sync.log
 .sync.lock/
+
+# Windows shortcuts
+*.lnk

@@ -348,6 +348,61 @@ in package.json
   }
 ```
 
+
+### Github actions
+```
+mkdir -p .github/workflows  
+touch .github/workflows/ci.yml
+
+```
+
+inside ci.yml
+
+```
+name: CI  
+  
+on:  
+  push:  
+    branches:  
+      - main  
+  
+jobs:  
+  quality-checks:  
+    runs-on: ubuntu-latest  
+  
+    steps:  
+      - name: Checkout code  
+        uses: actions/checkout@v4  
+  
+      - name: Setup Node.js  
+        uses: actions/setup-node@v4  
+        with:  
+          node-version-file: ".nvmrc"  
+          cache: "npm"  
+  
+      - name: Install dependencies  
+        run: npm ci  
+  
+      - name: Run tests  
+        run: npm run test:run  
+  
+      - name: Run TypeScript type checking  
+        run: npm run type-check  
+  
+      - name: Run ESLint and fix  
+        run: npm run lint:fix  
+  
+      - name: Format with Prettier  
+        run: npm run format  
+  
+      - name: Check for remaining ESLint errors  
+        run: npm run lint  
+  
+      - name: Check for remaining formatting issues  
+        run: npm run format:check
+```
+
+
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 - create backend folder

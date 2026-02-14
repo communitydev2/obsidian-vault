@@ -4,6 +4,14 @@ Windows laptop
 
 
 
+# lesson 5 
+
+- alpha channel
+- I was changing the saturation on a node below the one on the left, and it was changing the whole color???
+- maybe show how to mask something?
+
+
+
 https://www.colormatters.com/color-and-design/basic-color-theory
 
 
