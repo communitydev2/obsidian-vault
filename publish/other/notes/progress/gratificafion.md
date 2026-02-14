@@ -13,9 +13,9 @@
 | I will have fun on my own tomorrow                                                                                        |
 | I'm alive                                                                                                                 |
 | I'm healthy                                                                                                               |
-| I have people me                                                                                                          |
-|                                                                                                                           |
-|                                                                                                                           |
+| I have people who love me                                                                                                 |
+| I have a purpose                                                                                                          |
+| I have money                                                                                                              |
 |                                                                                                                           |
 |                                                                                                                           |
 | I'm meeting  speaking and touching a new woman tomorrow who shows great    interest for me, I will also get her number    |
