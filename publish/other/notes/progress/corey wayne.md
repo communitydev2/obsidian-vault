@@ -1,4 +1,7 @@
 
+when you care about what other people think, you will always be their prisoner. 
+
+
 
 if they call you, assume they want to see you.. 
 
