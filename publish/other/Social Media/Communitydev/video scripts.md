@@ -467,7 +467,15 @@ https://medium.com/@itsdavidmandal/building-a-basic-crud-app-with-the-mern-stack
 npm i mongoose
 ```
 
+to return new data in mongodb, do 
 
+```
+const updateUser = await User.findByIdAndUpdate(id,req.body,{
+
+                new:true
+
+            });
+```
 
 
 
