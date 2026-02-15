@@ -366,4 +366,20 @@ const updateUser = await User.findByIdAndUpdate(id,req.body,{
             });
 ```
 
+### Error The requested module '../routes/userroutes.js' does not provide an export named 'userroutes'
+
+
+https://stackoverflow.com/questions/79217365/syntaxerror-the-requested-module-routes-authroutes-js-does-not-provide-an-e
+
+if you have 
+
+```
+module.exports = router;
+```
+
+to 
+
+```
+export default router;
+```
 
