@@ -4,7 +4,7 @@
 | 15/2                                                                                                                      |
 |                                                                                                                           |
 |                                                                                                                           |
-| this morning she told me it was the best date                                                                             |
+| this morning she told me it was the best date we've had. it was a good idea to let me lead on the date                    |
 | 14/2                                                                                                                      |
 | nice movie at the end of the day that I put for us                                                                        |
 |                                                                                                                           |
