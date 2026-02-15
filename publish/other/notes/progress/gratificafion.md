@@ -3,7 +3,12 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 15/2                                                                                                                                                                                                    |
 | I'm alive                                                                                                                                                                                               |
-| I'm heak                                                                                                                                                                                                |
+| I'm healthy                                                                                                                                                                                             |
+| I have people who love me                                                                                                                                                                               |
+| I have money                                                                                                                                                                                            |
+| I have friends                                                                                                                                                                                          |
+|                                                                                                                                                                                                         |
+|                                                                                                                                                                                                         |
 | this morning she told me it was the best date we've had. it was a good idea to let me lead on the date, the book I'm reading really works. i made her feel special, there was a different aura about me |
 | 14/2                                                                                                                                                                                                    |
 |                                                                                                                                                                                                         |
