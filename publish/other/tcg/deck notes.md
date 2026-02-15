@@ -22,3 +22,8 @@ meowth holds off the bar, darkrai very good agains meowth
 # magnezone
 
 always bring chingling as you might lose your obstaoon and need to find another
+
+
+# blaziken entei
+
+might have mars, hold on professor
