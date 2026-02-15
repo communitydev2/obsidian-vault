@@ -453,6 +453,16 @@ jobs:
 ```
 https://medium.com/@itsdavidmandal/building-a-basic-crud-app-with-the-mern-stack-a-step-by-step-guide-6eb551fb1161
 
+
+### MongoDB
+
+- in mongodb compass
+- create connection, paste connection from server
+
+
+
+
+
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 - create backend folder
