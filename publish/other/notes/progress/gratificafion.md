@@ -8,7 +8,7 @@
 | I have money                                                                                                                                                                                            |
 | I have friends                                                                                                                                                                                          |
 |                                                                                                                                                                                                         |
-|                                                                                                                                                                                                         |
+| she told me later on she hasn't felt butterflies in a long time, mentioned the book again.                                                                                                              |
 | this morning she told me it was the best date we've had. it was a good idea to let me lead on the date, the book I'm reading really works. i made her feel special, there was a different aura about me |
 | 14/2                                                                                                                                                                                                    |
 |                                                                                                                                                                                                         |
