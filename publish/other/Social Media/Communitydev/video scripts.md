@@ -1,4 +1,9 @@
 
+# how to make react typescript components
+
+https://react.dev/learn/typescript
+
+
 # Handling multiple account creation on react
 
 - create a type of the input
