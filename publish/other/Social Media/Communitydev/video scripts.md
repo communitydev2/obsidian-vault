@@ -459,6 +459,9 @@ https://medium.com/@itsdavidmandal/building-a-basic-crud-app-with-the-mern-stack
 - in mongodb compass
 - create connection, paste connection from server
 - to find password, go to database & network access, and click on database users
+- create a userModel,
+	- schema
+		- each field can be unique or required
 
 ```
 npm i mongoose
