@@ -1,5 +1,5 @@
 
-If you want your woman to do more of what you want, praise her for the things you love abou
+If you want your woman to do more of what you want, praise her for the things you love about her. 
 
 
 when you care about what other people think, you will always be their prisoner. 
