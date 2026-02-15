@@ -460,6 +460,10 @@ https://medium.com/@itsdavidmandal/building-a-basic-crud-app-with-the-mern-stack
 - create connection, paste connection from server
 - to find password, go to database & network access, and click on database users
 
+```
+npm i mongoose
+```
+
 
 
 
