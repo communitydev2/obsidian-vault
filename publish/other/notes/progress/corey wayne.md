@@ -1,4 +1,7 @@
 
+If you want your woman to do more of what you want, praise her for the things you love abou
+
+
 when you care about what other people think, you will always be their prisoner. 
 give your love to people who accepts it and matches your energy. 
 your life should be the cake. a woman in your life should be the cherry only, not the whole thing. In other words, you must be happy BEFORE your relationship. 
