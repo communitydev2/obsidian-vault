@@ -401,7 +401,7 @@ jobs:
       - name: Check for remaining formatting issues  
         run: npm run format:check
 ```
-
+https://medium.com/@itsdavidmandal/building-a-basic-crud-app-with-the-mern-stack-a-step-by-step-guide-6eb551fb1161
 
 ## 11/2/26
 - https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
