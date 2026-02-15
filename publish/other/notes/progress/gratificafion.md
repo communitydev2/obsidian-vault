@@ -6,6 +6,7 @@
 | I'm heak                                                                                                                                                                                                |
 | this morning she told me it was the best date we've had. it was a good idea to let me lead on the date, the book I'm reading really works. i made her feel special, there was a different aura about me |
 | 14/2                                                                                                                                                                                                    |
+|                                                                                                                                                                                                         |
 | nice movie at the end of the day that I put for us                                                                                                                                                      |
 | I spread my arms in the lounge.                                                                                                                                                                         |
 |                                                                                                                                                                                                         |
