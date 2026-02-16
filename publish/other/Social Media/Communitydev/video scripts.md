@@ -3,6 +3,10 @@
 
 https://daily.dev/blog/reactjs-useform-for-dynamic-forms
 
+register() takes info from any input or dropdowns
+handleSubmit() handles press button
+formState 
+
 
 
 
