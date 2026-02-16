@@ -1,4 +1,6 @@
 
+take advantage of the opportunities life giv
+
 
 flexible, positive, bubbly, loves her father, easygoing, giver, bice to you, happy, comes from a good home. if she's structured it's not worthy, as it's the opposite of being easygoing 
 

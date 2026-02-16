@@ -9,7 +9,7 @@
 | I will speak to an attractive for more than a question                                                                                                                                                  |
 | I will have courage to not lose my patience with susie                                                                                                                                                  |
 | I will be motivated and believe in myself                                                                                                                                                               |
-| I will visu             k                                                                                                                                                                               |
+| I will visualise and look more at the positives.                                                                                                                                                        |
 |                                                                                                                                                                                                         |
 |                                                                                                                                                                                                         |
 | 16/2                                                                                                                                                                                                    |
