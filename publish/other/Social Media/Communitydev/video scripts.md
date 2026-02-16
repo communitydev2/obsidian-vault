@@ -1,4 +1,13 @@
 
+### how to make dynamic form
+
+https://daily.dev/blog/reactjs-useform-for-dynamic-forms
+
+
+
+
+
+
 # how to make react typescript components
 
 https://react.dev/learn/typescript
