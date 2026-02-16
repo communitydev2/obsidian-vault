@@ -5,7 +5,7 @@
 | I'm going to be able to review everything I need and be confident for Wednesday interview                                                                                                               |
 | I will be happy with myself                                                                                                                                                                             |
 | I will make £3000 in twitch                                                                                                                                                                             |
-| I will make £2458                                                                                                                                                                                       |
+| I will make £2458    in                                                                                                                                                                                 |
 | 16/2                                                                                                                                                                                                    |
 | I smiled to a girl with a dog anf she smiled back                                                                                                                                                       |
 | I'm alive                                                                                                                                                                                               |
