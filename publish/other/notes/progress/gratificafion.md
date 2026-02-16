@@ -5,8 +5,8 @@
 | I'm alive                                                                                                                                                                                               |
 | I'm healthy                                                                                                                                                                                             |
 | i have parents who care about me                                                                                                                                                                        |
-|                                                                                                                                                                                                         |
-|                                                                                                                                                                                                         |
+| I have a purpose                                                                                                                                                                                        |
+| I have money                                                                                                                                                                                            |
 |                                                                                                                                                                                                         |
 |                                                                                                                                                                                                         |
 | 15/2                                                                                                                                                                                                    |
