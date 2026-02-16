@@ -1,4 +1,6 @@
 
+don't tease everything about her. 
+
 
 if a woman cancels a date, doesn't offer a reschedule, she only gets one date per lifetime. 
 
