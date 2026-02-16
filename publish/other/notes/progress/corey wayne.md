@@ -1,4 +1,7 @@
 
+
+flexible, positive, bubbly, loves her father, 
+
 don't tease everything about her. 
 
 
