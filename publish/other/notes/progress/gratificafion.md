@@ -2,11 +2,12 @@
 | good things                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 17/2                                                                                                                                                                                                    |
-|                                                                                                                                                                                                         |
+| I'm going to be able to review everything I jeed                                                                                                                                                        |
 |                                                                                                                                                                                                         |
 |                                                                                                                                                                                                         |
 |                                                                                                                                                                                                         |
 | 16/2                                                                                                                                                                                                    |
+| I smiled toba girl with a dog anf she smiled back                                                                                                                                                       |
 | I'm alive                                                                                                                                                                                               |
 | I'm healthy                                                                                                                                                                                             |
 | i have parents who care about me                                                                                                                                                                        |
