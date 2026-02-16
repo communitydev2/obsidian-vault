@@ -5,7 +5,19 @@ https://daily.dev/blog/reactjs-useform-for-dynamic-forms
 
 register() takes info from any input or dropdowns
 handleSubmit() handles press button
-formState 
+formState() keeps track of things whether the form's been changed
+controller makes it easier to deal with external components
+
+```
+```jsx
+<Controller
+  name="firstName"
+  control={control} 
+  render={({ field }) => <TextField {...field} />}
+/>
+```Q
+```
+
 
 
 
