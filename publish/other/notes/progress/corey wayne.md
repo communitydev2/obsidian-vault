@@ -1,6 +1,6 @@
 
 
-flexible, positive, bubbly, loves her father, 
+flexible, positive, bubbly, loves her father, easygoing, giver, bice to you, happy, comes from a good home. 
 
 don't tease everything about her. 
 
