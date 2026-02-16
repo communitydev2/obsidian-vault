@@ -1,6 +1,6 @@
 
 
-if a woman cancels a date, doesn't offer a reschedule, she only gets 
+if a woman cancels a date, doesn't offer a reschedule, she only gets one date per lifetime. 
 
 If you want your woman to do more of what you want, praise her for the things you love about her. 
 
