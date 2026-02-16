@@ -385,3 +385,9 @@ export default router;
 
 ### TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
 
+https://stackoverflow.com/questions/62455716/typeerror-cannot-destructure-property-userid-of-req-body-as-it-is-undefined
+
+```
+must hbe before defining your routes
+app.use(express.json())
+```
