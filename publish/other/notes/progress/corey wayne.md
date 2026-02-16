@@ -1,5 +1,10 @@
 
 
+flexible, positive, bubbly, loves her father, easygoing, giver, bice to you, happy, comes from a good home. if she's structured it's not worthy, as it's the opposite of being easygoing 
+
+don't tease everything about her. 
+
+
 if a woman cancels a date, doesn't offer a reschedule, she only gets one date per lifetime. 
 
 If you want your woman to do more of what you want, praise her for the things you love about her. 

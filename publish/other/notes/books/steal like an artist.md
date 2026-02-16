@@ -1,3 +1,6 @@
+
+you have ti handle her emotions, as the energy hs to go through hwe system, until it goes away, and she returns to better. 
+
 everything has already been said, but no one heard it, so you need to say again. 
 
 you need to look up to people above you to become them
