@@ -1,4 +1,4 @@
-
+where attention goes energy flows
 take advantage of the opportunities life gives you 
 
 
