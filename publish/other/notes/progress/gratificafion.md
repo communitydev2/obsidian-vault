@@ -7,7 +7,7 @@
 |                                                                                                                                                                                                         |
 |                                                                                                                                                                                                         |
 | 16/2                                                                                                                                                                                                    |
-| I smiled toba girl with a dog anf she smiled back                                                                                                                                                       |
+| I smiled to a girl with a dog anf she smiled back                                                                                                                                                       |
 | I'm alive                                                                                                                                                                                               |
 | I'm healthy                                                                                                                                                                                             |
 | i have parents who care about me                                                                                                                                                                        |
