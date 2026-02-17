@@ -424,3 +424,28 @@ must hbe before defining your routes
 app.use(express.json())
 ```
 
+
+# Frontend
+```
+
+export default axios.create({
+
+    baseURL: 'http://localhost:5050',
+
+    headers: {'ngrok-skip-browser-warning': "true"}
+
+});
+
+
+```
+
+in app.tsx
+
+```
+import api from "./api/axiosConfig.tsx";
+ const response = await api.get("/record");
+
+      pokeCardStore.setPokemonCards(response.data)
+
+      return response
+```
