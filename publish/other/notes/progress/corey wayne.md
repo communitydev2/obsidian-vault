@@ -1,5 +1,5 @@
 
-if a woman rejects you and blows your date off twice, if she keeps messaging you, talk for a short moment, 2 messages or so, tell her you gotta run. Only go out with her IF she brings up getting together. she 
+if a woman rejects you and blows your date off twice, if she keeps messaging you, talk for a short moment, 2 messages or so, tell her you gotta run. Only go out with her IF she brings up getting together. she HAS to come to your place, else treat her with indifference 
 
 
 
