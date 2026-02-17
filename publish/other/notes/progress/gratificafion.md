@@ -2,6 +2,12 @@
 | good things                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 17/2                                                                                                                                                                                                    |
+| I'm alive                                                                                                                                                                                               |
+| I'm healthy                                                                                                                                                                                             |
+| I have people who love me                                                                                                                                                                               |
+| I have money                                                                                                                                                                                            |
+| I still have time to create the life I want                                                                                                                                                             |
+|                                                                                                                                                                                                         |
 | I'm going to be able to review everything I need and be confident for Wednesday interview                                                                                                               |
 | I will be happy with myself                                                                                                                                                                             |
 | I will make £3000 in twitch                                                                                                                                                                             |
