@@ -1,5 +1,5 @@
 
-if a woman blows your date off twice, 
+if a woman rejects you and blows your date off twice, 
 
 
 
