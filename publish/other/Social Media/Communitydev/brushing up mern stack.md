@@ -346,27 +346,57 @@ https://medium.com/@itsdavidmandal/building-a-basic-crud-app-with-the-mern-stack
 ### MongoDB
 
 - in mongodb compass
-- create connection, paste connection from server
 - to find password, go to database & network access, and click on database users
-- create a MongoClient
 - create a userModel,
 	- schema
 		- each field can be unique or required
-- create mongoClient under db 
 
 ```
 npm i mongoose
 ```
 
-to return new data in mongodb, do 
+to return new data in mongoose, do 
 
 ```
-const updateUser = await User.findByIdAndUpdate(id,req.body,{
+ let results = await User.find();
 
-                new:true
-
-            });
+    res.send(results).status(200);
 ```
+
+to post data in mongoose, do :
+
+```
+   const {username,email,age}= req.body;
+
+  
+
+    try{
+
+        const userAdded = await User.create({
+
+            username:username,
+
+            email:email,
+
+            age:age
+
+        })
+
+  
+
+    res.status(201).json(userAdded);
+
+```
+
+
+find specific id
+
+```
+await Kitten.find({ name: /^fluff/ });
+```
+
+
+
 
 ### Error The requested module '../routes/userroutes.js' does not provide an export named 'userroutes'
 
