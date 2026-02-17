@@ -455,4 +455,19 @@ import api from "./api/axiosConfig.tsx";
 
 ```
 
+
+
+
+router.get('/fetch',async(req,res)=>{
+
+    // const {id} = req.params;
+
+    const response = await axios.get('https://api.tcgdex.net/v2/en/cards/');
+
+    res.send(response.data).status(200);
+
+});
+
+
+
 ```
