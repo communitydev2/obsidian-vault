@@ -489,17 +489,66 @@ https://event-driven.io/en/automatically_connect_pgadmin_to_database/
 create compose.yml
 
 ```yml
-version: "3"
 services:
-    postgres:
-        image: postgres:15.1-alpine
-        container_name: postgres
-        environment:
-            - POSTGRES_DB=postgres
-            - POSTGRES_USER=postgres
-            - POSTGRES_PASSWORD=Password12!
-        ports:
-            - "5432:5432"
+
+    postgres:
+
+        image: postgres:17
+
+        container_name: postgres
+
+        environment:
+
+            - POSTGRES_MULTIPLE_DATABASES="postgres,blogs,auth"
+
+            - POSTGRES_USER=postgres
+
+            - POSTGRES_PASSWORD=Password12!
+
+        ports:
+
+            - "5432:5432"
+
+        volumes:
+
+            - ./docker/postgres:/docker-entrypoint-initdb.d
+
+  
+  
+
+    pgadmin:
+
+        container_name: pgadmin_container
+
+        image: dpage/pgadmin4
+
+        environment:
+
+            - PGADMIN_DEFAULT_EMAIL=${PGADMIN_DEFAULT_EMAIL:-pgadmin4@pgadmin.org}
+
+            - PGADMIN_DEFAULT_PASSWORD=${PGADMIN_DEFAULT_PASSWORD:-postgres}
+
+            - PGADMIN_CONFIG_SERVER_MODE=False
+
+            - PGADMIN_CONFIG_MASTER_PASSWORD_REQUIRED=False
+
+        ports:
+
+            - "${PGADMIN_PORT:-5050}:80"
+
+        depends_on:
+
+            - postgres
+
+        user: root
+
+        entrypoint: /bin/sh -c "chmod 600 /pgpass; /entrypoint.sh;"
+
+        volumes:
+
+            - ./docker/pgAdmin/pgpass:/pgpass
+
+            - ./docker/pgAdmin/servers.json:/pgadmin4/servers.json
 ```
 
 then 
@@ -508,3 +557,8 @@ then
 docker-compose up
 ```
 
+docker volumes folder in windows will be in 
+
+```
+`\\wsl$\docker-desktop\mnt\docker-desktop-disk\data\docker\volumes`
+```
