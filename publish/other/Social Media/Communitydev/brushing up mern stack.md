@@ -40,7 +40,7 @@ app.use(cors())
 
 ```
 
-  npm i express  tsconfig-paths cors helmet morgan   
+  npm i express  tsconfig-paths cors helmet morgan axios  
 npm i prettier typescript tsx dotenv  husky lint-staged @tsconfig/node22   @types/node @types/express eslint  @eslint/js eslint-plugin-perfectionist vitest @vitest/coverage-v8 @vitest/eslint-plugin -D
   open command prompt (must be in command prompt)
   tsc --init
@@ -448,4 +448,11 @@ import api from "./api/axiosConfig.tsx";
       pokeCardStore.setPokemonCards(response.data)
 
       return response
+```
+
+
+# using axios
+
+```
+
 ```
