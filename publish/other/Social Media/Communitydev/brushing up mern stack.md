@@ -486,3 +486,25 @@ npm install pg
 
 https://event-driven.io/en/automatically_connect_pgadmin_to_database/
 
+create compose.yml
+
+```yml
+version: "3"
+services:
+    postgres:
+        image: postgres:15.1-alpine
+        container_name: postgres
+        environment:
+            - POSTGRES_DB=postgres
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=Password12!
+        ports:
+            - "5432:5432"
+```
+
+then 
+
+```
+docker-compose up
+```
+
