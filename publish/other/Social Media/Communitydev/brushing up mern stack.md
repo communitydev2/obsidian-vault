@@ -352,6 +352,7 @@ https://medium.com/@itsdavidmandal/building-a-basic-crud-app-with-the-mern-stack
 - create a userModel,
 	- schema
 		- each field can be unique or required
+- create mongoClient under db 
 
 ```
 npm i mongoose
