@@ -5,6 +5,13 @@
 ### https://medium.com/@gabrieldrouin/node-js-2025-guide-how-to-setup-express-js-with-typescript-eslint-and-prettier-b342cd21c30d
 
 
+#### recap:
+- 
+
+
+
+
+
 ### things to take note
 - nodemon is no longer used after node 18, now its tsx watch
 - dotenv package is no longer needed after node 20.6, now it's --env-file .env
@@ -19,8 +26,8 @@
   - cors 
 ```
 
-var express = require('express')
-var cors = require('cors')
+import express from 'express'
+import cors from 'cors'
 var app = express()
 
 // Adds headers: Access-Control-Allow-Origin: *
