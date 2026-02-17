@@ -1,3 +1,8 @@
+
+if a woman blows your date off twice, 
+
+
+
 where attention goes energy flows
 take advantage of the opportunities life gives you 
 
