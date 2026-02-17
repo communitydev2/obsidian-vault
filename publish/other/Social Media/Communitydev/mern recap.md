@@ -25,4 +25,32 @@
 	- https://mongoosejs.com/docs/
 	- create express.Router() in separate file with routes using axios
 - postgres
-	- 
+	- run docker with db , db name, password, port and version
+	- exec -it postgres psql -U postgres
+	- \l
+	- CREATE DATABASE myapp;
+	- npm install pg
+	- DATABASE_URL=postgresql://postgres:Password12!@localhost:5432/myapp
+	- https://node-postgres.com/features/connecting
+	- import pkg from 'pg';
+const { Pool } = pkg;
+
+const pool = new Pool({
+  connectionString: process.env.DATABASE_URL,
+});
+
+const result = await pool.query('SELECT NOW()');
+console.log(result.rows);
+- CREATE TABLE users (
+  id SERIAL PRIMARY KEY,
+  email TEXT UNIQUE NOT NULL,
+  created_at TIMESTAMP DEFAULT NOW()
+);
+- https://node-postgres.com/features/pooling
+
+
+on react
+- create axios.crete 
+- with base url
+- and headers  {'ngrok-skip-browser-warning': "true"}
+- lastly , create!
