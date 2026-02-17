@@ -566,55 +566,124 @@ docker volumes folder in windows will be in
 https://forums.docker.com/t/issue-with-mounting-servers-json-into-pgadmin-container/144925/2
 
 
+This will create a container with a postgres as well
 
+```
+services:
 
-```yaml
-service:
-  # ...
-  pgAdmin:
-    image: dpage/pgadmin4:8.1
-    restart: always
-    depends_on:
-      postgres:
-        condition: service_healthy
-    environment:
-      PGADMIN_DEFAULT_EMAIL: admin@admin.com
-      PGADMIN_DEFAULT_PASSWORD: admin
-    ports:
-      - ${PGADMIN_EXPOSED_PORT}:80
-    configs:
-      - source: servers.json
-        target: /pgadmin4/servers.json
-      - source: preferences.json
-        target: /pgadmin4/preferences.json
+  postgres:
+
+    image: postgres:17
+
+    container_name: postgres
+
+    environment:
+
+      POSTGRES_USER: postgres
+
+      POSTGRES_PASSWORD: "Password12!"
+
+      POSTGRES_DB: postgres
+
+    ports:
+
+      - "5432:5432"
+
+    volumes:
+
+      - ./docker/postgres:/docker-entrypoint-initdb.d
+
+  
+
+  pgadmin:
+
+    container_name: pgadmin_container
+
+    image: dpage/pgadmin4:8.1
+
+    restart: always
+
+    depends_on:
+
+      - postgres
+
+    environment:
+
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL:-pgadmin4@pgadmin.org}
+
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD:-postgres}
+
+      PGADMIN_CONFIG_SERVER_MODE: "False"
+
+      PGADMIN_CONFIG_MASTER_PASSWORD_REQUIRED: "False"
+
+    ports:
+
+      - "${PGADMIN_PORT:-5050}:80"
+
+    configs:
+
+      - source: servers.json
+
+        target: /pgadmin4/servers.json
+
+      - source: preferences.json
+
+        target: /pgadmin4/preferences.json
+
+  
 
 configs:
-  preferences.json:
-    content: |
-      {
-        "preferences": {
-          "misc:themes:theme": "dark",
-          "browser:display:show_system_objects": true,
-          "browser:display:confirm_on_refresh_close": false,
-          "browser:display:show_user_defined_templates": true
-        }
-      }
-  servers.json:
-    content: |
-      {
-        "Servers": {
-          "1": {
-            "Group": "Servers",
-            "Name": "Database name",
-            "Host": "postgres",
-            "Port": 5432,
-            "MaintenanceDB": "${POSTGRES_DB}",
-            "Username": "${POSTGRES_USER}",
-            "SSLMode": "prefer",
-            "BGColor": "#FF4500",
-            "FGColor": "#222222",
-            "Comment": "This server will connect to the instance we've created in our compose file."
-          }
-        }
-      }
+
+  preferences.json:
+
+    content: |
+
+      {
+
+        "preferences": {
+
+          "misc:themes:theme": "dark",
+
+          "browser:display:show_system_objects": true,
+
+          "browser:display:confirm_on_refresh_close": false,
+
+          "browser:display:show_user_defined_templates": true
+
+        }
+
+      }
+
+  servers.json:
+
+    content: |
+
+      {
+
+        "Servers": {
+
+          "1": {
+
+            "Group": "Servers",
+
+            "Name": "Local Postgres",
+
+            "Host": "postgres",
+
+            "Port": 5432,
+
+            "MaintenanceDB": "postgres",
+
+            "Username": "postgres",
+
+            "SSLMode": "prefer",
+
+            "Comment": "Connects to postgres service in this compose file."
+
+          }
+
+        }
+
+      }
 ```
