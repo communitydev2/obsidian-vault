@@ -480,3 +480,9 @@ https://node-postgres.com/
 ```
 npm install pg
 ```
+
+
+## use pgadmin with docker
+
+https://event-driven.io/en/automatically_connect_pgadmin_to_database/
+
