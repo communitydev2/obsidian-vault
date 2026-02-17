@@ -471,3 +471,12 @@ router.get('/fetch',async(req,res)=>{
 
 
 ```
+
+
+# postgres
+
+https://node-postgres.com/
+
+```
+npm install pg
+```
