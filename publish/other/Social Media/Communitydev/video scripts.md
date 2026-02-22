@@ -38,7 +38,17 @@ resources/
         ├── avcodec-*.dll
         └── ...
 
+mkdir usb-mirror
+cd usb-mirror
+npm init -y
+npm i electron
+npm i -D electron-builder
 
+mkdir usb-mirror
+cd usb-mirror
+npm init -y
+npm i electron
+npm i -D electron-builder
 
 ### how to make dynamic form
 
