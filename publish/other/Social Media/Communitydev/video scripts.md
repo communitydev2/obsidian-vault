@@ -50,6 +50,67 @@ npm init -y
 npm i electron
 npm i -D electron-builder
 
+the files you need from src py and adb
+
+Download from the official Android SDK Platform-Tools page (Google).
+
+After extracting the zip, go into the `platform-tools` folder.
+
+ ✅ Copy these files into:
+
+resources/win/adb/
+
+You need:
+
+adb.exe  
+AdbWinApi.dll  
+AdbWinUsbApi.dll
+
+That’s it.
+
+❌ You do NOT need:
+
+- fastboot.exe
+    
+- etc1tool.exe
+    
+- sqlite3.exe
+    
+- mke2fs.exe
+    
+- make_f2fs.exe
+    
+- NOTICE.txt
+    
+
+Those are unrelated to mirroring.
+
+---
+
+📦 2️⃣ scrcpy Folder
+
+Download the Windows release zip from the official scrcpy GitHub.
+
+When you extract it, you’ll see something like:
+
+scrcpy.exe  
+SDL2.dll  
+avcodec-61.dll  
+avformat-61.dll  
+avutil-59.dll  
+swresample-5.dll  
+swscale-8.dll  
+...
+
+ ✅ Copy **everything from the scrcpy zip folder** into:
+
+resources/win/scrcpy/
+
+That means:
+
+scrcpy.exe  
+ALL .dll files
+
 ### how to make dynamic form
 
 https://daily.dev/blog/reactjs-useform-for-dynamic-forms
