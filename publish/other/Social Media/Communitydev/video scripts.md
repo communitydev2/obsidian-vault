@@ -316,7 +316,7 @@ https://www.dhiwise.com/post/understanding-the-importance-of-the-useeffect-depen
 - Update needs a where clause
 - stored session on zustand
 
-```
+
    const response = await supabase
 
         .from('user_account')
@@ -407,7 +407,7 @@ Unexpected token 'docker' in expression or statement.
     + FullyQualifiedErrorId : UnexpectedToken
 
 ```
-Solution - remove $env:PGSSLMODE="require" d
+Solution - remove $env:PGSSLMODE="require" 
 
 CREATE TABLE card (
 
