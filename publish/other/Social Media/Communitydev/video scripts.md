@@ -93,23 +93,13 @@ Download the Windows release zip from the official scrcpy GitHub.
 
 When you extract it, you’ll see something like:
 
-scrcpy.exe  
-SDL2.dll  
-avcodec-61.dll  
-avformat-61.dll  
-avutil-59.dll  
-swresample-5.dll  
-swscale-8.dll  
-...
+
 
  ✅ Copy **everything from the scrcpy zip folder** into:
 
 resources/win/scrcpy/
 
-That means:
-
-scrcpy.exe  
-ALL .dll files
+if you run .\scrcpy.exe , you will see your screen
 
 ### how to make dynamic form
 
