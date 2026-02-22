@@ -1,4 +1,8 @@
 
+### how to make a screen display for the phone to computer
+
+donwload srcpy
+
 ### how to make dynamic form
 
 https://daily.dev/blog/reactjs-useform-for-dynamic-forms
