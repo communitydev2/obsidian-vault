@@ -1,7 +1,44 @@
 
 ### how to make a screen display for the phone to computer
 
-donwload srcpy
+- donwload srcpy
+- 🔗 Official download page:  
+[https://developer.android.com/tools/releases/platform-tools](https://developer.android.com/tools/releases/platform-tools?utm_source=chatgpt.com)
+- 4️⃣ Enable USB Debugging on Your Phone
+
+On Android:
+
+1. Settings → About Phone
+    
+2. Tap “Build number” 7 times
+    
+3. Go back → Developer Options
+    
+4. Enable **USB Debugging**
+    
+
+Plug phone into PC.
+
+```
+.\adb.exe devices -l 
+you must see your phone there
+```
+
+full project structure
+
+resources/
+└── win/
+    ├── adb/
+    │   ├── adb.exe
+    │   ├── AdbWinApi.dll
+    │   └── AdbWinUsbApi.dll
+    └── scrcpy/
+        ├── scrcpy.exe
+        ├── SDL2.dll
+        ├── avcodec-*.dll
+        └── ...
+
+
 
 ### how to make dynamic form
 
