@@ -3,7 +3,11 @@
 
 Do you want a free app to stream your game from your android to obs or record a live demo?
 
-I've created an interface which 
+I've created an interface which allows you to choose the device you want to see on your computer,
+turn the phone screen off when mirroring, 
+and record your screen, which when stopping the screen, it will save into your video folders by default.
+
+You can download by clicking the link below
 
 ### how to make a screen display for the phone to computer
 
