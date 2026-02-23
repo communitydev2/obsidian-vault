@@ -1,4 +1,10 @@
 
+### advertise android usb-mirror
+
+Do you want a free app to stream your game from your android to obs or record a live demo?
+
+I've created an interface which 
+
 ### how to make a screen display for the phone to computer
 
 - donwload srcpy
