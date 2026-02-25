@@ -8,4 +8,11 @@
 - on streambot press paste, and then 
 - ![[Pasted image 20260225111905.png]]
 - ![[Pasted image 20260225112321.png]]
-- 
+- if it fails:
+	- enter
+	```
+	cmd 
+	netstat -an | find "4455"
+	
+	```
+	- if it works
