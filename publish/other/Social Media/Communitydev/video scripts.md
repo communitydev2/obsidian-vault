@@ -1,4 +1,9 @@
 
+### error: _lruCache is not a constructor
+
+
+
+
 ### advertise android usb-mirror
 
 Do you want a free app to stream your game from your android to obs or record a live demo?
