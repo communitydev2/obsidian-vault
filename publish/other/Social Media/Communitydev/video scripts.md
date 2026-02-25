@@ -1,7 +1,7 @@
 
 ### error: _lruCache is not a constructor
 
-
+reinstalled node modules
 
 
 ### advertise android usb-mirror
