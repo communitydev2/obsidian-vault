@@ -1,4 +1,45 @@
 
+### how to create an overlay with text with mantine
+```
+ const [visible, setVisible] = useState(false);
+ 
+ 
+ useEffect(()=>{
+
+ setTimeout(()=>{
+
+      setVisible(false);
+
+    },2000)
+ 
+ 
+ {visible && (
+
+  
+
+          <>
+
+          <Overlay color="#000" backgroundOpacity={0.98} children={
+
+           <Center maw={"auto"} h={"100%"} bg="var(--mantine-color-gray-light)">
+
+            <Title className={classes.title} ta="center">
+
+        Accounts Created
+
+      </Title>
+
+</Center>
+
+  
+  
+
+}/>
+
+        </>
+
+        )}
+```
 
 ### error: inserting multiple values creates separate tables
 ![[Pasted image 20260225073047.png]]
