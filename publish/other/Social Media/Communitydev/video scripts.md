@@ -1,3 +1,5 @@
+
+
 ### error: inserting multiple values creates separate tables
 ![[Pasted image 20260225073047.png]]
 solution - 
