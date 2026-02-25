@@ -1,4 +1,6 @@
-
+### error: inserting multiple values creates separate tables
+![[Pasted image 20260225073047.png]]
+solution - 
 ### error: _lruCache is not a constructor
 
 reinstalled node modules
