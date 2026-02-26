@@ -59,7 +59,9 @@ don't focus on your enemies, act as if you're already happy
 ## chapter 4
 
 
-### principle 1 - 
+### principle 1 - if you're wrong, admit iy quickly 
+
+#### principle 
 ## principle 7 - make people live up to the expectations of what you have
 
 
