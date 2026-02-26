@@ -1,4 +1,12 @@
 
+### how to insert tables that have foreign constraints that aren't connected to auth
+
+Journey:
+
+https://www.reddit.com/r/Supabase/comments/186ggwe/how_to_insert_data_into_two_tables_with_a_foreign/
+
+
+
 ### how to create an overlay with text with mantine
 ```
  const [visible, setVisible] = useState(false);
