@@ -135,7 +135,7 @@ sv status crond - check if its working
 sv up crond
 check if these paths are working
 ls /data/data/com.termux/files/usr/bin/bash
-ls /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
+ls /data/data/com.termux/files/home/storage/shared-external-1*/obsidian/obsidian-vault/sync.sh
 
 chmod +x /data/data/com.termux/files/home/storage/shared-external-1/obsidian/obsidian-vault/sync.sh
 
