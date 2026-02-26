@@ -1,3 +1,19 @@
+
+
+you need to slowly remove her. clothes. she'll offer resistance, but you need to calm down, then after a bit push a bit further. 
+
+getting women to approach you first
+https://understandingrelationships.com/how-to-get-women-to-approach-you-first/1383
+- Don’t lean against the bar or a column or a wall. Be near or next to where everyone is walking by.
+- By putting yourselves in high traffic areas away from things to lean against it communicates that you and your friends are comfortable with yourselves, confident and fun.
+- Act like you own the place. Seriously, if everyone there was a guest at your bar, night club, or social event how would you act? How would you stand?
+- talk to women who look at you passing by or call over women looking at you. ignore the rest. 
+- when speaking to a woman, act as if you're already bored of listening to her
+- try to laugh and use your hands and just joke around that energy will call women over
+- walk over to a woman, show your interest, and ask her number
+
+
+
 someone who makes up their mind to live in the present and forgive the past
 someone who has integrity and does what they say 
 someone who wants to be intimate as much as me

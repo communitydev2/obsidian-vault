@@ -1,4 +1,13 @@
 
+mistakes 
+- when there's heavy petting, she will pull back and take a jab at your confidence to test your masculinity. 
+-  i think you made a little boner. you might wanna stop because I might rip my pants. 
+- they want to see that they'll be safe if they're in a room with you. 
+- at points, she might be kissing you and stop. she might pull back when you try to kiss her, smile at you and loom in your eyes. your response to this is to lean back, relax, keep eye contact and say : no worries, we got all night. I'll wait here for you to come here and kiss me all night. 
+- even if you're already intimate, she might bein bed and suddenly stop the advancement. Just say :I've got all night. I'll wait here for you to come on top of me. She'll come. 
+- 
+
+
 if a woman rejects you and blows your date off twice, if she keeps messaging you, talk for a short moment, 2 messages or so, tell her you gotta run. Only go out with her IF she brings up getting together. she HAS to come to your place, else treat her with indifference 
 
 

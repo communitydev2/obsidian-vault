@@ -56,4 +56,39 @@ be open to suggestions
 
 
 
+debug 
+
+freecam
+ make specific builds for specific case scenarios - specific creature in specific place doing specific thing, tailor it for special case scenarios
+
+is tue money spent justify cost
+what you want to achieve 
+debelop Brighton
+format.gg - Liverpool / Manchester 
+
+there might be a marketing grant coming soon from the government 
+
+# talk about marketing
+
+it's easier to make the right product for the market than finding a market for your product 
+
+
+product market fit
+
+aligns your creative vision with a commercially viable outcome 
+
+
+identifies the size of the market opportunity 
+
+
+as a business, invest in video generation 
+
+
+regarding recent titles that had a high development cost,  but only were live for a short time before being cancelled very shortly after launch like concord, what would you have done differently when it came to time of exposure to the players before deciding the games fate. 
+
+
+why is the game engaging and how can I keep them engaged. 
+
+convince you to shoutout my game to your friends so you and your circle can stay engaged. 
+invest in good localization of your steam page. 
 
