@@ -6,6 +6,9 @@ Journey:
 https://www.reddit.com/r/Supabase/comments/186ggwe/how_to_insert_data_into_two_tables_with_a_foreign/
 
 
+#### error : foreign key violation
+
+https://drdroid.io/stack-diagnosis/supabase-database-foreign-key-violation-error-when-trying-to-insert-or-update-a-value-that-does-not-exist-in-the-referenced-table
 
 ### how to create an overlay with text with mantine
 ```
