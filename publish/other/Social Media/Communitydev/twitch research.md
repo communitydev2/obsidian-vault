@@ -10,10 +10,13 @@
 -ernesBarbeQ
 -Alois_NL
 
-## hearthstone
+## hearthstone - https://www.twitch.tv/directory/category/**hearthstone
 
 - thijs -
-- XQN - 
+- XQN_TheSad - doesn't use any
+- danehearth
+- ikehs - nope
+- rduLIVE - nope
 
 
 # contacted, replied
