@@ -61,7 +61,14 @@ don't focus on your enemies, act as if you're already happy
 
 ### principle 1 - if you're wrong, admit iy quickly 
 
-#### principle 
+### principle - have people say yes to your questions
+
+- #### a guy was looking for renting a bow. 
+a shopkeeper asked:
+did you used to rent a few years ago? yes
+did you like to save money? yes
+did you pay 30 or so dollars? yes
+we have a new set for 34.99.
 ## principle 7 - make people live up to the expectations of what you have
 
 
