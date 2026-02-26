@@ -9,3 +9,4 @@ at 10h32, I did some networking
 1pm finished
 13h30 pm - 14h - started diverting away, went for walk
 14h37 - resumed work
+at 15h24, getting groggy again
