@@ -10,7 +10,7 @@ Windows laptop
 - I was changing the saturation on a node below the one on the left, and it was changing the whole color???
 - maybe show how to mask something?
 - ## Qualifier Tool Davinci https://www.youtube.com/watch?v=E7oog981GQI
-	- 
+	- https://www.blackmagicdesign.com/products/davinciresolve/training
 
 
 
