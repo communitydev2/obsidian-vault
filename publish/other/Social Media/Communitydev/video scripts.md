@@ -1,4 +1,8 @@
 
+### 
+
+
+
 ### how to insert tables that have foreign constraints that aren't connected to auth
 
 Journey:
@@ -12,6 +16,7 @@ https://drdroid.io/stack-diagnosis/supabase-database-foreign-key-violation-error
 
 ### how to create an overlay with text with mantine
 ```
+
  const [visible, setVisible] = useState(false);
  
  
