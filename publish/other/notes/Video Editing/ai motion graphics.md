@@ -24,3 +24,7 @@ Interesting concept, but hands just hallucinate
 
 can't use without paying 
 
+#### nano banana 2
+
+https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview
+
