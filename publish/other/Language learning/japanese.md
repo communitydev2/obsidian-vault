@@ -14,14 +14,14 @@ https://nhkeasier.com/
 | Volitional (意向形)  | shoyo            | shimashou        | koyou            | kimashou         |
 37:43
 
-| **Godan Verb Conjugation Type** | **う (u)** | **つ (tsu)** | **る (ru)** | **む (mu)** | **ぶ (bu)** | **ぬ (nu)** | **く (ku)** | **ぐ (gu)** | **す (su)** |
-| ------------------------------- | --------- | ----------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| **Present (現在形)**               | imasu     | chimasu     | rimasu     |            |            |            |            |            |            |
-| **Negative (ない形)**              | imasen    | chimasen    | rimasen    |            |            |            |            |            |            |
-| **Past (た形)**                   | imashita  | chimashita  | rimashita  |            |            |            |            |            |            |
-| **Te-Form (て形)**                | itte      | tte         | tte        |            |            |            |            |            |            |
-| **Continuous (ている形)**           | tteimasu  | tteimasu    | tteimasu   |            |            |            |            |            |            |
-| **Volitional (意向形)**            | imashou   | chimashou   |            |            |            |            |            |            |            |
+| **Godan Verb Conjugation Type** | **う (u)** | **つ (tsu)** | **る (ru)** | **む (mu)** | **ぶ (bu)** | **ぬ (nu)**   | **く (ku)** | **ぐ (gu)** | **す (su)** |
+| ------------------------------- | --------- | ----------- | ---------- | ---------- | ---------- | ------------ | ---------- | ---------- | ---------- |
+| **Present (現在形)**               | imasu     | chimasu     | rimasu     | mimasu     | bimasu     | nimasu       | kimasu     | gimasu     | shimasu    |
+| **Negative (ない形)**              | imasen    | chimasen    | rimasen    | mimasen    | bimasen    | nimasen      | kimasen    | gimasen    | shimansen  |
+| **Past (た形)**                   | imashita  | chimashita  | rimashita  | mimashita  | bimashita  | nimashita    | kimashita  | gimashita  | shimashita |
+| **Te-Form (て形)**                | itte      | tte         | tte        | nde        | nde        | nde          | ite        | ide        | shite      |
+| **Continuous (ている形)**           | tteimasu  | tteimasu    | tteimasu   | ndeimasu   | ndeimasu   | ndeimasu     | iteimasu   | ideimasu   | shiteimasu |
+| **Volitional (意向形)**            | imashou   | chimashou   | rimashou   | mimashou   | bimashou   | nimashou<br> | kimashou   | gimashou   | shimashou  |
 
 kara
 
