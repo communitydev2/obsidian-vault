@@ -12,7 +12,7 @@
 
 ## hearthstone - https://www.twitch.tv/directory/category/**hearthstone
 
-- thijs -
+- thijs - hearts on deck tracker , 
 - XQN_TheSad - doesn't use any
 - danehearth
 - ikehs - nope
