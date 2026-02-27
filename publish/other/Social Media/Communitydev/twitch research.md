@@ -14,9 +14,12 @@
 
 - thijs - hearts on deck tracker , 
 - XQN_TheSad - doesn't use any
-- danehearth
+- danehearth -
 - ikehs - nope
 - rduLIVE - nope
+- superJJ - 
+- zetalot - 
+- shadybunny - ask another time
 
 
 # contacted, replied
