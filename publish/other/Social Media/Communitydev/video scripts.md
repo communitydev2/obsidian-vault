@@ -1,5 +1,5 @@
 
-### 
+### ERROR: 42830: there is no unique constraint matching given keys for referenced table "player_tcg_account"
 
 
 
