@@ -4,7 +4,10 @@ shift s - silences audio preview when seeing the preview of videos
 
 # video 1 - introduction to editing  - https://www.blackmagicdesign.com/products/davinciresolve/training 13:05
 
-On Media, top right you can add a specific folder from your project to easily access and import files
+## On Media,
+
+
+top right you can add a specific folder from your project to easily access and import files
 ![[Pasted image 20260226114020.png]]
 If you have folders you want to import , do ![[Pasted image 20260226114159.png]]
 ![[Pasted image 20260226114545.png]]
@@ -22,3 +25,18 @@ If you don't have metadata of timings, untick  match using clip start and end ti
 
 ![[Pasted image 20260227110356.png]]
 You can search for clips using the search bar
+
+If you select footage, then click clip attributes, you can set the name and do 
+```
+
+%metadataname
+
+```
+
+This will allow you to rename shots to their respective metadata values
+
+![[Pasted image 20260227190649.png]]
+
+## edit section 
+
+![[Pasted image 20260227191005.png]]
