@@ -19,7 +19,7 @@
 - XQN_TheSad - doesn't use any
 - ikehs - nope
 - rduLIVE - nope
-- danehearth -
+- danehearth - nope
 - superJJ - 
 - zetalot - 
 - shadybunny - ask another time
