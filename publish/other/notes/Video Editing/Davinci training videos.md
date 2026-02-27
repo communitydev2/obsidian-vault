@@ -1,8 +1,11 @@
 
 # shortcuts
-shift s - silences audio preview when seeing the preview of videos
+- shift s - silences audio preview when seeing the preview of videos
+- ![[Pasted image 20260227192333.png]]
+- i and o to define range
+- shift I and shift O to shift between start and end of range to play
 
-# video 1 - introduction to editing  - https://www.blackmagicdesign.com/products/davinciresolve/training 13:05
+# video 1 - introduction to editing  - https://www.blackmagicdesign.com/products/davinciresolve/training 27:29
 
 ## On Media,
 
@@ -40,3 +43,9 @@ This will allow you to rename shots to their respective metadata values
 ## edit section 
 
 ![[Pasted image 20260227191005.png]]
+![[Pasted image 20260227191717.png]]
+![[Pasted image 20260227191825.png]]
+this zooms on the playhead
+
+![[Pasted image 20260227191957.png]]
+
