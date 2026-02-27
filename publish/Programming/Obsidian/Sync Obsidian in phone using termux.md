@@ -2,6 +2,20 @@ https://pulinagrawal.github.io/Obsidian-Sync-Alternative/
 
 https://www.reddit.com/r/termux/comments/zzynoz/easy_way_to_get_sdcards_path_storagexxxxxxxx/
 
+
+## installing on new phone 
+```
+termux-setup-storage
+ls ~/storage/shared/Documents
+
+mkdir -p ~/storage/shared/Documents/Obsidian
+cd ~/storage/shared/Documents/Obsidian
+git clone https://github.com/communitydev2/obsidian-vault.git MyVault
+```
+
+
+
+
 ln -s $(readlink -f ~/storage/external-1 | cut -d/ -f-3) ~/storage/shared-external-1
 
 this creates a link to your external folder
