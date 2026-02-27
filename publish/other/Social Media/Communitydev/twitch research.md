@@ -12,14 +12,16 @@
 
 ## hearthstone - https://www.twitch.tv/directory/category/**hearthstone
 
-- thijs - hearts on deck tracker , 
+### replied 
+- thijs - [hearts on deck tracker , ](https://hsreplay.net/premium/)
+### don't
+
 - XQN_TheSad - doesn't use any
-- danehearth -
 - ikehs - nope
 - rduLIVE - nope
+- danehearth -
 - superJJ - 
 - zetalot - 
 - shadybunny - ask another time
 
 
-# contacted, replied
