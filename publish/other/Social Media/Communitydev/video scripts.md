@@ -3,6 +3,7 @@
   Type 'any[]' is not assignable to type 'never[]'.
     Type 'any' is not assignable to type 'never'.
 
+create type for thing
 ### ERROR: 42830: there is no unique constraint matching given keys for referenced table "player_tcg_account"
 
 
