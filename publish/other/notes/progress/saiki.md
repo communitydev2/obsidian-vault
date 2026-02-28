@@ -1,3 +1,3 @@
 - sempre que quero acabar a relação tenho medo de sair
 - não acho que isto vai funcionar entre os dois
-- ela não quer
+- ela não quer ser afectiva 
