@@ -1,10 +1,20 @@
-Non processor heavy laptop:
+## Non processor heavy laptop:
 - ![[Pasted image 20260228165920.png]]
 - Video
 - ![[Pasted image 20260228170025.png]]
-- 
+- #### 2️⃣ In OBS → Stream
+
+Service: Custom  
+Server: Restream RTMP server  
+Stream Key: Restream key
+
+Now when you click Start Streaming, horizontal goes to both platforms.
+
+One encode. One upload. Clean.
 
 
+
+## other advice
 
 Setting up OBS in new PC:
 
