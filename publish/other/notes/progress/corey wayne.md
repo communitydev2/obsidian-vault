@@ -1,7 +1,7 @@
 
-ask her about her relationship with her dad, if she says bad things ab
+ask her about her relationship with her dad, if she says bad things about her dad they're not worth it. 
 
-mistakes 
+mistakes
 - when there's heavy petting, she will pull back and take a jab at your confidence to test your masculinity. 
 -  i think you made a little boner. you might wanna stop because I might rip my pants. 
 - they want to see that they'll be safe if they're in a room with you. 
