@@ -1,4 +1,8 @@
 
+### Argument of type 'any[]' is not assignable to parameter of type 'SetStateAction<never[]>'.
+  Type 'any[]' is not assignable to type 'never[]'.
+    Type 'any' is not assignable to type 'never'.
+
 ### ERROR: 42830: there is no unique constraint matching given keys for referenced table "player_tcg_account"
 
 
