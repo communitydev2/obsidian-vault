@@ -1,7 +1,7 @@
 
 # shortcuts
 - shift s - silences audio preview when seeing the preview of videos
-- ![[Pasted image 20260227192333.png]]
+- ![[Pasted image 20260227192333.png|405]]
 - i and o to define range
 - shift I and shift O to shift between start and end of range to play
 
