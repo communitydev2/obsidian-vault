@@ -6,4 +6,4 @@
 - não me disse a idade quando começamos a namorar 
 - sinto me culpado por a deixar depois de tanto tempo 
 - quando tentei sair, não me consegui mexer.ela continuou a dizer coisas negativas : nunca quiseste saber, desperdiçaste o meu tempo. cheguei a um ponto que comecei a chorar porque eu sinto-me culpado, sinto me cobarde, sinto que é a minha culpa wue chegamos a esta situação por esta causa. 
-- sinto me culpado porque eu não me casei com ela
+- sinto me culpado porque eu não me casei com ela, ela nao
