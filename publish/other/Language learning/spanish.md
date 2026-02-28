@@ -5,17 +5,20 @@ https://dle.rae.es/
 
 https://dle.rae.es/haber?m=form#conjugacionfIJ9MaL
 
-| Indicativo            |          |                                             |              |
-| --------------------- | -------- | ------------------------------------------- | ------------ |
-| Pronombres personales | Presente | Pretérito perfecto compuesto / Antepresente | Futuro       |
-| yo                    | he       | he habido                                   | habré habido |
-| tu / vos              | has      | has habido                                  | habrás       |
-| usted                 | ha       | ha habido                                   | habrá        |
-| el , ella             | ha       | ha habido                                   | habrá        |
-| nosotros, nosotras    | hemos    | hemos habido                                | habremos     |
-| vosotros, vosotras    | habéis   | habéis habido                               | habréis      |
-| ustedes               | han      | han habido                                  | habréis      |
-| ellos , ellas         | hemos    | han habido                                  | habrán       |
+
+![[Pasted image 20260228122758.png|427]]
+
+| Indicativo ( Haber)   |          |                                             |          |
+| --------------------- | -------- | ------------------------------------------- | -------- |
+| Pronombres personales | Presente | Pretérito perfecto compuesto / Antepresente | Futuro   |
+| yo                    | he       | he habido                                   | habia    |
+| tu / vos              | has      | has habido                                  | habias   |
+| usted                 | haa      | habido                                      | habia    |
+| el , ella             | ha       | habido                                      | habia    |
+| nosotros, nosotras    | hemos    | habido                                      | habiamos |
+| vosotros, vosotras    | habeis   | habido                                      | habiais  |
+| ustedes               | han      | habido                                      | habian   |
+| ellos , ellas         | han      | habido                                      | habian   |
 # hacer
 
 | Indicativo            |          |                                             |         |
