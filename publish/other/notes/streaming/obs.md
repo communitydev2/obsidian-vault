@@ -1,3 +1,11 @@
+Non processor heavy laptop:
+- ![[Pasted image 20260228165920.png]]
+- Video
+- ![[Pasted image 20260228170025.png]]
+- 
+
+
+
 Setting up OBS in new PC:
 
 - Countdown
