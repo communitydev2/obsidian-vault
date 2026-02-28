@@ -8,5 +8,5 @@
 - quando tentei sair, não me consegui mexer.ela continuou a dizer coisas negativas : nunca quiseste saber, desperdiçaste o meu tempo. cheguei a um ponto que comecei a chorar porque eu sinto que chegamos a este ponto por minha causa. 
 - sinto-me culpado, sinto me cobarde, sinto que é a minha culpa wue chegamos a esta situação por esta causa. 
 - sinto me culpado porque eu não me casei com ela na altura, ela não conseguiu o passaporte dela a tempo, e o oai dela faleceu 
-- depois da semana passada, durante dois dias ela estava a ser afetuosa, mas bastou eu dizer aue tinha coisas para fazer numa tarde, e embora já lhe disse imensas vezes
+- depois da semana passada, durante dois dias ela estava a ser afetuosa, mas bastou eu dizer aue tinha coisas para fazer numa tarde, e embora já lhe disse imensas vezes para passarmos tempo juntos à noite. 
 - 
