@@ -1,3 +1,7 @@
 - sempre que quero acabar a relação tenho medo de sair
 - não acho que isto vai funcionar entre os dois
-- ela não quer ser afectiva 
+- ela não quer ser afectiva
+- sinto me culpado porque ela tem 41 anos, e se ela não ficar comigo, não vai ter filhos 
+- eka não me disse que era virgem quando começamos a namorar 
+- não me disse a idade quando começamos a namorar 
+- sinto me culpado por a deixar
