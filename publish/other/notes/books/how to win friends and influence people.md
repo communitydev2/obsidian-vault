@@ -15,7 +15,7 @@ principle 3 - arouse in the other person an eager want
 
 #### principle 1 - become genuinely interested in others. 
 
-
+#### principle 2
 ### example 1 - 
 criminal who was locked in an apartment, police saw him as ruthless, he saw himself as a kind person. 
 
