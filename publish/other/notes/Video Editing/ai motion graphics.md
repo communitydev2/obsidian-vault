@@ -29,7 +29,7 @@ can't use without paying
 https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview
 
 #### deevid.ai
-
+let me generate
 
 
 #### **Hailuo Minimax**
