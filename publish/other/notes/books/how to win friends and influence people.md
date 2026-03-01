@@ -1,4 +1,21 @@
+# part1 
+### chapter 3 
 
+
+
+principle 1 - dont criticise, condemn or complain 
+
+principle 2 - give honest appreciation 
+
+principle 3 - arouse in the other person an eager want
+
+# part2
+
+### chapter 1
+
+#### principle 1 - become genuinely interested in others. 
+
+### chapter 3 - smile 
 
 ### example 1 - 
 criminal who was locked in an apartment, police saw him as ruthless, he saw himself as a kind person. 
