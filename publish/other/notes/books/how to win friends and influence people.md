@@ -13,7 +13,7 @@ principle 3 - arouse in the other person an eager want
 
 ### chapter 1
 
-
+#### principle 1 - become genuinely interested in others. 
 
 
 ### example 1 - 
