@@ -28,3 +28,26 @@ can't use without paying
 
 https://aistudio.google.com/prompts/new_chat?model=gemini-3.1-flash-image-preview
 
+#### deevid.ai
+
+
+
+#### **Hailuo Minimax**
+
+paid
+
+#### **InVideo AI**
+
+let me generate
+
+#### **HeyGen**
+
+has free tier, 3 vids per month, but poor results
+
+#### haiper.ai
+
+can't find the right website
+
+#### colossyan.ai
+
+used to make presentations
