@@ -5,7 +5,7 @@
 
 principle 1 - dont criticise, condemn or complain 
 
-principle 2 - give h
+principle 2 - give hones
 
 - arouse in the other person an eager want
 ### example 1 - 
