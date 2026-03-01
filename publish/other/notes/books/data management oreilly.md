@@ -1,4 +1,6 @@
- ## Operations teams are vital to keeping a software system running smoothly.
+
+ 
+## Operations teams are vital to keeping a software system running smoothly.
  - A good operations team typically is responsible for the following, and more [29]:
 - Monitoring the health of the system and quickly restoring service if it goes into a bad state 
 - Tracking down the cause of problems, such as system failures or degraded performance
