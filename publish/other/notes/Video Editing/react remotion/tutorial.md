@@ -1,5 +1,4 @@
-#   26:25
-
+#   31:08
 https://www.youtube.com/watch?v=qlYhdO11EfQ
 ```
  npx create-video@latest
@@ -19,7 +18,25 @@ To start , add a composition to root.tsx, with custom id and component name
 ### make basic animation
 
 ```
+const rectOffset = frame * 10;
 
+return
+<AbsoluteFill
+style={{
+justifyContent: "center",
+alignItems: "center",
+fontSize: 100,
+backgroundColor: "white",
+}}
+
+<p>The current frame is {frame} .< /p>
+<div
+className="bg-red-500 size-30 mt-8"
+style={{ transform: `translateX(${rect0ffset}px)' }}
+/>
+</AbsoluteFill>
+
+}
 
 
 
