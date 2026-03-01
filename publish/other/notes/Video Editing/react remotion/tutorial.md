@@ -14,3 +14,13 @@ Each component in root.tsx is a video track in the timeline
 On the default project, rendering the vidoe on a higher res meant that the logo got distorted as it had hardcoded values on sizes
 
 To start , add a composition to root.tsx, with custom id and component name
+
+
+### make basic animation
+
+```
+
+
+
+
+```
