@@ -4,8 +4,14 @@
 - ![[Pasted image 20260227192333.png|405]]
 - i and o to define range
 - shift I and shift O to shift between start and end of range to play
+- ![[Pasted image 20260301175932.png|369]]
+If you press + on the source monitor, and press "300" you move the timeline 3 sec forward, allowing you to then select your out as the top right bar is selected
+- shift z moves between previously zoom
+- shift middle mouse scroll increases height of video tracks
 
-# video 1 - introduction to editing  - https://www.blackmagicdesign.com/products/davinciresolve/training 27:29
+
+
+# video 1 - introduction to editing  - https://www.blackmagicdesign.com/products/davinciresolve/training 40:19
 
 ## On Media,
 
@@ -49,3 +55,8 @@ this zooms on the playhead
 
 ![[Pasted image 20260227191957.png]]
 
+![[Pasted image 20260301175932.png|459]]
+If you press + on the source monitor, and press "300" you move the timeline 3 sec forward, allowing you to then select your out as the top right bar is selected
+
+![[Pasted image 20260301180421.png]]
+you can set the height here
