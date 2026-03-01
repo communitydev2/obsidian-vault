@@ -1,5 +1,13 @@
 
-chapter 3
+### chapter 3 
+
+
+
+principle 1 - dont criticise, condemn or complain 
+
+principle 2 - give h
+
+- arouse in the other person an eager want
 ### example 1 - 
 criminal who was locked in an apartment, police saw him as ruthless, he saw himself as a kind person. 
 
