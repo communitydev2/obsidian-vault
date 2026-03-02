@@ -41,3 +41,16 @@ style={{ transform: `translateX(${rect0ffset}px)' }}
 
 
 ```
+
+### interpolate
+
+```
+const rectOffset = interpolate(
+frame,
+[0, videoConfig.durationInFrames-1 (first frame is 0)],
+[0, 500], {extrapolateRight:"clamp"} - makes sure animation stops where it should
+);
+```
+
+### spring animations
+

@@ -67,7 +67,7 @@ https://drdroid.io/stack-diagnosis/supabase-database-foreign-key-violation-error
 solution - 
 ### error: _lruCache is not a constructor
 
-reinstalled node modules
+reinstalled node modules, but if you're using yarn, need to do yarn install (and delete the lockfile)
 
 
 ### advertise android usb-mirror
