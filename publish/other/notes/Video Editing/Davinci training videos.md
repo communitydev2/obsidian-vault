@@ -60,3 +60,4 @@ If you press + on the source monitor, and press "300" you move the timeline 3 se
 
 ![[Pasted image 20260301180421.png]]
 you can set the height here
+
