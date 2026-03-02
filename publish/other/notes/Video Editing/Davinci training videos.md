@@ -1,5 +1,6 @@
 
 # shortcuts
+- . and , will add or remove a frame to a selected video in the timeline (super useful!)
 - shift s - silences audio preview when seeing the preview of videos
 - ![[Pasted image 20260227192333.png|405]]
 - i and o to define range
