@@ -1,7 +1,7 @@
 - sempre que quero acabar a relação tenho medo de sair, ela começa a lembrar me de tudo, dos anos que passaram, ahe eu nunca voubser feliz porque nunca estou satisfeito com nada, que ela não tem mais ninguém na vida dela, que o quarto para onde vou é frio, não tem comida. 
 - não acho que isto vai funcionar entre os dois
 - ela não quer ser afectiva, 
-- 2/3 - disse me que um dia vai se cansar de ser a pessoa a vir atrás de mim, que não pode sertsem
+- 2/3 - disse me que um dia vai se cansar de ser a pessoa a vir atrás de mim, que não pode ser sempre ela a s
 - sinto me culpado porque ela tem 41 anos, e se ela não ficar comigo, não vai ter filhos 
 - eka não me disse que era virgem quando começamos a namorar 
 - não me disse a idade quando começamos a namorar 
