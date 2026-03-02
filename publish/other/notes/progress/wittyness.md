@@ -1,0 +1,1 @@
+### this prompt worked well : need to practice wittyness, let's create a pub conversation, see if I can continue the banter

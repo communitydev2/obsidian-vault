@@ -1,4 +1,37 @@
 
+
+
+### upscope issue
+
+#### **Fetch** from all three mock services concurrently:
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
+
+
+
+
+### ai motion graphics
+
+Intro - in this video I will show you how ai currently handles motion graphics by using the same prompt across several services.
+
+I took a clock shot from a Motion Design reel by Balala, you can check out his reel in the video description (https://www.youtube.com/watch?v=wPnohSQBNlk).
+and asked several ai generation tools to animate it using the following instructions:
+
+-The animation begins with the white circle drawing itself clockwise as if traced by an invisible pen. 
+-Tick marks fade in sequentially with subtle easing.
+-The green centre pops in with a soft scale bounce. 
+-The minute hand sweeps smoothly clockwise at high speed while the hour hand follows proportionally.
+-Add subtle motion blur to the hands.
+-After one full rotation, the hands slow down and land precisely at 10:10.
+
+#### Sora
+
+Slow, even in lower format. Took about 20 minutes. Result is kinda subpar
+
+
+
+
+
 ### Argument of type 'any[]' is not assignable to parameter of type 'SetStateAction<never[]>'.
   Type 'any[]' is not assignable to type 'never[]'.
     Type 'any' is not assignable to type 'never'.

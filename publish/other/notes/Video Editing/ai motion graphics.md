@@ -1,5 +1,8 @@
 https://www.reddit.com/r/generativeAI/comments/1qrq2ks/hello_everyone_what_is_the_best_ai_video/
 
+
+
+
 ### prompt - Minimal flat 2D vector animation of a modern clock on a solid bright orange background. A thin white circular outline with evenly spaced tick marks. A small green circular centre hub. Two slim black clock hands. The animation begins with the white circle drawing itself clockwise as if traced by an invisible pen. Tick marks fade in sequentially with subtle easing. The green centre pops in with a soft scale bounce. The minute hand sweeps smoothly clockwise at high speed while the hour hand follows proportionally. Add subtle motion blur to the hands. After one full rotation, the hands slow down and land precisely at 10:10. Clean vector style, sharp edges, no texture, no gradients. Flat design, high contrast, smooth easing, loopable, 4 seconds, 60fps.
 
 #### Sora
@@ -51,3 +54,19 @@ can't find the right website
 #### colossyan.ai
 
 used to make presentations
+
+#### REVID.AI
+
+creates content for social media. looks to be with several options.
+
+tried prompt to video , ghibli style, 
+
+doesnt let you download unless you subscribe to pro, but so far my favourite
+
+
+#### imageeat
+
+no free option
+#### pixverse
+
+need to pay
