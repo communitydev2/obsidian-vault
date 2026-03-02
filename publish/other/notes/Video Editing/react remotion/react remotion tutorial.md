@@ -1,4 +1,4 @@
-#   31:08
+#   43:11
 https://www.youtube.com/watch?v=qlYhdO11EfQ
 ```
  npx create-video@latest
