@@ -1,7 +1,12 @@
-
+### 48:41
 # shortcuts
 - . and , will add or remove a frame to a selected video in the timeline (super useful!)
-- shift s - silences audio preview when seeing the preview of videos
+-  ![[Pasted image 20260302120407.png|124]]
+	- Up and down arrows moves between clips, 
+	- v selects edit point nearest to playhead
+	- U cycles through outgoing/centered/incoming  as seen in above screenshot
+	- shift s - silences audio preview when seeing the preview of videos
+	- Shift+Ctrl+[ for Trim Start to playhead
 - ![[Pasted image 20260227192333.png|405]]
 - i and o to define range
 - shift I and shift O to shift between start and end of range to play
@@ -12,7 +17,7 @@ If you press + on the source monitor, and press "300" you move the timeline 3 se
 
 
 
-# video 1 - introduction to editing  - https://www.blackmagicdesign.com/products/davinciresolve/training 40:19
+# video 1 - introduction to editing  - https://www.blackmagicdesign.com/products/davinciresolve/training 
 
 ## On Media,
 

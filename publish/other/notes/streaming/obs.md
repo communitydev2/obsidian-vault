@@ -139,4 +139,4 @@ C:\Program Files\OBS\plugins
   
   
 
-Opposite thinking - there's no point to working out - take your time, any exercise is better than none.
+Opposite thinking - there's no point to working out - take your time, any exercise is better than none. 
