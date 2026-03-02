@@ -1,4 +1,4 @@
-- sempre que quero acabar a relação tenho medo de sair
+- sempre que quero acabar a relação tenho medo de sair, ela começa a lembrar me de tudo, dos anos que passaram, ahe eu nunca voubser feliz porque nunca estou satisfeito com nada, que ela não tem mais ninguém na vida dela, que o q
 - não acho que isto vai funcionar entre os dois
 - ela não quer ser afectiva
 - sinto me culpado porque ela tem 41 anos, e se ela não ficar comigo, não vai ter filhos 
