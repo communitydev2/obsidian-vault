@@ -2,7 +2,8 @@
 - não acho que isto vai funcionar entre os dois
 - ela não quer ser afectiva, 
 - não tem palavra, sempre que combinamos uma coisa entre nós ela para de fazer pouco tempo depois (cozinhar), está sempre a culpar me de ser ela a aproximar se de mim 
-- sempre a culparme 
+- quer ser o homem na relação, não é flexível, age como um homem
+- 
 - 2/3 - disse me que um dia vai se cansar de ser a pessoa a vir atrás de mim, que não pode ser sempre ela a ser afetiva. 
 - sinto me culpado porque ela tem 41 anos, e se ela não ficar comigo, não vai ter filhos 
 - eka não me disse que era virgem quando começamos a namorar 
