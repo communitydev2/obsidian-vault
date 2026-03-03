@@ -15,4 +15,4 @@
 - sinto-me culpado, sinto me cobarde, sinto que é a minha culpa wue chegamos a esta situação por esta causa. 
 - sinto me culpado porque eu não me casei com ela na altura, ela não conseguiu o passaporte dela a tempo, e o oai dela faleceu 
 - depois da semana passada, durante dois dias ela estava a ser afetuosa, mas bastou eu dizer aue tinha coisas para fazer numa tarde, e embora já lhe disse imensas vezes para passarmos tempo juntos à noite. 
-- estou numa relação codependente, em que ela diz coisas como, não desistas de mim, em que eu estou subconscientemente à procura de alguém que seja inseguro, e é uma relação baseada em culpar um ao outro. Isto é a tua culpa, então ten
+- estou numa relação codependente, em que ela diz coisas como, não desistas de mim, em que eu estou subconscientemente à procura de alguém que seja inseguro, e é uma relação baseada em culpar um ao outro. Isto é a tua culpa, então tens de fazer x
