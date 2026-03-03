@@ -1,4 +1,8 @@
 
+- takeaway she takes 2 days to reply 
+- id really like ti see you again, but I like to spend time with people who are excited to see me, and I'm not getting my vibe. Take care. and she ended up replying! 
+
+
 ask her about her relationship with her dad, if she says bad things about her dad they're not worth it. 
 
 mistakes
