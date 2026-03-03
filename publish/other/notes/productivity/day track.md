@@ -1,4 +1,16 @@
 
+- 2/3/26 (no gym)
+	- started at 7h30
+	- streamed
+	- walked to library
+	- 15pm - did 10 mins of each task
+	- stayed till 15pm
+	- walked home and went shopping
+	- 16h30 went back
+	- started doing only 5 m of each task
+
+
+
 26/2/26
 
 Streamed from 5h30 till 8am

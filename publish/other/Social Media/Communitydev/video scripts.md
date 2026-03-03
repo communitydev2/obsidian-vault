@@ -1,18 +1,20 @@
 
 
 
-### upscope issue
+### #backendLearning upscope issue
 
 #### **Fetch** from all three mock services concurrently:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
 
+Promise.all rejects as soon as any request rejects, where as Promise.allSettled allows you to partially return healthy endpoints and throw errors. 
 
 
 
-### ai motion graphics
 
-Intro - in this video I will show you how ai currently handles motion graphics by using the same prompt across several services.
+###  #aiLearning ai motion graphics
+
+Intro - Motion graphics and ai?
 
 I took a clock shot from a Motion Design reel by Balala, you can check out his reel in the video description (https://www.youtube.com/watch?v=wPnohSQBNlk).
 and asked several ai generation tools to animate it using the following instructions:
@@ -24,9 +26,17 @@ and asked several ai generation tools to animate it using the following instruct
 -Add subtle motion blur to the hands.
 -After one full rotation, the hands slow down and land precisely at 10:10.
 
+
+
 #### Sora
 
 Slow, even in lower format. Took about 20 minutes. Result is kinda subpar
+
+tried extra image:
+
+```
+Flat 2D medieval-themed animated title card. Deep navy patterned background. Five colourful vertical banners hanging at the top, each with a different emblem: sun, crescent moon, trident symbol, mountain, and bird. Large bold cream-coloured text reading “KING OF THE CASTLE” in the centre, with the letter M stylised as a crown. Along the bottom, five illustrated medieval characters in profile facing toward the centre. The animation begins with subtle fabric movement in the banners as if blown by a gentle breeze. Emblems fade in with a soft glow. The title scales up slightly with smooth easing. The crown-shaped letter subtly shines with a light sweep. Characters blink and shift slightly to feel alive. Clean vector style, flat illustration, no texture noise, cinematic easing, 6 seconds, 60fps, seamless loop.
+```
 
 
 
@@ -37,7 +47,7 @@ Slow, even in lower format. Took about 20 minutes. Result is kinda subpar
     Type 'any' is not assignable to type 'never'.
 
 create type for thing
-### ERROR: 42830: there is no unique constraint matching given keys for referenced table "player_tcg_account"
+### #reactLearning ERROR: 42830: there is no unique constraint matching given keys for referenced table "player_tcg_account"
 
 
 
