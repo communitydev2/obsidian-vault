@@ -5,7 +5,7 @@
 - quer ser o homem na relação, não é flexível, age como um homem
 - no início de Fevereiro eu ia sair e dizer que quando ela quisesse por mais esforço, eu voltava, mas eu descobri que isso é algo manipulativo, e tentei mais uma vez
 - comecei a convidá-la para sair, para voltar a melhorar a relação, mas ela rejeitou sempre, e mesmo a convidá-la com antecedência ela rejeitou me no momento. no dia seguinte ela tratou me com frieza, eu estava cansado porque desdee há um ano, sempre que temos relações, depois, qualquer coisa que eu faça ela acusame de ser mau quando eu tenho o que quero 
-- no dia seguinte eu ia me embora, e ela tentou parar
+- no dia seguinte eu ia me embora, e ela tentou parar me, e dep
 - 2/3 - disse me que um dia vai se cansar de ser a pessoa a vir atrás de mim, que não pode ser sempre ela a ser afetiva. 
 - sinto me culpado porque ela tem 41 anos, e se ela não ficar comigo, não vai ter filhos 
 - eka não me disse que era virgem quando começamos a namorar 
