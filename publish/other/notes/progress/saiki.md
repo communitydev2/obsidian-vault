@@ -1,6 +1,11 @@
 - sempre que quero acabar a relação tenho medo de sair, ela começa a lembrar me de tudo, dos anos que passaram, ahe eu nunca voubser feliz porque nunca estou satisfeito com nada, que ela não tem mais ninguém na vida dela, que o quarto para onde vou é frio, não tem comida. 
 - não acho que isto vai funcionar entre os dois
 - ela não quer ser afectiva, 
+- não tem palavra, sempre que combinamos uma coisa entre nós ela para de fazer pouco tempo depois (cozinhar), está sempre a culpar me de ser ela a aproximar se de mim 
+- quer ser o homem na relação, não é flexível, age como um homem
+- no início de Fevereiro eu ia sair e dizer que quando ela quisesse por mais esforço, eu voltava, mas eu descobri que isso é algo manipulativo, e tentei mais uma vez
+- comecei a convidá-la para sair, para voltar a melhorar a relação, mas ela rejeitou sempre, e mesmo a convidá-la com antecedência ela rejeitou me no momento. no dia seguinte ela tratou me com frieza, eu estava cansado porque desdee há um ano, sempre que temos relações, depois, qualquer coisa que eu faça ela acusame de ser mau quando eu tenho o que quero 
+- no dia seguinte eu ia me embora, e ela tentou parar me, e depois de dizer wue não queria casarse comigo porque não tinha trabalho, agora é porque tem que esperar receber a herança. 
 - 2/3 - disse me que um dia vai se cansar de ser a pessoa a vir atrás de mim, que não pode ser sempre ela a ser afetiva. 
 - sinto me culpado porque ela tem 41 anos, e se ela não ficar comigo, não vai ter filhos 
 - eka não me disse que era virgem quando começamos a namorar 
