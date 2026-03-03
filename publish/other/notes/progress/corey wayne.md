@@ -1,4 +1,7 @@
 
+- 
+
+
 ask her about her relationship with her dad, if she says bad things about her dad they're not worth it. 
 
 mistakes
