@@ -1,4 +1,9 @@
 
+- what are they looking for
+- how many hours per week
+- what if I cant go to the college
+- 
+
 
 you need to slowly remove her. clothes. she'll offer resistance, but you need to calm down, then after a bit push a bit further. 
 
