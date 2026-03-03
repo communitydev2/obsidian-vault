@@ -1,5 +1,7 @@
-### 58:44
+### part2, 13:53
 # shortcuts
+- X - puts in and end point only on the selected clip
+- T - inside clip in timeline, drag left or right, get to the area you want without moving it.
 - shift + control + . or , will move the selected clip through the list of clips, without having to do manually with your mouse!!!!!
 - . and , will add or remove a frame to a selected video in the timeline (super useful!)
 -  ![[Pasted image 20260302120407.png|124]]
@@ -72,4 +74,8 @@ you can set the height here
 
 	- select clips in timeline, then right click - change clip duration, 5s ![[Pasted image 20260302172745.png]]
 
+
+
+
+# video 2 - Introducton to editing part 2 
 
