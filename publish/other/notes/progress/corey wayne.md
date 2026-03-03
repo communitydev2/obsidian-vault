@@ -1,6 +1,6 @@
 
 - takeaway she takes 2 days
-- id really like ti see you again, but I want ti go out
+- id really like ti see you again, but I like to spend time with people who are excited to spend time with me 
 
 
 ask her about her relationship with her dad, if she says bad things about her dad they're not worth it. 
