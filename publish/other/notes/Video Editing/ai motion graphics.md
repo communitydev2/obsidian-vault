@@ -18,7 +18,7 @@ can't use without paying
 can't use without paying 
 
 
-#### Kling
+#### Kling - https://app.klingai.com/global/user-assets/materials?ac=1
 
 managed to generate 1 video
 Interesting concept, but hands just hallucinate
