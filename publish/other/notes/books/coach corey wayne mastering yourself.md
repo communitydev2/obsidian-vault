@@ -10,3 +10,6 @@ So what you need to do is to take your to-do list and match it up to your list o
 
 
 Whether you’re an employee or an entrepreneur, your purpose at work is to add value. You’re either contributing value through a product or providing a service – this is what makes you worth employing. In order to reach your maximum earning potential, you need to make smart choices – ones that align to your natural talents, and your goals in life. You need to add as much value as you can. Just like the professional athlete, during your career trajectory you should always be looking for opportunities to grow, and develop your gifts, skills and talents. You have to develop your acquired skills in line with your natural talents. That also means that you want to work for someone who provides you with the right kind of opportunities to develop.
+
+Instead of giving up hope on ever getting a good job, you need to act instead as if you have plenty of options. Instead of calling and begging for a job, instead of meekly asking for them to give you the time or the opportunity, you need to take a completely different approach.
+
