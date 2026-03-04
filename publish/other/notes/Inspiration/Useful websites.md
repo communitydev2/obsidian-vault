@@ -24,3 +24,9 @@ https://nikoichu.itch.io/pixel-icons
 https://www.reddit.com/r/reactjs/comments/1o1iqxo/great_react_blogs/
 
 # Learning resources for programming 
+
+https://www.boot.dev?bannerlord=pablobfonseca
+https://app.codecrafters.io/r/talented-raven-616968
+https://exercism.io
+https://frontendmasters.com/
+
