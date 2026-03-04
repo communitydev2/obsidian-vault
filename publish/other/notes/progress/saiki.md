@@ -1,5 +1,26 @@
+- Resumindo
+	- namoramos meio ano
+	- começou a pedir para casar
+	- disse que tinhamos que estar mais tempo juntos
+	- antes do fim do segundo ano disse-lhe para casarmos
+	- não quis
+	- disse-lhe que só queria casar em religioso , não por civil
+	- tive de andar sempre a mudar de casa entretanto
+	- depois em 2024 tive de sair da casa dela (já depois de a pedir para casar) porque a família dela vinha visitar
+	- exigiu que casassemos civil tambem e deixou de ser afetiva
+	- cheguei ao fim da minha paciência 
+	- tentei sair da relacao
+	- voltei 
+	- ela mudou de atitute , tornou-se fria
+	- o pai dela falecei uns 10 meses depois
+	- senti-me culpado porque ela não tinha o passaporte ingles e eu nao me casei com ela, entao era a minha culpa
+	- ela perguntou,e de novo para casarmos, eu disse que nao porque ela não estava a por esforço nenhum
+	- quero uma vida diferente, tentei em setembro uma vez mais para casarmos, pondo tudo de parte do que se passava conosco, disse que nao porque só lhe peço para casar quando nao tenho trabalho, e não sabe como me vou comportar . então não quer
+	- este ano quero mudar de vida, tentei sair, mas em vez de sair, não tive coragem
 - sempre que quero acabar a relação tenho medo de sair, ela começa a lembrar me de tudo, dos anos que passaram, ahe eu nunca voubser feliz porque nunca estou satisfeito com nada, que ela não tem mais ninguém na vida dela, que o quarto para onde vou é frio, não tem comida. 
 - não acho que isto vai funcionar entre os dois
+- estou numa relação codependente, em que ela diz coisas como, não desistas de mim, em que eu estou subconscientemente à procura de alguém que seja inseguro, e é uma relação baseada em culpar um ao outro. Isto é a tua culpa, então tens de fazer x. 
+- sinto me culpado porque ela tem 41 anos, e se ela não ficar comigo, não vai ter filhos , vai estar sozinha neste país,
 - ela não quer ser afectiva, 
 - não tem palavra, sempre que combinamos uma coisa entre nós ela para de fazer pouco tempo depois (cozinhar), está sempre a culpar me de ser ela a aproximar se de mim 
 - quer ser o homem na relação, não é flexível, age como um homem
@@ -7,7 +28,6 @@
 - comecei a convidá-la para sair, para voltar a melhorar a relação, mas ela rejeitou sempre, e mesmo a convidá-la com antecedência ela rejeitou me no momento. no dia seguinte ela tratou me com frieza, eu estava cansado porque desdee há um ano, sempre que temos relações, depois, qualquer coisa que eu faça ela acusame de ser mau quando eu tenho o que quero 
 - no dia seguinte eu ia me embora, e ela tentou parar me, e depois de dizer wue não queria casarse comigo porque não tinha trabalho, agora é porque tem que esperar receber a herança. 
 - 2/3 - disse me que um dia vai se cansar de ser a pessoa a vir atrás de mim, que não pode ser sempre ela a ser afetiva. 
-- sinto me culpado porque ela tem 41 anos, e se ela não ficar comigo, não vai ter filhos 
 - eka não me disse que era virgem quando começamos a namorar 
 - não me disse a idade quando começamos a namorar 
 - sinto me culpado por a deixar depois de tanto tempo 
@@ -15,4 +35,3 @@
 - sinto-me culpado, sinto me cobarde, sinto que é a minha culpa wue chegamos a esta situação por esta causa. 
 - sinto me culpado porque eu não me casei com ela na altura, ela não conseguiu o passaporte dela a tempo, e o oai dela faleceu 
 - depois da semana passada, durante dois dias ela estava a ser afetuosa, mas bastou eu dizer aue tinha coisas para fazer numa tarde, e embora já lhe disse imensas vezes para passarmos tempo juntos à noite. 
-- estou numa relação codependente, em que ela diz coisas como, não desistas de mim, em que eu estou subconscientemente à procura de alguém que seja inseguro, e é uma relação baseada em culpar um ao outro. Isto é a tua culpa, então tens de fazer x. 
