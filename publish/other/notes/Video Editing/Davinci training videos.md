@@ -1,4 +1,4 @@
-### part2, 13:53
+### part2, 28:39
 # shortcuts
 - X - puts in and end point only on the selected clip
 - T - inside clip in timeline, drag left or right, get to the area you want without moving it.
@@ -79,3 +79,8 @@ you can set the height here
 
 # video 2 - Introducton to editing part 2 
 
+![[Pasted image 20260304113344.png|411]]
+
+He renamed all the tracks and adjusted the audio on the mixer without having to go through each individually.
+
+He also renamed the whole normalize tracks by selecting all the tracks and they normalize the **audio compared to each other**
