@@ -22,3 +22,5 @@ https://nikoichu.itch.io/pixel-icons
 # Inspiration React
 
 https://www.reddit.com/r/reactjs/comments/1o1iqxo/great_react_blogs/
+
+# Learning resources for programming 

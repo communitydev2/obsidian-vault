@@ -10,7 +10,44 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 Promise.all rejects as soon as any request rejects, where as Promise.allSettled allows you to partially return healthy endpoints and throw errors. 
 
+I need to do a 
 
+```
+app.get("/api/dashboard/:username", async (req, res, next) => {
+
+try{
+
+const {username} = req.params;
+
+  
+
+Promise.allSettled([
+
+  fetchUser(username),
+
+  fetchRepos(username),
+
+  fetchEvents(username),
+
+]);
+
+  
+
+res.json({
+
+  
+
+});
+
+}catch(err){
+
+  next(err);
+
+}
+```
+
+
+promise.allSettled allows for an iteration of promises, but is a promise a function? will look into what is exactly a promise
 
 
 ###  #aiLearning ai motion graphics
