@@ -17,6 +17,8 @@
 	- ela perguntou,e de novo para casarmos, eu disse que nao porque ela não estava a por esforço nenhum
 	- quero uma vida diferente, tentei em setembro uma vez mais para casarmos, pondo tudo de parte do que se passava conosco, disse que nao porque só lhe peço para casar quando nao tenho trabalho, e não sabe como me vou comportar . então não quer
 	- este ano quero mudar de vida, tentei sair, mas em vez de sair, não tive coragem
+- quero acabar porque
+	- é uma relação de (não fazes x (embora faça), mas quando peço coisas simples (como um café quando ela está a fazer, diz que não faço nada)
 - sempre que quero acabar a relação tenho medo de sair, ela começa a lembrar me de tudo, dos anos que passaram, ahe eu nunca voubser feliz porque nunca estou satisfeito com nada, que ela não tem mais ninguém na vida dela, que o quarto para onde vou é frio, não tem comida. 
 - não acho que isto vai funcionar entre os dois
 - estou numa relação codependente, em que ela diz coisas como, não desistas de mim, em que eu estou subconscientemente à procura de alguém que seja inseguro, e é uma relação baseada em culpar um ao outro. Isto é a tua culpa, então tens de fazer x. 
