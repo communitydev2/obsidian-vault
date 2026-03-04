@@ -20,8 +20,8 @@
 - ikehs - nope
 - rduLIVE - nope
 - danehearth - nope
-- superJJ - 
-- zetalot - 
+- superJJ - nope
+- zetalot - nope 
 - shadybunny - ask another time
 - ixxdee - answered, but uses nothing
 - zhotan - nah
