@@ -22,3 +22,4 @@ In mantine in the default value is a string as seen in the documentation and how
 
 I realise that if I remove the value prop then it works properly the only problem is that there's no default value at start and at mount of the object What I can try is to find if there's a prop for on mount and to set the value automatically otherwise I will not spend more time on it
 
+currently I have no control on the Youtube default controls inside the video So if I press pause it doesn't pause if I put mute audio it doesn't mute the audio So I'd like the user to be able to control those video controls
