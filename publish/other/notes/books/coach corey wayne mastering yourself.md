@@ -13,3 +13,4 @@ Whether you’re an employee or an entrepreneur, your purpose at work is to add 
 
 Instead of giving up hope on ever getting a good job, you need to act instead as if you have plenty of options. Instead of calling and begging for a job, instead of meekly asking for them to give you the time or the opportunity, you need to take a completely different approach.
 
+Scarcity creates value. If the person doing the hiring feels that you’re in demand, and feels that other companies might snatch you up before he gets the chance, it’s going to play on his subconscious mind. It has the same emotional and psychological effect as a ‘limited time offer’ that you see used in many advertisements.
