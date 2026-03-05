@@ -1,3 +1,23 @@
+
+## instal Zoom to cursor
+
+go https://github.com/BlankSourceCode/obs-zoom-to-mouse/releases
+
+download obs-to-zoom-mouse.lua
+
+put the file in
+
+C:\Program Files\obs-studio\data\obs-plugins\frontend-tools\scripts
+
+
+in Obs go to tools, scripts 
+
+![[Pasted image 20260305112056.png]]
+
+
+make you sure you set display capture in zoom source
+
+
 ## Non processor heavy laptop:
 - ![[Pasted image 20260228165920.png]]
 - Video
