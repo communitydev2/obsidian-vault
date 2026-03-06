@@ -1,3 +1,11 @@
+## set up twitch streak leaderboard in StreamBot
+
+Global Variables, right click, add
+
+
+
+
+
 
 ## instal Zoom to cursor
 
