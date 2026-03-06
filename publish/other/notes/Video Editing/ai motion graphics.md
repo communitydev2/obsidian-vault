@@ -22,9 +22,6 @@ managed to generate 1 video
 Interesting concept, but hands just hallucinate
 
 
-#### **InVideo AI** (deevid ai)
-
-let me generate
 
 #### **HeyGen**
 
@@ -37,6 +34,11 @@ creates content for social media. looks to be with several options.
 tried prompt to video , ghibli style, 
 
 doesnt let you download unless you subscribe to pro, but so far my favourite
+
+#### pixverse
+
+generated something
+
 
 
 ### Paid
@@ -77,6 +79,3 @@ used to make presentations
 #### imageeat
 
 no free option
-#### pixverse
-
-need to pay
