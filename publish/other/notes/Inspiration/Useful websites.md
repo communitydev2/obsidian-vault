@@ -30,3 +30,6 @@ https://app.codecrafters.io/r/talented-raven-616968
 https://exercism.io
 https://frontendmasters.com/
 
+# Apps
+
+https://libresprite.github.io/#!/ - sprites
