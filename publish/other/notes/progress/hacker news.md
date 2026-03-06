@@ -1,6 +1,6 @@
 
 
-
+https://help.obsidian.md/sync/headless
 ### https://www.sciencedaily.com/releases/2026/02/260227071922.htm
 
 ### https://blog.replit.com/browsers-dont-want-to-be-cameras
