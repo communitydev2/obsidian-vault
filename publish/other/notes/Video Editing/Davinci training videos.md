@@ -100,5 +100,8 @@ This makes a nice dissolve
 They suggest to do these settings above
 ![[Pasted image 20260306093154.png|271]]
 
-Y chart represents luminance of waveform, and it displays the levels of luminance from left to right of the current shot , according to the image information from left to right.
+Y chart represents luminance of waveform, and it displays the levels of luminance from left to right of the current shot , according to the image information from left to right too.
 
+![[Pasted image 20260306093911.png|471]]
+
+She looked at the brightest object in the scene, which is the fing
