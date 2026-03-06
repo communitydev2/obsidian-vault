@@ -9,6 +9,7 @@ put the file in
 
 C:\Program Files\obs-studio\data\obs-plugins\frontend-tools\scripts
 
+It only works if you're sharing an entire screen.
 
 in Obs go to tools, scripts 
 
