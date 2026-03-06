@@ -1,6 +1,14 @@
 ## set up twitch streak leaderboard in StreamBot
 
-Global Variables, right click, add
+- Add a action named Track Attendance 
+- Sub - action
+	- right click - add - core - logic - if / else
+	- ![[Pasted image 20260306174637.png|379]]
+	- on the true result , add a core - globals - globals (set)
+	- ![[Pasted image 20260306174819.png|431]]
+	- after that, add a core - globals - globals (get) and add it 
+	- ![[Pasted image 20260306175055.png|393]]
+	- this get is outside the if ![[Pasted image 20260306175116.png]]
 
 
 
