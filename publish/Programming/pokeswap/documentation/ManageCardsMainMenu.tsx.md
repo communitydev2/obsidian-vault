@@ -8,6 +8,8 @@
 
 in the end the solution I managed to find was to set the category options to an object and attribute different arrays onto it It's important to understand that maintain only takes in string values for the drop downs and therefore if you try and do anything else it will just throw an error the way I found it to work was to create a use state with the default value already input onto it through using combo box and then setting that value inside its grouping operator and also adding the default value on select as the default valley which then will set that up if you try and set the use state to null it will not work that way.
 
+
+
  
 
 ##  #reactError Maximum update depth exceeded.
