@@ -8,9 +8,13 @@
 	- ![[Pasted image 20260306174819.png|431]]
 	- after that, add a core - globals - globals (get) and add it 
 	- ![[Pasted image 20260306175055.png|393]]
-	- this get is outside the if ![[Pasted image 20260306175116.png]]
+	- this get is outside the if ![[Pasted image 20260306175116.png|541]]
+	- Add a Action called reset Daily Attendance
+		- Add a sub action globals (set)
+		- ![[Pasted image 20260306175735.png|520]]
 
-
+- On Reset Daily Attendance, in Actions
+	- Add Triggers - Twitch - channel - stream online
 
 
 
