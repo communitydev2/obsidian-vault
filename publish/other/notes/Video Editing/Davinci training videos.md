@@ -90,6 +90,9 @@ He also renamed the whole normalize tracks by selecting all the tracks and they 
 This makes a nice dissolve
 
 
-### Introduction to color 
+# Introduction to color 
 
 ![[Pasted image 20260305111236.png|111]]Resets layout
+
+
+
