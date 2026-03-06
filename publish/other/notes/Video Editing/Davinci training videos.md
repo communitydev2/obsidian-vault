@@ -1,4 +1,4 @@
-### part2, 5:14
+### part2, 16:26
 # shortcuts
 - X - puts in and end point only on the selected clip
 - T - inside clip in timeline, drag left or right, get to the area you want without moving it.
@@ -104,4 +104,4 @@ Y chart represents luminance of waveform, and it displays the levels of luminanc
 
 ![[Pasted image 20260306093911.png|471]]
 
-She looked at the brightest object in the scene, which is the fing
+She looked at the brightest object in the scene, which is the finger, which is displayed on the bottom left in the waveform, and it's at 75%, so she balanced it from it,
