@@ -21,11 +21,8 @@ clock time marks were correct, sound, somehow it has a smooth clock hand movemen
 managed to generate 1 video
 Interesting concept, but hands just hallucinate
 
-#### Runway gen 4.5
 
-can't use without paying 
-
-#### **InVideo AI**
+#### **InVideo AI** (deevid ai)
 
 let me generate
 
@@ -43,6 +40,11 @@ doesnt let you download unless you subscribe to pro, but so far my favourite
 
 
 ### Paid
+
+#### Runway gen 4.5
+
+can't use without paying 
+
 
 #### Veo 3.1 
 
