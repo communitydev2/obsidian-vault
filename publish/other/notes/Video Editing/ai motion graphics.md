@@ -39,7 +39,7 @@ doesnt let you download unless you subscribe to pro, but so far my favourite
 
 generated something
 
-
+rewards daily users with some credits
 
 ### Paid
 
