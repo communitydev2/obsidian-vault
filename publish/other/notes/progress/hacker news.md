@@ -1,4 +1,8 @@
+https://acid.vegas/blog/the-shady-world-of-ip-leasing/
 
+https://github.com/golang/go/issues/62026
+
+https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers
 
 https://help.obsidian.md/sync/headless
 ### https://www.sciencedaily.com/releases/2026/02/260227071922.htm
