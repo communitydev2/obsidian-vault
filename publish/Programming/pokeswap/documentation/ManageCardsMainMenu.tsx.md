@@ -1,6 +1,123 @@
 
+## Component Names and functionality
 
-## LanguageDropdown #reactLearning 
+- Add Cards Menu - ![[Pasted image 20260307083050.png|138]]
+- 
+
+
+
+
+## TCG Dropdown (Mantine Select with fetch value  ) #reactLearning 
+
+- for this specific example I am fetching information for the ID and username of each account so I can then display it on a dropdown 
+- this is being done on a useEffect And what does that mean it means that essentially I have to fetch the value and when I fetch the value I can't call on the use state yet 
+- It means also that then I have to set all of the necessary use states for the dropdown at the same time that I'm setting all the other ones 
+- if I'm setting anything on usestate where I'm fetching the data I also need to set all the necessary use states on the use effect for my dropdown
+
+```
+
+  useEffect(() => {
+
+      async function getTcgAccounts() {
+
+        setLoading(true)
+
+        const user  = useAuthStoreWrapper.user?.user_id
+
+        // console.log(session)
+
+  
+
+        const { data, error } = await supabase
+
+          .from('player_tcg_account')
+
+          .select("*")
+
+          .eq('user_id',user)
+
+  
+
+  
+
+        // let { data, error } = await supabase
+
+        //   .from('user_account')
+
+        //   .select(`username`)
+
+        //   .eq('user_id', user.id)
+
+        //   .single()
+
+  
+
+        if (error) {
+
+          console.warn(error)
+
+        } else if (data) {
+
+          // console.log(data.map((v,i,a)=> `${v.tcg_id_username} | ${v.tcg_id}`))
+
+          setHasTcgAccounts(data.length>0);
+
+          setTcgAccounts(data);
+
+          setComboData_accountUsernames(data.map((v,i,a)=> `${v.tcg_id_username} | ${v.tcg_id}`))
+
+          setSelectedTcgAccount(data.map((v,i,a)=> `${v.tcg_id_username} | ${v.tcg_id}`)[0])
+
+
+
+          // setUsername(data[0])
+
+        }
+
+  
+
+        setLoading(false)
+
+      }
+
+        getTcgAccounts()
+
+  
+
+    }, [])
+
+
+
+
+function TcgAccountDropdown() {
+
+
+  
+
+  return (
+
+    <Select
+
+      label={useLocStore.localizationArray[1]}
+
+      placeholder={useLocStore.localizationArray[2]}
+
+      data={comboData_accountUsernames}
+
+      value={selectedTcgAccount}
+
+      onChange={setSelectedTcgAccount}
+
+    />
+
+  );
+
+}
+
+
+```
+
+## LanguageDropdown (just pre set values) #reactLearning 
 
 
 
@@ -95,10 +212,5 @@ Solution - set it once (inside an onChange or onClick)
 
 
 
-## Card Category Drop down
 
-In mantine in the default value is a string as seen in the documentation and however whenever I try and select the value 0 on the table it just returns null and I have no idea why this is doing that and so I am now looking into it
 
-I realise that if I remove the value prop then it works properly the only problem is that there's no default value at start and at mount of the object What I can try is to find if there's a prop for on mount and to set the value automatically otherwise I will not spend more time on it
-
-currently I have no control on the Youtube default controls inside the video So if I press pause it doesn't pause if I put mute audio it doesn't mute the audio So I'd like the user to be able to control those video controls
